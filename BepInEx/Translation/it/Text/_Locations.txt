@@ -1,0 +1,23 @@
+TUTORIAL
+Casino=Casinò
+Home=Casa
+The Velvet Room=Stanza di Velluto
+Metaverse=Metaverso
+
+SCHOOL
+Kokatsu Academy=Accademia Kokatsu
+1F Hallway=Corridoio 1P
+2F Hallway=Corridoio 2P
+3F Hallway=Corridoio 3P
+Rooftop=Tetto
+Room 2-C=Aula 2-C
+
+YONGEN-JAYA
+Backstreets=Vicoli
+
+SHIBUYA
+Arcade=Gigolo di Shibuya
+
+HOME
+Living Room=Soggiorno
+Bedroom=Camera tua

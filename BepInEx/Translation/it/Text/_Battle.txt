@@ -1,0 +1,70 @@
+﻿COMMON
+Single-Target=Bersaglio singolo
+Multi-Target=Bersaglio multiplo
+Highlight=Assolo
+5 Turns=5 turni
+End Game=End Game
+
+
+MOVESET
+
+Agi=Agi
+Agilao=Agilao
+Agidyne=Agidyne
+Maragi=Maragi
+Maragilao=Maragilao
+Maragidyne=Maragidyne
+
+Garu=Garu
+Garula=Garula
+Garudyne=Garudyne
+Magaru=Magaru
+Magarula=Magarula
+Magarudyn=Magarudyne
+
+Zio=Zio
+Zionga=Zionga
+Ziodyne=Ziodyne
+Mazio=Mazio
+Mazionga=Mazionga
+Maziodyne=Maziodyne
+
+Bufu=Bufu
+Bufula=Bufula
+Bufudyne=Bufudyne
+Mabufu=Mabufu
+Mabufula=Mabufula
+Mabufudyne=Mabufudyne
+
+Frei=Frei
+Freila=Freila
+Freidyne=Freidyne
+Mafrei=Mafrei
+Mafreila=Mafreila
+Mafreidyne=Mafreidyne
+
+Psi=Psi
+Psio=Psio
+Psiodyne=Psiodyne
+Mapsi=Mapsi
+Mapsio=Mapsio
+Mapsiodyne=Mapsiodyne
+
+
+JOKER
+W<color\=#000000>i</color>ll of Rebellion=W<color\=#000000>i</color>ll of Rebellion
+
+Arsène=Arsène
+
+Curse dmg to all foes. Gain 1 Will of Rebellion.=DMG da Maledizione a tutti i nemici. Ottieni 1 volontà di ribellione.
+
+Trickster's Plunder=Saccheggio del Trickster
+Curse dmg to all foes. Chance to inflict Curse. Gain 1 Will of Rebellion.=DMG da Maledizione a tutti i nemici. Possibilità d'infliggere Maledizione. Ottieni 1 Volontà di Ribellione.
+
+Phantom Omen=Presagio Fantasma
+Curse dmg to 1 foe. If 1 foe is present, gain 2 Will of Rebellion.=DMG da Maledizione a un nemico. Se c'è un solo nemico, ottieni 2 Volontà di Ribellione.
+
+Arsène's Chains=Catene di Arsène
+Curse dmg to all foes. Increase dmg on Extra Action. Increase dmg when foe has debuff.=DMG da Maledizione a tutti i nemici. Aumenta il DMG da Staffetta e quando il nemico ha un malus.
+
+

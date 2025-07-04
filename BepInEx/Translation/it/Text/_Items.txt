@@ -1,0 +1,314 @@
+Cognition Crystals=Cristalli Cognitivi
+Meta Jewels=Meta Gioielli
+Meta Jewels\nCan be used for Contracts, Arms Deals, and recovering stamina.=Meta Gioielli\nPossono essere usati per i Contratti, Affari d'Armi e recupero d'energia.
+Gold Ticket=Biglietto Dorato
+Platinum Ticket=Biglietto Platino
+Platinum Milicoin=Milimoneta Platino
+Milicoin Set=Milimoneta Set
+Wingbeat Coin=Moneta Battiali
+
+Material=Materiale
+
+MATERIALI POTENZIAMENTO
+Konpaku Gem=Gemma Konpaku
+Thief Compendium Volume=Volume Compendium del ladro
+Grants 1,000 EXP to an ally.=Fornisce 1.000 EXP a un alleato.
+Thief Compendium Tome=Tomo Compendium del ladro
+Anecdote Cube=Cubo aneddoto
+Silver Parts=Parti d'argento
+Gold Parts=Parti dorate
+Skill Incense S=Incenso Abilità S
+
+Get Now=Ottieni ora 
+Unlocks at level     =Sblocca al livello     
+
+CIBO E BEVANDE
+
+Peach Water=Acqua di pesca
+Plum Juice=Succo di prugna
+Fruit Juice=Succo di frutta
+Vegetable Juice=Succo vegetale
+Tiger Tea=Tè tigre
+Premium Shake=Milkshake premium
+Orange Soda=Soda all'arancia
+Salted Lemonade=Limonata salata
+Pickle Ramune=Ramune ai cetrioli
+Vitamin Drink Set=Set di bevande vitaminiche
+Retro Ramune Set=Set retrò Ramune
+Mineral Water=Acqua minerale
+Yogurt Soda=Soda allo yogurt
+
+Can be used in the Metaverse.\nFor 2 battles, restore party's SP by 2% at the start of each turn. (When used.)=Può essere usato nel metaverso. Per 2 battaglie, ripristina gli SP del gruppo del 2% all'inizio di ogni turno.
+Can be used in the Metaverse.\nFor 3 battles, restore party's SP by 2% at the start of each turn. (When used.)=Può essere usato nel metaverso. Per 3 battaglie, ripristina gli SP del gruppo del 2% all'inizio di ogni turno.
+Can be used in the Metaverse.\nFor 5 battles, restore party's SP by 2% at the start of each turn. (When used.)=Può essere usato nel metaverso. Per 5 battaglie, ripristina gli SP del gruppo del 2% all'inizio di ogni turno.
+Base Synergy +4, with an extra +4 for preferred gifts, with an extra +8 for first-time preferred gifts.=Sinergia di base +4, con un +4 extra per regali preferiti, con un ulteriore +8 per i regali preferiti fatti per la prima volta.
+
+Can increase Synergy levels with an accomplice.=Può aumentare i livelli di sinergia con un alleato.
+
+
+
+
+YONGEN-JAYA'S SUPERMARKET
+
+Rice=Riso
+Flour=Farina
+Eggs=Uova
+Sugar=Zucchero
+Soy Sauce=Salsa di soia
+Vinegar=Aceto
+Leek=Cipollotto
+Garlic=Aglio
+Milk=Latte
+Mung Beans=Fagioli mung
+Miso=Miso
+Wasabi=Wasabi
+Tofu=Tofu
+Glutinous Rice=Riso glutinoso
+Azuki Beans=Fagioli azuki
+Curry Roux=Curry Roux
+Matcha=Matcha
+Almonds=Mandorle
+Luxury Chinese Tea=Tè cinese di lusso
+Shaoxing Wine=Vino di Shaoxing
+Lychee=Litchi
+Part-time Job Magazine=Rivista di lavoro part-time
+Worldly Cup Noodle Set=Set coppa mondiale di noodle
+Super Muramasa=Super Muramasa
+Sea Cucumber=Cetriolo marino
+Sea Bass=Spigola
+Rockfish=Sebastes
+Shrimp=Gamberetto
+Crucian Carp=Carassio
+Salmon=Salmone
+Caviar=Caviale
+Eel=Anguilla
+
+Used to cook in your home kitchen.=Usato come ingrediente per la cucina.
+Tomoko Noge might like this present.\nBase Synergy +2, with an extra +2 for preferred gifts, with an extra +4 for first-time preferred gifts.=Tomoko Noge potrebbe apprezzare questo regalo. Sinergia di base +2, con un +2 extra per i regali preferiti, con un ulteriore +4 per i regali preferiti regalati per la prima volta.
+Base Synergy +9, with an extra +9 for preferred gifts, with an extra +18 for first-time preferred gifts.=Sinergia di base +9, con un +9 extra per i regali preferiti, con un +18 extra per i regali preferiti regalati per la prima volta.
+
+YONGEN-JAYA'S SECONDHAND SHOP
+
+Aluminum Sheet=Foglio di alluminio
+Plastic=Plastica
+White Phosphorus=Fosforo bianco
+Mercury=Mercurio
+Copper Sheet=Foglio di rame
+Rubber=Gomma
+Aromatics=Erbe aromatiche
+Ethanol=Etanolo
+Metal Powder=Polvere di metallo
+Moissanite=Moissanite
+Iron Sheet=Foglio di ferro
+Pearl Powder=Polvere di perle
+Blank Talisman=Talismano vuoto
+Activated Charcoal=Carbone attivo
+Red Paint=Vernice rossa
+Red Phosphorus=Fosforo rosso
+Stabilizer=Stabilizzatore
+Pink Paint=Vernice rosa
+Blue Paint=Vernice blu
+Green Paint=Vernice verde
+Yellow Paint=Vernice gialla
+Gold Paint=Vernice dorata
+Orange Paint=Vernice arancione
+Cinnabar=Cinabro
+Red Ore=Minerale rosso
+Retro Game Console=Console di gioco retrò
+Carbon Steel=Acciaio al carbonio
+Shakudo=Shakudo
+Ink=Inchiostro
+Tempered Glass=Vetro temperato
+Amber Glass=Vetro ambra
+Faux Pearl=Perla d'imitazione
+
+Used to craft Grappling Hooks and Lockpicks at the workbench.=Utilizzato per creare rampini e grimaldelli sul banco da lavoro.
+Used to craft Destructive Firecrackers and Triple-Sealed Charms at the workbench.=Utilizzato per creare petardi distruttivi e amuleti sul banco da lavoro.
+Used to craft Lockpicks, Destructive Firecrackers, and Vengeance Charms at the workbench.=Utilizzato per creare grimaldelli, petardi distruttivi e amuleti vendicativi presso il banco di lavoro.
+Used to craft Calming Aromas, Elemental Firecrackers, Mystery Firecrackers, Gale Charms, and Frost Charms at the workbench.=Utilizzato per creare aromi calmanti, petardi elementali, petardi misteriosi, amuleti di vento e ghiaccio sul banco da lavoro.
+Used to craft Mystery Firecrackers, Atomic Charms, and Devilish Charms at the workbench.=Utilizzato per creare petardi misteriosi, amuleti nucleari e amuleti maledetti sul banco da lavoro.
+Used to craft Blaze Charms and Burning Bells at the workbench.=Utilizzato per creare amuleti di fuoco e campane ardenti sul banco da lavoro.
+Used to craft Lockpicks, Destructive Firecrackers, and Vengeance Charms at the workbench.=Utilizzato per creare lucchetti, petardi distruttivi e amuleti vendicativi presso il banco di lavoro.
+Used to craft Hypno Mist, Elemental Firecrackers, Blaze Charms, and Storm Charms at the workbench.=Utilizzato per creare Hypno Mist, petardi elementali, incantesimi di fiamma e tempi di tempesta sul banco di lavoro.
+Used to craft Illusion Bells and Thermodynamic Bells at the workbench.=Utilizzato per creare campane illusionistiche e termodinamiche sul banco da lavoro.
+Used to craft Icy Bells and Shocking Bells at the workbench.=Utilizzato per creare campane ghiacciate ed elettriche sul banco da lavoro.
+Used to craft Bludgeoning Bells and Bullet Bells at the workbench.=Utilizzato per creare campane contundenti e campane proiettile sul banco da lavoro.
+Used to craft Atomic Charms and Thermodynamic Bells at the workbench.=Utilizzato per creare amuleti nucleari e campane termodinamiche sul banco da lavoro.
+Used to craft Golden Fortune Charms and Prayer Bells at the workbench.=Utilizzato per creare amuleti divinatori dorati e campane sacre sul banco da lavoro.
+Used to craft Prayer Bells and Disenchant Bells at the workbench.=Utilizzato per creare campane sacre e disincantanti sul banco da lavoro.
+Used to craft Calming Aromas at the workbench.=Utilizzato per creare aromi calmanti sul banco da lavoro.
+Used to craft Hypno Mist at the workbench.=Utilizzato per creare della nebbia ipnotica sul banco da lavoro.
+Used to craft Hypno Mist, Elemental Firecrackers, Blaze Charms, and Storm Charms at the workbench.=Utilizzato per creare nebbia ipnotica, petardi elementali, amuleti ardenti e tempestosi sul banco da lavoro.
+Used to craft Lockpicks at the workbench.=Utilizzato per creare grimaldelli sul banco da lavoro.
+Used to craft all Charms at the workbench.=Utilizzato per creare tutti gli incantesimi sul banco da lavoro.
+Used to craft Hypno Mist, Illusion Bells, and Thermodynamic Bells at the workbench.=Utilizzato per creare nebbia ipnotica, campane illusionistiche e termodinamiche sul banco da lavoro.
+Used to craft Lust Treasure Detectors and Vanity Treasure Detectors at the workbench.=Utilizzato per creare rilevatori di tesoro di lussuria e vanità sul banco da lavoro.
+Used to craft Windswept Bells and Burning Bells at the workbench.=Utilizzato per creare campane ventose e ardenti sul banco da lavoro.
+Used to craft Devilish Charms and Disenchant Bells at the workbench.=Utilizzato per creare ciondoli maledetti e campane disincantanti sul banco da lavoro.
+Used to craft Bludgeoning Bells, Bullet Bells, and Lust Treasure Detectors at the workbench.=Utilizzato per creare campane contundenti, campane proiettili e rilevatori di tesori di lussuria sul banco da lavoro.
+Used to craft Calming Aromas, Windswept Bells, Burning Bells, Icy Bells, and Shocking Bells at the workbench.=Utilizzato per creare aromi calmanti, campane ventose, campane ardenti, campane ghiacciate e campane scioccanti sul banco da lavoro.
+Used to craft Prayer Bells, Disenchant Bells, and Vanity Treasure Detectors at the workbench.=Utilizzato per creare campane sacre, campane disincantanti e rilevatori di tesori di vanità sul banco di lavoro.
+Used to craft Bludgeoning Bells, Bullet Bells, and Lust Treasure Detectors at the workbench.=Utilizzato per creare campane contundenti, campane proiettili e rilevatori di tesori di lussuria sul banco da lavoro.
+Used to craft Calming Aromas, Windswept Bells, Burning Bells, Icy Bells, and Shocking Bells at the workbench.=Utilizzato per creare aromi calmanti, campane ventose, campane ardenti, campane ghiacciate e campane scioccanti sul banco da lavoro.
+Used to craft Prayer Bells, Disenchant Bells, and Vanity Treasure Detectors at the workbench.=Utilizzato per creare campane sacre, campane disincantanti e rilevatori di tesori di vanità sul banco da lavoro.
+Used to craft Storm Charms and Shocking Bells at the workbench.=Utilizzato per creare fascino di tempesta e campane scioccanti sul banco da lavoro.
+Used to craft Frost Charms and Icy Bells at the workbench.=Utilizzato per creare amuleti gelidi e campane ghiacciate sul banco da lavoro.
+Used to craft Gale Charms and Windswept Bells at the workbench.=Utilizzato per creare amuleti di burrasca e campane spazzate dal vento sul banco da lavoro.
+Used to craft Triple-Sealed Charms and Bullet Bells at the workbench.=Utilizzato per creare amuleti e campane da proiettile sul banco da lavoro.
+Used to craft Vengeance Charms and Bludgeoning Bells at the workbench.=Utilizzato per creare ciondoli vendicativi e campane contundenti sul banco da lavoro.
+Used to craft Nightmare Charms and Illusion Bells at the workbench.=Utilizzato per creare amuleti da incubo e campane di illusione sul banco da lavoro.
+Used to craft Nightmare Charms and Golden Fortune Charms at the workbench.=Utilizzato per creare amuleti da incubo e amuleti divinatori dorati sul banco da lavoro.
+
+SCHOOL STORE
+Sandwich=Sandwich
+Can be used in the Metaverse.\nRestores 9.6% of max HP to party. (When used.)=Può essere utilizzato nel metaverso. Ripristina il 9,6% degli HP massimi del gruppo.
+Yakisoba Pan=Yakisoba Pan
+Jam Bread=Pane e marmellata
+Can be used in the Metaverse.\nRestores 14.4% of max HP to party. (When used.)=Può essere utilizzato nel metaverso. Ripristina il 14,4% degli HP massimi del gruppo.
+Melon Pan=Melon Pan
+Can be used in the Metaverse.\nRestores 19.2% of max HP to party. (When used.)=Può essere utilizzato nel metaverso. Ripristina il 19,2% degli HP massimi del gruppo.
+
+ZOSHIGAYA
+Zoshigaya Mart=Mercato di Zoshigaya
+Napa Cabbage=Napa Cavolo
+Winter Melon=Melone invernale
+Potato=Patata
+Cabbage=Cavolo
+[Cabbage]\nUsed as an ingredient when cooking in your home kitchen.=Usato come ingrediente per la cucina.
+Pork=Maiale
+Shiitake Mushrooms=Fungo shiitake
+Chicken=Pollo
+Onion=Cipolla
+Beef=Manzo
+Tomato=Pomodoro
+Mixed Nuts=Noci miste
+Character Apron=Grembiule da personaggio
+Sports Cap=Cappello sportivo
+Baseball Team Mascot Bear=Orso mascotte squadra di baseball
+Kitchen Goods Set=Set di prodotti da cucina
+ChocoStick Value Pack=Pacchetto convenienza ChocoStick
+Japanese Sweets Sets=Set di dolci giapponesi
+Leather Pen Case=Custodia penna in pelle
+High-Capacity Thermos=Thermos ad alta capacità
+Club Soda=Club soda
+Dark Green Medley=Medley verde scuro
+
+[Winter Melon]\nUsed as an ingredient when cooking in your home kitchen.=Usato come ingrediente per la cucina.
+[Napa Cabbage]\nUsed as an ingredient when cooking in your home kitchen.=Usato come ingrediente per la cucina.
+[Potato]\nUsed as an ingredient when cooking in your home kitchen.=Usato come ingrediente per la cucina.
+[Onion]\nUsed as an ingredient when cooking in your home kitchen.=Usato come ingrediente per la cucina.
+[Tomato]\nUsed as an ingredient when cooking in your home kitchen.=Usato come ingrediente per la cucina.
+Yaoling Li might like this present.\nBase Synergy +7, with an extra +7 for preferred gifts, with an extra +14 for first-time preferred gifts.=Yaooling Li potrebbe gradire questo regalo.\nSinergia di base +7, con un +7 extra per regali preferiti, con un ulteriore +14 per i regali preferiti fatti per la prima volta.
+Base Synergy +8, with an extra +8 for preferred gifts, with an extra +16 for first-time preferred gifts.=Sinergia di base +8, con un +8 extra per regali preferiti, con un ulteriore +16 per i regali preferiti fatti per la prima volta.
+Base Synergy +7, with an extra +7 for preferred gifts, with an extra +14 for first-time preferred gifts.=Sinergia di base +7, con un +7 extra per regali preferiti, con un ulteriore +14 per i regali preferiti fatti per la prima volta.
+Yaoling Li might like this present.\nBase Synergy +10, with an extra +10 for preferred gifts, with an extra +20 for first-time preferred gifts.=Yaooling Li potrebbe gradire questo regalo.\nSinergia di base +10, con un +10 extra per regali preferiti, con un ulteriore +20 per i regali preferiti fatti per la prima volta.
+Tomoko Noge might like this present.\nBase Synergy +12, with an extra +12 for preferred gifts, with an extra +24 for first-time preferred gifts.=Tomoko Noge potrebbe gradire questo regalo.\nSinergia di base +12, con un +12 extra per regali preferiti, con un ulteriore +24 per i regali preferiti fatti per la prima volta.
+Base Synergy +12, with an extra +12 for preferred gifts, with an extra +24 for first-time preferred gifts.=Sinergia di base +12, con un +12 extra per regali preferiti, con un ulteriore +24 per i regali preferiti fatti per la prima volta.
+Base Synergy +15, with an extra +15 for preferred gifts, with an extra +30 for first-time preferred gifts.=Sinergia di base +15, con un +15 extra per regali preferiti, con un ulteriore +30 per i regali preferiti fatti per la prima volta.
+
+SHIBUYA'S BOOKSTORE
+Taiheido Bookstore=Libreria Taiheido
+Dance of Vengeance=Danza della Vendetta
+Rosina's Engagement=L'Impegno di Rosina
+Charisma 101=Carisma 101
+Suspect Y's Sacrifice=Il Sacrificio del Sospettato Y.
+Comprehensive Yoga=Guida Completa allo Yoga
+Apathy in the Modern Age=Apatia nell'Era Moderna
+Mirika the Witch=Mirika la Strega
+Queen of the Seas=Regina dei mari
+All about Skytree=Tutto sulla Skytree
+Top-Secret Sakura Spots=Luoghi Top-Secret dei Sakura
+Smuggler on Horseback=Contrabbandiere a cavallo
+Increases your Guts when read.=Aumenta il Coraggio quando letto.
+Increases your Guts and unlocks Asakusa Skytree on the map when read.=Aumenta il Coraggio e sblocca Asakusa Skytree sulla mappa quando letto.
+Increases your Charm when read.=Aumenta il Fascino quando letto.
+Increases your Knowledge when read.=Aumenta la Conoscenza quando letto.
+Increases your Proficiency when read.=Aumenta la Perizia quando letto.
+Increases your Kindness when read.=Aumenta la Gentilezza quando letto.
+Increases your Kindness and unlocks Inokashira Park on the map when read.=Aumenta la Gentilezza e sblocca il parco Inokashira sulla mappa quando letto.
+Complete the mission\nTraces of Dreams.=Completa la missione\nTracce di Sogni.
+Complete the mission\nOutcome of Pride.=Completa la missione\nConseguenze dell'Orgoglio.
+
+SHIBUYA'S CREPES SHOP
+
+Crêpe=Crêpe
+Strawberry Flan=Flan fragola
+Ice Cream Parfait=Parfait di gelato
+Cardio Crunch Sundae=Cardio Crunch Sundae
+Melon Smoothie=Smoothie di melone
+Blue Planet=Blue Planet
+Million Sweets=Milioni di dolci
+Can be used in the Metaverse.\nRestores 23% of max HP to party. (When used.)=Può essere utilizzato nel metaverso. Ripristina il 23% degli HP massimi del gruppo.
+
+SHIBUYA'S BEEF BOWL SHOP
+Ore No Beko=Ore No Beko
+Japanese Black Beef Bowl=Black Beef Bowl Giapponese
+Beef Bowl Bento=Bento Beef Bowl
+Grilled Cod Bento=Bento di merluzzo alla griglia
+
+SHIBUYA'S CONVENIENCE STORE
+Triple Seven=Triple Seven
+Protective Sports Gear=Attrezzatura protettiva sportiva
+Gourmet Food Tour Guide=Gourmet Food Tour Guide
+Gossip Weekly=Gossip Weekly
+Shonen Manga Weekly=Shonen Manga Weekly
+Salmon Rice Ball=Onigiri al salmone
+Tuna Rice Ball=Onigiri al tonno
+Oden=Oden
+Handmade Book Cover=Copertina di libri fatti a mano
+Shichi-kun Doll=Bambola Shichi-kun
+Base Synergy +1, with an extra +1 for preferred gifts, with an extra +2 for first-time preferred gifts.=Base Synergy +1, con un +1 extra per regali preferiti, con un +2 extra per i regali preferiti per la prima volta.
+Electric Toothbrush=Spazzolino elettrico
+Burger Cushion=Cuscino Burger
+Yaoling Li might like this present.\nBase Synergy +52, with an extra +52 for preferred gifts, with an extra +104 for first-time preferred gifts.=Yaoling Li potrebbe gradire questo regalo.\nSinergia di base +52, con un +52 extra per regali preferiti, con un ulteriore +104 per i regali preferiti fatti per la prima volta.
+Base Synergy +20, with an extra +20 for preferred gifts, with an extra +40 for first-time preferred gifts.=Sinergia di base +20, con un +20 extra per regali preferiti, con un ulteriore +40 per i regali preferiti fatti per la prima volta.
+Tomoko Noge might like this present.\nBase Synergy +20, with an extra +20 for preferred gifts, with an extra +40 for first-time preferred gifts.=Tomoko Noge potrebbe gradire questo regalo.\nSinergia di base +20, con un +20 extra per regali preferiti, con un ulteriore +40 per i regali preferiti fatti per la prima volta.
+Kayo Tomiyama might like this present.\nBase Synergy +1, with an extra +1 for preferred gifts, with an extra +2 for first-time preferred gifts.=Kayo Tomiyama potrebbe gradire questo regalo.\nSinergia di base +1, con un +1 extra per regali preferiti, con un ulteriore + per i regali preferiti fatti per la prima volta.
+Motoha Arai might like this present.\nBase Synergy +2, with an extra +2 for preferred gifts, with an extra +4 for first-time preferred gifts.=Motoha Arai potrebbe gradire questo regalo.\nSinergia di base +2, con un +2 extra per regali preferiti, con un ulteriore +4 per i regali preferiti fatti per la prima volta.
+Motoha Arai might like this present.\nBase Synergy +7, with an extra +7 for preferred gifts, with an extra +14 for first-time preferred gifts.=Motoha Arai potrebbe gradire questo regalo.\nSinergia di base +7, con un +7 extra per regali preferiti, con un ulteriore +14 per i regali preferiti fatti per la prima volta.
+
+SHIBUYA'S DRUG STORE
+Aohige=Aohige
+Eyestrain Eyedrops=Collirio antiaffaticamento
+Healing IV=Guarigione IV
+Adhesive Bandage=Bendaggio adesivo
+
+SHIBUYA'S BIG BANG BURGER
+Boom Bang Burger=Big Bang Burger
+Lobster Burger=Burger di aragosta
+Lobster Sandwich=Sandwich di aragosta
+Matcha Burger=Matcha Burger
+Chicken Burger=Burger di pollo
+
+SHIBUYA'S DISCOUNT
+
+Rocinante=Rocinante
+Idol Trading Card=Carta da gioco idol
+Motorbike Figure=Figurina motocicletta
+Anime Character Pin=Spilla personaggio anime
+Pen Light=Torcia a penna
+Idol Keychain=Portachiavi idol
+Sumo Wrestler Stickers=Adesivi wrestler di sumo
+Watercolor Postcard=Cartolina ad acquerello
+Super Loud Alarm Clock=Sveglia super rumorosa
+Exclusive Fountain Pen=Penna stilografica esclusiva
+Black-Framed Glasses=Occhiali con bordi neri
+Soldier Figure=Figurina soldato
+Luxury Dollhouse=Casa delle bambole di lusso
+Classic Record=Vinile classico
+Premiere CD=CD in anteprima
+Paranormal VHS=VHS paranormale
+
+Merope might like this present.\nBase Synergy +5, with an extra +5 for preferred gifts, with an extra +10 for first-time preferred gifts.=Merope potrebbe gradire questo regalo.\nSinergia di base +5, con un +5 extra per regali preferiti, con un ulteriore +10 per i regali preferiti fatti per la prima volta.
+Merope might like this present.\nBase Synergy +6, with an extra +6 for preferred gifts, with an extra +12 for first-time preferred gifts.=Merope potrebbe gradire questo regalo.\nSinergia di base +6, con un +6 extra per regali preferiti, con un ulteriore +12 per i regali preferiti fatti per la prima volta.
+Merope might like this present.\nBase Synergy +38, with an extra +38 for preferred gifts, with an extra +76 for first-time preferred gifts.=Merope potrebbe gradire questo regalo.\nSinergia di base +38, con un +38 extra per regali preferiti, con un ulteriore +76 per i regali preferiti fatti per la prima volta.
+YUI might like this present.\nBase Synergy +12, with an extra +12 for preferred gifts, with an extra +24 for first-time preferred gifts.=YUI potrebbe gradire questo regalo.\nSinergia di base +12, con un +12 extra per regali preferiti, con un ulteriore +24 per i regali preferiti fatti per la prima volta.
+YUI might like this present.\nBase Synergy +2, with an extra +2 for preferred gifts, with an extra +4 for first-time preferred gifts.=YUI potrebbe gradire questo regalo.\nSinergia di base +2, con un +2 extra per regali preferiti, con un ulteriore +4 per i regali preferiti fatti per la prima volta.
+Motoha Arai might like this present.\nBase Synergy +4, with an extra +4 for preferred gifts, with an extra +8 for first-time preferred gifts.=Motoha Arai potrebbe gradire questo regalo.\nSinergia di base +4, con un +4 extra per regali preferiti, con un ulteriore +8 per i regali preferiti fatti per la prima volta.
+Tomoko Noge might like this present.\nBase Synergy +18, with an extra +18 for preferred gifts, with an extra +36 for first-time preferred gifts.=Tomoko Noge potrebbe gradire questo regalo.\nSinergia di base +18, con un +18 extra per regali preferiti, con un ulteriore +36 per i regali preferiti fatti per la prima volta.
+Yaoling Li might like this present.\nBase Synergy +9, with an extra +9 for preferred gifts, with an extra +18 for first-time preferred gifts.=Yaoling Li potrebbe gradire questo regalo.\nSinergia di base +9, con un +9 extra per regali preferiti, con un ulteriore +18 per i regali preferiti fatti per la prima volta.
+Yaoling Li might like this present.\nBase Synergy +55, with an extra +55 for preferred gifts, with an extra +110 for first-time preferred gifts.=Yaoling Li potrebbe gradire questo regalo.\nSinergia di base +55, con un +55 extra per regali preferiti, con un ulteriore +110 per i regali preferiti fatti per la prima volta.
+Base Synergy +14, with an extra +14 for preferred gifts, with an extra +28 for first-time preferred gifts.=Sinergia di base +14, con un +14 extra per regali preferiti, con un ulteriore +28 per i regali preferiti fatti per la prima volta.
+Base Synergy +24, with an extra +24 for preferred gifts, with an extra +48 for first-time preferred gifts.=Sinergia di base +24 con un +24 extra per regali preferiti, con un ulteriore +48 per i regali preferiti fatti per la prima volta.
+Base Synergy +22, with an extra +22 for preferred gifts, with an extra +44 for first-time preferred gifts.=Sinergia di base +22, con un +22 extra per regali preferiti, con un ulteriore +44 per i regali preferiti fatti per la prima volta.
+Base Synergy +40, with an extra +40 for preferred gifts, with an extra +80 for first-time preferred gifts.=Sinergia di base +40, con un +40 extra per regali preferiti, con un ulteriore +80 per i regali preferiti fatti per la prima volta.

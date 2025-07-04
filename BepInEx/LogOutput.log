@@ -1,0 +1,258 @@
+[Message: Preloader] BepInEx 6.0.0-be.725 - p5x (26/06/2025 05:02:32)
+[Message: Preloader] Built from commit e1974e26fd7702c66b54c0d6879c90b988cc4920
+[Info   :   BepInEx] System platform: Windows 10 64-bit
+[Info   :   BepInEx] Process bitness: 64-bit (x64)
+[Info   :   BepInEx] Running under Unity 2022.3.49f1
+[Info   :   BepInEx] Runtime version: 6.0.7
+[Info   :   BepInEx] Runtime information: .NET 6.0.7
+[Info   : Preloader] 0 patcher plugins loaded
+[Info   : Preloader] 0 assemblies discovered
+[Message:AssemblyPatcher] Executing 0 patch(es)
+[Message:   BepInEx] Chainloader initialized
+[Warning:Il2CppInterop] Class::Init signatures have been exhausted, using a substitute!
+[Info   :Il2CppInterop] Registered mono type Il2CppInterop.Runtime.DelegateSupport+Il2CppToMonoDelegateReference in il2cpp domain
+[Info   :   BepInEx] 4 plugins to load
+[Info   :   BepInEx] Loading [Texture_Replacer 1.0.8]
+[Warning:  HarmonyX] AccessTools.GetTypesFromAssembly: assembly UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null => System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types.
+Could not load type 'LightProbesQueryDisposeJob' from assembly 'UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.Assembly.GetTypes()
+   at HarmonyLib.AccessTools.GetTypesFromAssembly(Assembly assembly)
+System.TypeLoadException: Could not load type 'LightProbesQueryDisposeJob' from assembly 'UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+[Warning:  HarmonyX] AccessTools.GetTypesFromAssembly: assembly com.rlabrecque.steamworks.net, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null => System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types.
+Could not load type 'OptionValue' from assembly 'com.rlabrecque.steamworks.net, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.Assembly.GetTypes()
+   at HarmonyLib.AccessTools.GetTypesFromAssembly(Assembly assembly)
+System.TypeLoadException: Could not load type 'OptionValue' from assembly 'com.rlabrecque.steamworks.net, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+[Warning:  HarmonyX] AccessTools.GetTypesFromAssembly: assembly UnityEngine.UIElementsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null => System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types.
+Could not load type 'PageStatistics' from assembly 'UnityEngine.UIElementsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.Assembly.GetTypes()
+   at HarmonyLib.AccessTools.GetTypesFromAssembly(Assembly assembly)
+System.TypeLoadException: Could not load type 'PageStatistics' from assembly 'UnityEngine.UIElementsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+[Warning:  HarmonyX] AccessTools.GetTypesFromAssembly: assembly UnityEngine.DSPGraphModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null => System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types.
+Could not load type 'Node' from assembly 'UnityEngine.DSPGraphModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.Assembly.GetTypes()
+   at HarmonyLib.AccessTools.GetTypesFromAssembly(Assembly assembly)
+System.TypeLoadException: Could not load type 'Node' from assembly 'UnityEngine.DSPGraphModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+[Warning:  HarmonyX] AccessTools.GetTypesFromAssembly: assembly UnityEngine.PropertiesModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null => System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types.
+Could not load type 'EnumeratorType' from assembly 'UnityEngine.PropertiesModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+Could not load type 'ConverterKeyComparer' from assembly 'UnityEngine.PropertiesModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.Assembly.GetTypes()
+   at HarmonyLib.AccessTools.GetTypesFromAssembly(Assembly assembly)
+System.TypeLoadException: Could not load type 'EnumeratorType' from assembly 'UnityEngine.PropertiesModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+System.TypeLoadException: Could not load type 'ConverterKeyComparer' from assembly 'UnityEngine.PropertiesModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+[Warning:  HarmonyX] AccessTools.GetTypesFromAssembly: assembly UnityEngine.VirtualTexturingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null => System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types.
+Could not load type 'TextureStackBase`1' from assembly 'UnityEngine.VirtualTexturingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null'.
+Could not load type 'TextureStackBase`1' from assembly 'UnityEngine.VirtualTexturingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.Assembly.GetTypes()
+   at HarmonyLib.AccessTools.GetTypesFromAssembly(Assembly assembly)
+System.TypeLoadException: Could not load type 'TextureStackBase`1' from assembly 'UnityEngine.VirtualTexturingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null'.
+System.TypeLoadException: Could not load type 'TextureStackBase`1' from assembly 'UnityEngine.VirtualTexturingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null'.
+[Warning:  HarmonyX] AccessTools.GetTypesFromAssembly: assembly __Generated, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null => System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types.
+Failure has occurred while loading a type.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.Assembly.GetTypes()
+   at HarmonyLib.AccessTools.GetTypesFromAssembly(Assembly assembly)
+System.TypeLoadException: Failure has occurred while loading a type.
+[Warning:  HarmonyX] AccessTools.GetTypesFromAssembly: assembly UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null => System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types.
+Could not load type 'LightProbesQueryDisposeJob' from assembly 'UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.Assembly.GetTypes()
+   at HarmonyLib.AccessTools.GetTypesFromAssembly(Assembly assembly)
+System.TypeLoadException: Could not load type 'LightProbesQueryDisposeJob' from assembly 'UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+[Info   :Il2CppInterop] Registered mono type Texture_Replacer.Texture_Replacer in il2cpp domain
+[Info   :Texture_Replacer] Unique   keys 0 counts
+[Info   :Texture_Replacer] CheckMD5 keys 13 counts
+[Info   :Texture_Replacer] Select textures 0 counts
+[Info   :Texture_Replacer] Press ALT-F11 to dumps all texture2D images on Scene.
+[Info   :   BepInEx] Loading [XUnity Auto Translator 5.4.5]
+[Info   :Il2CppInterop] Registered mono type XUnity.AutoTranslator.Plugin.Core.PluginLoader+AutoTranslatorProxyBehaviour in il2cpp domain
+[Info   :   BepInEx] Loading [XUnity Resource Redirector 2.1.0]
+[Info   :   BepInEx] Loading [P5X Translate DL 0.3.0]
+[Info   :P5X Translate DL] Plugin P5XTranslateDL is loaded!
+[Message:   BepInEx] Chainloader startup complete
+[Warning:  HarmonyX] AccessTools.GetTypesFromAssembly: assembly UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null => System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types.
+Could not load type 'LightProbesQueryDisposeJob' from assembly 'UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.Assembly.GetTypes()
+   at HarmonyLib.AccessTools.GetTypesFromAssembly(Assembly assembly)
+System.TypeLoadException: Could not load type 'LightProbesQueryDisposeJob' from assembly 'UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+[Warning:  HarmonyX] AccessTools.GetTypesFromAssembly: assembly com.rlabrecque.steamworks.net, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null => System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types.
+Could not load type 'OptionValue' from assembly 'com.rlabrecque.steamworks.net, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.Assembly.GetTypes()
+   at HarmonyLib.AccessTools.GetTypesFromAssembly(Assembly assembly)
+System.TypeLoadException: Could not load type 'OptionValue' from assembly 'com.rlabrecque.steamworks.net, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+[Warning:  HarmonyX] AccessTools.GetTypesFromAssembly: assembly UnityEngine.UIElementsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null => System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types.
+Could not load type 'PageStatistics' from assembly 'UnityEngine.UIElementsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.Assembly.GetTypes()
+   at HarmonyLib.AccessTools.GetTypesFromAssembly(Assembly assembly)
+System.TypeLoadException: Could not load type 'PageStatistics' from assembly 'UnityEngine.UIElementsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+[Warning:  HarmonyX] AccessTools.GetTypesFromAssembly: assembly UnityEngine.DSPGraphModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null => System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types.
+Could not load type 'Node' from assembly 'UnityEngine.DSPGraphModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.Assembly.GetTypes()
+   at HarmonyLib.AccessTools.GetTypesFromAssembly(Assembly assembly)
+System.TypeLoadException: Could not load type 'Node' from assembly 'UnityEngine.DSPGraphModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+[Warning:  HarmonyX] AccessTools.GetTypesFromAssembly: assembly UnityEngine.PropertiesModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null => System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types.
+Could not load type 'EnumeratorType' from assembly 'UnityEngine.PropertiesModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+Could not load type 'ConverterKeyComparer' from assembly 'UnityEngine.PropertiesModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.Assembly.GetTypes()
+   at HarmonyLib.AccessTools.GetTypesFromAssembly(Assembly assembly)
+System.TypeLoadException: Could not load type 'EnumeratorType' from assembly 'UnityEngine.PropertiesModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+System.TypeLoadException: Could not load type 'ConverterKeyComparer' from assembly 'UnityEngine.PropertiesModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+[Warning:  HarmonyX] AccessTools.GetTypesFromAssembly: assembly UnityEngine.VirtualTexturingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null => System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types.
+Could not load type 'TextureStackBase`1' from assembly 'UnityEngine.VirtualTexturingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null'.
+Could not load type 'TextureStackBase`1' from assembly 'UnityEngine.VirtualTexturingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.Assembly.GetTypes()
+   at HarmonyLib.AccessTools.GetTypesFromAssembly(Assembly assembly)
+System.TypeLoadException: Could not load type 'TextureStackBase`1' from assembly 'UnityEngine.VirtualTexturingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null'.
+System.TypeLoadException: Could not load type 'TextureStackBase`1' from assembly 'UnityEngine.VirtualTexturingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null'.
+[Warning:  HarmonyX] AccessTools.GetTypesFromAssembly: assembly __Generated, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null => System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types.
+Failure has occurred while loading a type.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.Assembly.GetTypes()
+   at HarmonyLib.AccessTools.GetTypesFromAssembly(Assembly assembly)
+System.TypeLoadException: Failure has occurred while loading a type.
+[Warning:  HarmonyX] AccessTools.GetTypesFromAssembly: assembly UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null => System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types.
+Could not load type 'LightProbesQueryDisposeJob' from assembly 'UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.Assembly.GetTypes()
+   at HarmonyLib.AccessTools.GetTypesFromAssembly(Assembly assembly)
+System.TypeLoadException: Could not load type 'LightProbesQueryDisposeJob' from assembly 'UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+[Warning:  HarmonyX] AccessTools.GetTypesFromAssembly: assembly UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null => System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types.
+Could not load type 'LightProbesQueryDisposeJob' from assembly 'UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.Assembly.GetTypes()
+   at HarmonyLib.AccessTools.GetTypesFromAssembly(Assembly assembly)
+System.TypeLoadException: Could not load type 'LightProbesQueryDisposeJob' from assembly 'UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+[Warning:  HarmonyX] AccessTools.GetTypesFromAssembly: assembly com.rlabrecque.steamworks.net, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null => System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types.
+Could not load type 'OptionValue' from assembly 'com.rlabrecque.steamworks.net, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.Assembly.GetTypes()
+   at HarmonyLib.AccessTools.GetTypesFromAssembly(Assembly assembly)
+System.TypeLoadException: Could not load type 'OptionValue' from assembly 'com.rlabrecque.steamworks.net, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+[Warning:  HarmonyX] AccessTools.GetTypesFromAssembly: assembly UnityEngine.UIElementsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null => System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types.
+Could not load type 'PageStatistics' from assembly 'UnityEngine.UIElementsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.Assembly.GetTypes()
+   at HarmonyLib.AccessTools.GetTypesFromAssembly(Assembly assembly)
+System.TypeLoadException: Could not load type 'PageStatistics' from assembly 'UnityEngine.UIElementsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+[Warning:  HarmonyX] AccessTools.GetTypesFromAssembly: assembly UnityEngine.DSPGraphModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null => System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types.
+Could not load type 'Node' from assembly 'UnityEngine.DSPGraphModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.Assembly.GetTypes()
+   at HarmonyLib.AccessTools.GetTypesFromAssembly(Assembly assembly)
+System.TypeLoadException: Could not load type 'Node' from assembly 'UnityEngine.DSPGraphModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+[Warning:  HarmonyX] AccessTools.GetTypesFromAssembly: assembly UnityEngine.PropertiesModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null => System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types.
+Could not load type 'EnumeratorType' from assembly 'UnityEngine.PropertiesModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+Could not load type 'ConverterKeyComparer' from assembly 'UnityEngine.PropertiesModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.Assembly.GetTypes()
+   at HarmonyLib.AccessTools.GetTypesFromAssembly(Assembly assembly)
+System.TypeLoadException: Could not load type 'EnumeratorType' from assembly 'UnityEngine.PropertiesModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+System.TypeLoadException: Could not load type 'ConverterKeyComparer' from assembly 'UnityEngine.PropertiesModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+[Warning:  HarmonyX] AccessTools.GetTypesFromAssembly: assembly UnityEngine.VirtualTexturingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null => System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types.
+Could not load type 'TextureStackBase`1' from assembly 'UnityEngine.VirtualTexturingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null'.
+Could not load type 'TextureStackBase`1' from assembly 'UnityEngine.VirtualTexturingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.Assembly.GetTypes()
+   at HarmonyLib.AccessTools.GetTypesFromAssembly(Assembly assembly)
+System.TypeLoadException: Could not load type 'TextureStackBase`1' from assembly 'UnityEngine.VirtualTexturingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null'.
+System.TypeLoadException: Could not load type 'TextureStackBase`1' from assembly 'UnityEngine.VirtualTexturingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null'.
+[Warning:  HarmonyX] AccessTools.GetTypesFromAssembly: assembly __Generated, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null => System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types.
+Failure has occurred while loading a type.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.Assembly.GetTypes()
+   at HarmonyLib.AccessTools.GetTypesFromAssembly(Assembly assembly)
+System.TypeLoadException: Failure has occurred while loading a type.
+[Warning:  HarmonyX] AccessTools.GetTypesFromAssembly: assembly UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null => System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types.
+Could not load type 'LightProbesQueryDisposeJob' from assembly 'UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.Assembly.GetTypes()
+   at HarmonyLib.AccessTools.GetTypesFromAssembly(Assembly assembly)
+System.TypeLoadException: Could not load type 'LightProbesQueryDisposeJob' from assembly 'UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+[Warning:  HarmonyX] AccessTools.GetTypesFromAssembly: assembly com.rlabrecque.steamworks.net, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null => System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types.
+Could not load type 'OptionValue' from assembly 'com.rlabrecque.steamworks.net, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.Assembly.GetTypes()
+   at HarmonyLib.AccessTools.GetTypesFromAssembly(Assembly assembly)
+System.TypeLoadException: Could not load type 'OptionValue' from assembly 'com.rlabrecque.steamworks.net, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+[Warning:  HarmonyX] AccessTools.GetTypesFromAssembly: assembly UnityEngine.UIElementsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null => System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types.
+Could not load type 'PageStatistics' from assembly 'UnityEngine.UIElementsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.Assembly.GetTypes()
+   at HarmonyLib.AccessTools.GetTypesFromAssembly(Assembly assembly)
+System.TypeLoadException: Could not load type 'PageStatistics' from assembly 'UnityEngine.UIElementsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+[Warning:  HarmonyX] AccessTools.GetTypesFromAssembly: assembly UnityEngine.DSPGraphModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null => System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types.
+Could not load type 'Node' from assembly 'UnityEngine.DSPGraphModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.Assembly.GetTypes()
+   at HarmonyLib.AccessTools.GetTypesFromAssembly(Assembly assembly)
+System.TypeLoadException: Could not load type 'Node' from assembly 'UnityEngine.DSPGraphModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+[Warning:  HarmonyX] AccessTools.GetTypesFromAssembly: assembly UnityEngine.PropertiesModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null => System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types.
+Could not load type 'EnumeratorType' from assembly 'UnityEngine.PropertiesModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+Could not load type 'ConverterKeyComparer' from assembly 'UnityEngine.PropertiesModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.Assembly.GetTypes()
+   at HarmonyLib.AccessTools.GetTypesFromAssembly(Assembly assembly)
+System.TypeLoadException: Could not load type 'EnumeratorType' from assembly 'UnityEngine.PropertiesModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+System.TypeLoadException: Could not load type 'ConverterKeyComparer' from assembly 'UnityEngine.PropertiesModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' because the format is invalid.
+[Warning:  HarmonyX] AccessTools.GetTypesFromAssembly: assembly UnityEngine.VirtualTexturingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null => System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types.
+Could not load type 'TextureStackBase`1' from assembly 'UnityEngine.VirtualTexturingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null'.
+Could not load type 'TextureStackBase`1' from assembly 'UnityEngine.VirtualTexturingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null'.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.Assembly.GetTypes()
+   at HarmonyLib.AccessTools.GetTypesFromAssembly(Assembly assembly)
+System.TypeLoadException: Could not load type 'TextureStackBase`1' from assembly 'UnityEngine.VirtualTexturingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null'.
+System.TypeLoadException: Could not load type 'TextureStackBase`1' from assembly 'UnityEngine.VirtualTexturingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null'.
+[Warning:  HarmonyX] AccessTools.GetTypesFromAssembly: assembly __Generated, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null => System.Reflection.ReflectionTypeLoadException: Unable to load one or more of the requested types.
+Failure has occurred while loading a type.
+   at System.Reflection.RuntimeModule.GetTypes(RuntimeModule module)
+   at System.Reflection.Assembly.GetTypes()
+   at HarmonyLib.AccessTools.GetTypesFromAssembly(Assembly assembly)
+System.TypeLoadException: Failure has occurred while loading a type.
+[Warning:  HarmonyX] AccessTools.TypeByName: Could not find type named Anima2D.SpriteMeshInstance
+[Warning:  HarmonyX] AccessTools.Method: type is null
+[Info   :XUnity.AutoTranslator] Force loading ALL proxy assemblies.
+[Info   :XUnity.AutoTranslator] Version of TextMesh Pro: 1.4.0.
+[Warning:  HarmonyX] AccessTools.Method: Could not find method for type TMPro.TMP_Text and name SetCharArray and parameters (Il2CppInterop.Runtime.InteropTypes.Arrays.Il2CppStructArray<int>, int, int)
+[Warning:XUnity.AutoTranslator] Could not hook 'TMP_Text_SetCharArray_Hook3'. Likely due differences between different versions of the engine or text framework.
+[Error  :XUnity.AutoTranslator] An error occurred while setting up hooks for IMGUI.
+System.NotImplementedException: EnableIMGUI is not supported in IL2CPP.
+   at XUnity.AutoTranslator.Plugin.Core.Hooks.HooksSetup.InstallTextHooks()
+[Warning:XUnity.AutoTranslator] Image not loaded (unmodified): F:\PC Games\Steam\steamapps\common\P5X\Client\pc\BepInEx\Translation\it\Texture\Black Texture [D704196B99].png.
+[Warning:XUnity.AutoTranslator] Image not loaded (unmodified): F:\PC Games\Steam\steamapps\common\P5X\Client\pc\BepInEx\Translation\it\Texture\map-segu-dixiashangchang [EF565BFC62].png.
+[Warning:XUnity.AutoTranslator] Image not loaded (unmodified): F:\PC Games\Steam\steamapps\common\P5X\Client\pc\BepInEx\Translation\it\Texture\map-xuexiao-tiantai [1F0C43B847].png.
+[Warning:XUnity.AutoTranslator] Image not loaded (unmodified): F:\PC Games\Steam\steamapps\common\P5X\Client\pc\BepInEx\Translation\it\Texture\mouse-normal [120942916A].png.
+[Warning:XUnity.AutoTranslator] Image not loaded (unmodified): F:\PC Games\Steam\steamapps\common\P5X\Client\pc\BepInEx\Translation\it\Texture\mouse-pressed [6FBA246EF8].png.
+[Warning:XUnity.AutoTranslator] Image not loaded (unmodified): F:\PC Games\Steam\steamapps\common\P5X\Client\pc\BepInEx\Translation\it\Texture\MUTransparentTex [EEE082003E].png.
+[Warning:XUnity.AutoTranslator] Image not loaded (unmodified): F:\PC Games\Steam\steamapps\common\P5X\Client\pc\BepInEx\Translation\it\Texture\White Texture [5C1FEE5581].png.
+[Info   :XUnity.AutoTranslator] Loaded XUnity.AutoTranslator into Unity [2022.3.49f1] game.
+[Info   :Il2CppInterop] Registered mono type XUnity.AutoTranslator.Plugin.Core.Il2CppManagedEnumerator in il2cpp domain
+[Warning:XUnity.AutoTranslator] Input API is not available!
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation.
+ ---> Il2CppInterop.Runtime.Il2CppException: System.InvalidOperationException: You are trying to read Input using the UnityEngine.Input class, but you have switched active Input handling to Input System package in Player Settings.
+--- BEGIN IL2CPP STACK TRACE ---
+System.InvalidOperationException: You are trying to read Input using the UnityEngine.Input class, but you have switched active Input handling to Input System package in Player Settings.
+
+--- END IL2CPP STACK TRACE ---
+
+   at Il2CppInterop.Runtime.Il2CppException.RaiseExceptionIfNecessary(IntPtr returnedException) in /home/runner/work/Il2CppInterop/Il2CppInterop/Il2CppInterop.Runtime/Il2CppException.cs:line 36
+   at UnityEngine.Input.GetKey(KeyCode key)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Span`1& arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at XUnity.AutoTranslator.Plugin.Core.Input.GetKey(KeyCode key)
+   at XUnity.AutoTranslator.Plugin.Core.AutoTranslationPlugin.HandleInput()
+   at XUnity.AutoTranslator.Plugin.Core.AutoTranslationPlugin.HandleInputSafe()
+[Info   :XUnity.AutoTranslator] Skipping plugin scan because no plugin-specific translations has been registered.

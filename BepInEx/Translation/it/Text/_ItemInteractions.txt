@@ -1,0 +1,180 @@
+L<color\=#ff0000ff>i</color>sten to conversation=A<color\=#ff0000ff>s</color>colta
+V<color\=#ff0000ff>e</color>nding Machine=D<color\=#ff0000ff>i</color>stributore automatico
+L<color\=#ff0000ff>e</color>ave=E<color\=#ff0000ff>s</color>ci
+
+Vending Machine=Distributore automatico
+They have a bunch of\ndifferent drinks here.=Ci sono un sacco di\nbevande diverse.
+
+SHIMO KITAZAWA
+
+R<color\=#ff0000ff>o</color>ad=S<color\=#ff0000ff>t</color>rada
+There's a sign that warns\nagainst diagonal crossing.=C’è un cartello che vieta di attraversare in diagonale.
+S<color\=#ff0000ff>c</color>hool Gate=C<color\=#ff0000ff>a</color>ncello principale
+B<color\=#ff0000ff>u</color>lletin Board=B<color\=#ff0000ff>a</color>checa
+Bullettin Board=Bacheca
+It's the bulletin board.\nInfo about school events\nis posted here...=È la bacheca. Qui vengono\npubblicate le informazioni\nsugli eventi scolastici...
+S<color\=#ff0000ff>h</color>imo-Kitazawa Station=S<color\=#ff0000ff>t</color>azione Shimo-Kitazawa
+C<color\=#ff0000ff>l</color>assroom Bldg=E<color\=#ff0000ff>d</color>ificio scolastico
+B<color\=#ff0000ff>o</color>ys' Bathroom=B<color\=#ff0000ff>a</color>gno dei ragazzi
+Boys' Bathroom=Bagno dei ragazzi
+As I washed my hands,\nI reflected on life...=Mentre mi lavavo le mani,\nriflettevo sulla vita...
+G<color\=#ff0000ff>o</color> to 1F=V<color\=#ff0000ff>a</color>i al P1
+G<color\=#ff0000ff>o</color> to 2F=V<color\=#ff0000ff>a</color>i al P2
+G<color\=#ff0000ff>o</color> to 3F=V<color\=#ff0000ff>a</color>i al P3
+
+FLOOR 1
+
+C<color\=#ff0000ff>h</color>ange your shoes=C<color\=#ff0000ff>a</color>mbiati le scarpe
+G<color\=#ff0000ff>o</color> to the practice building=2V<color\=#ff0000ff>a</color>i all'edificio delle attività
+G<color\=#ff0000ff>o</color> to the classroom building=V<color\=#ff0000ff>a</color>i all'edificio scolastico
+L<color\=#ff0000ff>e</color>ave the school=E<color\=#ff0000ff>s</color>ci da scuola
+S<color\=#ff0000ff>c</color>hool Store=N<color\=#ff0000ff>e</color>gozio scolastico
+School Store=Negozio scolastico
+
+FLOOR 2
+
+B<color\=#ff0000ff>l</color>ackboard=L<color\=#ff0000ff>a</color>vagna
+Blackboard=Lavagna
+It's the blackboard.=È la lavagna.
+L<color\=#ff0000ff>a</color>rge Window=G<color\=#ff0000ff>r</color>ande finestra
+Large Window=Grande Finestra
+There's a good view of the\noutdoor scenery from here.=Da qui si gode di un\nbel panorama.
+A bulletin board with posters\npromoting various clubs.=Una bacheca con dei poster\nche promuovono vari club.
+
+E<color\=#ff0000ff>n</color>ter the classroom=E<color\=#ff0000ff>n</color>tra in classe
+
+FLOOR 3
+L<color\=#ff0000ff>i</color>brary=B<color\=#ff0000ff>i</color>blioteca
+Library=Biblioteca
+
+D<color\=#ff0000ff>i</color>splay Case=V<color\=#ff0000ff>e</color>trina espositiva
+
+G<color\=#ff0000ff>o</color> to the rooftop=V<color\=#ff0000ff>a</color>i sul tetto
+
+
+
+YONGEN-JAYA 
+
+I<color\=#ff0000ff>z</color>akaya=I<color\=#ff0000ff>z</color>akaya
+O<color\=#ff0000ff>l</color>d Apartment=V<color\=#ff0000ff>e</color>cchio appartamento
+I<color\=#ff0000ff>n</color>triguing Building=E<color\=#ff0000ff>d</color>ificio intrigante
+A charming house.=Una casa affascinante.
+It has a slight warmth to it.=Trasmette un senso di calore.
+
+This is quite the venerable old building.\nThis is what they call "retro" these\ndays, correct?=Questo sì che è un edificio d'altri tempi.\nLo chiamano "vintage" al giorno d’oggi,\ngiusto?
+Never mind.=Non importa.
+Let's go.=Andiamo.
+Looks like you can\ngo in to look at the\napartments here...=Sembra che tu possa\nentrare per dare un'occhiata\n agli appartamenti...
+Yongen-Jaya seems like a\nnice place to live...=Yongen-Jaya sembra\nun bel posto in cui vivere...
+The curtains in the house\nacross the way are\nalways closed...=Le tende della casa di fronte\nsono sempre chiuse...
+It makes me wonder what\nkind of person lives there...=Chissà chi ci abita...
+C<color\=#ff0000ff>l</color>inic=C<color\=#ff0000ff>l</color>inica
+
+S<color\=#ff0000ff>u</color>permarket=S<color\=#ff0000ff>u</color>permercato
+
+O<color\=#ff0000ff>r</color>thopedic Clinic=C<color\=#ff0000ff>l</color>inica ortopedica
+This is a great clinic...=Sembra un'ottima clinica...
+But I guess the bad location keeps business from booming.=Ma immagino che la sua brutta posizione\nle impedisca di acquisire popolarità.
+
+T<color\=#ff0000ff>o</color>bacco Store=T<color\=#ff0000ff>a</color>baccaio
+So, cigarette smoking is prohibited below the\nage of 20... I suppose you're too young then!=Allora, le sigarette sono vietate ai minori\ndi 20 anni... credo che tu sia troppo\ngiovane allora!
+
+C<color\=#ff0000ff>a</color>fé=C<color\=#ff0000ff>a</color>fé Leblanc
+The rich aroma of coffee\ndrifts from the entrance.\nSeems like a relaxing café...=Un forte profumo di caffè\nsi avverte dall'ingresso.\nSembra un posto rilassante...
+I should come back\nanother time.=Dovrei venirci qualche volta.
+
+B<color\=#ff0000ff>a</color>thhouse=B<color\=#ff0000ff>a</color>gno pubblico
+This bathhouse seems like\nit's been around for ages...=Questo bagno pubblico sembra\nessere qui da secoli...
+
+L<color\=#ff0000ff>a</color>undromat=L<color\=#ff0000ff>a</color>vanderia automatica
+It seems like you could use this place\nto wash anything too big for your home\nwashing machine.=Sembra che possa usare questo posto\nper lavare tutto quello che non entra\nnella tua lavatrice.
+Never mind=Non importa
+Go inside=Entra
+It's a row of large\nwashing machines.=È una fila di grandi lavatrici.
+
+S<color\=#ff0000ff>e</color>condhand Shop=N<color\=#ff0000ff>e</color>gozio dell'usato
+
+D<color\=#ff0000ff>i</color>ning Bar=D<color\=#ff0000ff>i</color>ner
+This establishment appears to stay open all\nnight. At least the human desire for alcohol\nseems unabated!=Questo locale sembra restare aperto tutta\nla notte. Il desiderio umano di alcol\nsembra inesauribile!
+
+I<color\=#ff0000ff>n</color>ternational Restaurant=R<color\=#ff0000ff>i</color>storante internazionale
+Fusion cuisine... Ah, so they serve meat in\nthe styles of many lands! *shlurp*=Cucina mista... ah, quindi servono\npietanze da tutto il mondo! *slurp*
+Going in can't hurt...=Non penso ci siano problemi\nse do un'occhiata...
+Maybe not.=Meglio di no.
+Eat=Mangia qualcosa
+
+M<color\=#ff0000ff>o</color>vie Theater=C<color\=#ff0000ff>i</color>nema
+Top American box office hit... Was that not\nwritten on the poster of the film we saw the\nother day too?=Top campioni d'incassi americani... non era\nscritto anche sul poster del film che abbiamo\nvisto l'altro giorno?
+Ah, visual narrative experiences!\nA fine source of sensory stimulation.=Ah, narrazioni visive!\nUna raffinata fonte di stimolazione dei sensi.
+
+Clinic=Clinica
+G<color\=#ff0000ff>o</color> to Yongen-Jaya=V<color\=#ff0000ff>a</color>i a Yongen-Jaya
+
+
+
+SHIBUYA
+
+G<color\=#ff0000ff>o</color> to the underground mall=V<color\=#ff0000ff>a</color>i al centro comm. sotterraneo
+G<color\=#ff0000ff>o</color> to the opposite side=A<color\=#ff0000ff>t</color>traversa la strada
+
+S<color\=#ff0000ff>t</color>ation=S<color\=#ff0000ff>t</color>azione
+
+S<color\=#ff0000ff>t</color>ation Square=P<color\=#ff0000ff>i</color>azza della stazione
+Go to Station Square=Vai a Station Square
+
+P<color\=#ff0000ff>a</color>y Phone=T<color\=#ff0000ff>e</color>lefono pubblico
+Even in the era of mandatory personal\nphones, they still need these for\nemergencies, I see.=Anche nell'era dei congegni portatili,\nvedo che questi servano ancora per le\nemergenze.
+
+G<color\=#ff0000ff>u</color>itar Case=C<color\=#ff0000ff>u</color>stodia chitarra
+What a well-maintained instrument. It's\nclear the owner must treasure this guitar.=Che strumento ben curato. È chiaro che\nil proprietario tenga moltissimo a questa\nchitarra.
+
+L<color\=#ff0000ff>o</color>ttery Stand=C<color\=#ff0000ff>h</color>iosco della lotteria
+I see no problem with having the desire to\nwin big from a small amount of money. But it\nseems like few people are buying them...=Non credo ci sia nulla di male nel voler vincere grandi somme spendendo una piccola quantità\ndi denaro. Ma sembra che ci sia poca affluenza...
+
+S<color\=#ff0000ff>m</color>oking Area=A<color\=#ff0000ff>r</color>ea fumatori
+*cough* Better not to inhale much of this\nsmoke. Let's leave quickly if possible.=*coff* Meglio non inalare questo fumo.\nAndiamocene via alla svelta per favore.
+
+M<color\=#ff0000ff>o</color>njayaki=M<color\=#ff0000ff>o</color>njayaki
+Monjayaki... I doubt I'd be able to handle\none of those spatulas with these wings...=Monjayaki... Dubito che sarei in grado di\nmaneggiare una di quelle spatole con queste\nali...
+
+C<color\=#ff0000ff>o</color>ffee Chain=C<color\=#ff0000ff>a</color>tena di caffetterie
+I hear this café's gotten\npretty popular recently...=Ho sentito che questa caffetteria\nè diventata piuttosto popolare\ndi recente...
+Get a coffee=Prendi un caffè
+
+B<color\=#ff0000ff>o</color>okstore=L<color\=#ff0000ff>i</color>breria
+B<color\=#ff0000ff>e</color>ef Bowl Shop=B<color\=#ff0000ff>e</color>ef Bowl Shop
+C<color\=#ff0000ff>r</color>êpe Shop=C<color\=#ff0000ff>r</color>eperia
+A<color\=#ff0000ff>r</color>cade=S<color\=#ff0000ff>a</color>la giochi
+C<color\=#ff0000ff>o</color>nvenience Store=C<color\=#ff0000ff>o</color>nvenience store
+D<color\=#ff0000ff>r</color>ugstore=F<color\=#ff0000ff>a</color>rmacia
+D<color\=#ff0000ff>i</color>scount Store=D<color\=#ff0000ff>i</color>scount
+B<color\=#ff0000ff>u</color>rger Shop=B<color\=#ff0000ff>u</color>rger Shop
+G<color\=#ff0000ff>y</color>m=P<color\=#ff0000ff>a</color>lestra
+I can hear someone\npassionately shouting,\n"Listen to your muscles!"=Riesco a sentire qualcuno\nche grida appassionatamente:\n"Ascolta i tuoi muscoli!"
+
+
+
+ZOSHIGAYA
+
+S<color\=#ff0000ff>n</color>ack Bar=S<color\=#ff0000ff>n</color>ack bar
+F<color\=#ff0000ff>l</color>owers in Bloom=F<color\=#ff0000ff>i</color>ori durante la fioritura
+T<color\=#ff0000ff>r</color>ashcan=C<color\=#ff0000ff>e</color>stino
+Burnable garbage is collected\nevery Wednesday and Thursday.=La spazzatura combustibile viene\nraccolta ogni mercoledì e giovedì.
+S<color\=#ff0000ff>w</color>eets Shop=N<color\=#ff0000ff>e</color>gozio di dolci
+It's an old Japanese\nsweets shop.=È un vecchio negozio\ndi dolci giapponesi.
+N<color\=#ff0000ff>a</color>rrow Stairs=S<color\=#ff0000ff>c</color>ala stretta
+The second floor is a private\nresidence. I shouldn't go\nup there.=Il secondo piano è una residenza\nprivata. Non dovrei andare lassù.
+B<color\=#ff0000ff>a</color>kery=P<color\=#ff0000ff>a</color>nificio
+The smell of freshly baked\nbread lingers in the air...=L'odore del pane appena\nsfornato è inebriante...
+G<color\=#ff0000ff>o</color> home=V<color\=#ff0000ff>a</color>i a casa
+Mom's flowers are growing over\nthe side of the wall...=I fiori della mamma stanno\ncrescendo sul lato del muro
+The sign says minors aren't\nallowed in...=Il cartello dice che i minorenni\nnon siano ammessi...
+C<color\=#ff0000ff>a</color>psule Machine=D<color\=#ff0000ff>i</color>stributore Gacha-pon
+
+HOME
+K<color\=#ff0000ff>i</color>tchen=C<color\=#ff0000ff>u</color>cina
+I could cook if I\nhad ingredients...=Potrei cucinare qualcosa\ncon i giusti ingredienti...
+G<color\=#ff0000ff>a</color>rdening=G<color\=#ff0000ff>i</color>ardino
+If I had seeds, I could plant\nthings in the garden...=Se avessi dei semi, potrei\npiantare qualcosa in giardino...
+Z<color\=#ff0000ff>o</color>shigaya=Z<color\=#ff0000ff>o</color>shigaya
+G<color\=#ff0000ff>o</color> to your bedroom=V<color\=#ff0000ff>a</color>i in camera tua

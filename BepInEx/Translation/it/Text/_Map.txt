@@ -1,0 +1,89 @@
+Shimo-Kitazawa=Shimo-Kitazawa
+
+Main Entrance=Ingresso principale
+School Main Gate=Cancello principale
+Station=Stazione
+Classroom Bldg 1F=Edificio scolastico P1
+Classroom Bldg 2F=Edificio scolastico P2
+Classroom Bldg 3F=Edificio scolastico P3
+School Rooftop=Tetto
+Shimo-Kitazawa Station=<size\=21.5>Stazione Shimo-Kitazawa</size>
+
+
+Akasaka Mitsuke=Akasaka Mitsuke
+Contains numerous restaurants\nand a TV station within\nwalking distance.=Contiene numerosi ristoranti\ne una stazione TV a pochi passi.
+
+Shibuya=Shibuya
+Clear the mission Return to Shibuya to unlock Shibuya.=Completa la missione "Ritorno a Shibuya" per sbloccare Shibuya.
+Station Square=Piazza della stazione
+Central Street=Central Street
+Underground Mall=<size\=20>Centro comm. sotterraneo</size>
+Accessway=Via d'accesso
+
+Zoshigaya=Zoshigaya
+Clear the mission Go home to unlock Zoshigaya.=Completa la missione "Torna a casa" per sbloccare Zoshigaya.
+Zoshigaya. It's a neighborhood\nin Toshima Ward, where I live.=Zoshigaya. È un quartiere\ndi Toshima, dove vivo.
+Omotesando=Omotesando
+
+Yongen-Jaya=Yongen-Jaya
+Clear the mission Go to Yongen-Jaya to unlock Yongen-Jaya.=Completa la missione "Vai a Yongen-Jaya" per sbloccare Yongen-Jaya.
+
+Inokashira Park=Parco Inokashira
+Read Top-Secret Sakura Spots to unlock Inokashira Park.=Leggi "Luoghi Top-Secret dei Sakura" per sbloccare il Parco Inokashira.
+
+Kichijoji=Kichijoji
+Clear the mission Meet up at Shimo-Kitazawa Station to unlock Kichijoji.=Completa la missione "Incontro alla stazione di Shimo-Kitazawa" per sbloccare Kichijoji.
+
+Harajuku=Harajuku
+Reach level 20 to unlock Harajuku.=Raggiungi il livello 20 per sbloccare Harajuku.
+
+Shinjuku=Shinjuku
+Clear the mission Go to Shimo-Kitazawa Station to unlock Shinjuku.=Completa la missione "Vai alla stazione di Shimo-Kitazawa" per sbloccare Shinjuku.
+
+Ginza=Ginza
+A swanky area that's daunting\nto visit, but features a\nfamous sushi restaurant.=Una zona elegante che intimorisce\nun po' a visitarla, ma che ospita un\nfamoso ristorante di sushi.
+
+Ogikubo=Ogikubo
+Reach level 20 to unlock Ogikubo.=Raggiungi il livello 20 per sbloccare Ogikubo.
+
+Motomachi Chinatown=Motomachi Chinatown
+A neigborhood boasting a\nlaid-back shopping district\nand a lively Chinatown.=Un quartiere che vanta\nuna tranquilla zona commerciale\ne una vivace Chinatown.
+
+Miura Beach=Spiaggia Miura
+Reach level 20 to unlock Miura Beach.=Raggiungi il livello 20 per sbloccare la spiaggia Miura.
+
+Ikebukuro=Ikebukuro
+Read Science Savvy: Stars to unlock Ikebukuro.=Leggi "Astuzie Scientifiche: Le Stelle" per sbloccare Ikebukuro.
+
+Ichigaya=Ichigaya
+The fishing pond seen from\nthe station is quite popular.=Il laghetto per la pesca\nvicino alla stazione\nè abbastanza popolare.
+
+Suidobashi=Suidobashi
+Reach level 20 to unlock Suidobashi.=Raggiungi il livello 20 per sbloccare Suidobashi.
+
+Jinbocho=Jinbocho
+Reach level 20 to unlock Jinbocho.=Raggiungi il livello 20 per sbloccare Jinbocho.
+
+Tsukishima=Tsukishima
+Reach level 20 to unlock Tsukishima.=Raggiungi il livello 20 per sbloccare Tsukishima.
+
+Seaside Park=Seaside Park
+Reach level 30 to unlock Seaside Park.=Raggiungi il livello 30 per sbloccare Seaside Park.
+
+Ueno=Ueno
+Read The World of Art to unlock Ueno.=Leggi "Il Mondo dell'Arte" per sbloccare Ueno.
+
+Akihabara=Akihabara
+Once famous for its electronic\nshops, these days it's become\nwell known for its maid cafés.=Una volta famosa per i suoi negozi\ndi elettronica, oggi è conosciuta\nsoprattutto per i maid café.
+
+Kanda=Kanda
+Clear the mission Confirm Kiuchi's condition to unlock Kanda.=Completa la missione "Verifica le condizioni di Kiuchi" per sbloccare Kanda.
+
+Maihama=Maihama
+A resort area that's\nhome to Destinyland.=Una località turistica che ospita Destinyland.
+
+Asakusa=Asakusa
+Read All about Skytree to unlock Asakusa.=Leggi "Tutto sulla Skytree" per sbloccare Asakusa.
+
+
+

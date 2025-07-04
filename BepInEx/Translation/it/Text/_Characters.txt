@@ -1,0 +1,91 @@
+Kamisiro-san=Kamishiro-san
+Kamishiro-kun=Kamishiro-kun
+Kamishiro-chan=Kamishiro-chan
+
+Woman Wearing Glasses=Donna con gli occhiali
+Kumi Katayama=Kumi Katayama
+
+Long-Nosed Old Man=Uomo anziano dal naso lungo
+Igor=Igor
+Merope=Merope
+
+Girl in Front Row=Ragazza della fila dopo
+Girl Called Arai=Ragazza di nome Arai
+
+Undecided Student=Studente indeciso
+Undecided Girl=Ragazza indecisa
+Languid Boy=Ragazzo svogliato
+Languid Student=Studente svogliato
+Lethargic Student=Studente letargico
+Mellow Student=Studente rilassato
+
+Loud Female Student=Studentessa rumorosa
+Keen-Eared Female Student=Studentessa con l'orecchio fino
+Thin Female Student=Studentessa magra
+Long-Haired Female Student=Studentessa dai capelli lunghi
+Girl Called Tanemura=Ragazza di nome Tanemura
+
+Ecstatic Girl=Ragazza entusiasta
+Jealous Girl=Ragazza gelosa
+Girl Looking Afar=Ragazza che guarda lontano
+Confused Girl=Ragazza confusa
+Chuunibyou Boy=Ragazzo con sindrome da seconda media
+
+Students near Window=Studenti vicino alla finestra
+Chatting Students=Studenti che parlano
+Worried-Looking Girl=Ragazza preoccupata
+Frustrated Boy=Ragazzo frustrato
+Worried Girl=Ragazza in ansia
+Posing Boy=Ragazzo vanitoso
+Depressed Boy=Ragazzo depresso
+Listless Boy=Ragazzo apatico
+Chuunibyou Boy=Ragazzo infantile
+Chatting Boys=Ragazzi che parlano
+Bashful Boy=Ragazzo impacciato
+Mild-Mannered Boy=Ragazzo educato
+
+Outdoor Shoe Students=Studenti con scarpe per esterni
+Outdoor Shoe Boy=Ragazzo con scarpe per esterni
+Disorganized Girl=Ragazza disorganizzata
+Girl Standing Up=Ragazza in piedi
+Girl Sitting Down=Ragazza seduta
+Girl near Window=Ragazza alla finestra
+Forgetful Boy=Ragazzo sbadato
+Girl Looking at Bulletin Board=Ragazza che guarda la bacheca
+
+
+Enthusiastic Employee=Impiegato entusiasta
+Talkative Man=Uomo loquace
+Inattentive Boy=Ragazzo disattento
+Businessman=Uomo d'affari
+Clever Housewife=Moglie sveglia
+Gossip-Loving Housewife=Moglie pettegola
+Rational Man=Uomo razionale
+
+Girls Near the Stairs=Ragazze vicino alle scale
+Boy-Crazy Girl=Ragazza fissata coi ragazzi
+Girl Lost in Thought=Ragazza pensierosa
+Disinterested Girl=Ragazza disinteressata
+Boys Near the Stairs=Ragazzi vicino alle scale
+Boy with a Wicked Grin=Ragazzo con ghigno malizioso
+Embarassed Boy=Ragazzo imbarazzato
+Shouting Students=Studenti rumorosi
+Excited Boy=Ragazzo eccitato
+Super Excited Girl=Ragazza super eccitata
+
+Girl with a Guitar=Ragazza con una chitarra
+Frequent Lottery Customer=Cliente abituale della lotteria
+Depressed Man=Uomo depresso
+Haggard-Faced Man=Uomo dall'aria stanca
+Shichi-kun=Shichi-kun
+Girl with a Donation Box=Ragazza attivista
+Man with Large Muscles=Uomo muscoloso
+Depressed Man=Uomo depresso
+Enthusiastic Man=Uomo entusiasta
+
+Fellow Student=Compagno di scuola
+Angry Student=Studente arrabbiato
+Calm Student=Studente calmo
+
+Slightly Scary-Looking Student=Studente leggermente spaventoso
+

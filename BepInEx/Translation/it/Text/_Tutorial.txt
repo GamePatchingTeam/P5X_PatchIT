@@ -1,0 +1,4 @@
+Change the point of view with the mouse.=Cambia il punto di vista\nusandoil mouse.
+Drag the left mouse button to change the point of view.=Trascina con il tasto sinistro per cambiare il punto di vista.
+<color\=#FF423F>Alt key</color> displays cursor.=<color\=#FF423F>Tasto Alt</color> mostra il cursore.
+You can change your settings later in Menu > Settings > Gameplay.=Potrai modificare queste impostazioni in seguito,\ndal menu > Impostazioni > Gameplay.

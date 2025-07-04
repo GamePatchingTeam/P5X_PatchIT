@@ -1,0 +1,500 @@
+協同效果=Confidant Effects
+協同者RANK暫時無法提升=Cannot Rank Up
+解鎖條件=<size\=30>Conditions</size>
+達成以下條件可繼續提升RANK=You can rank up by fulfilling the following conditions
+sr:"^·都市五維(.*)達到(\d+)/(\d+)級$"="-$1 Reach Rank $2/$3"
+sr:"^·完成與(.*)的關係加深約會$"="-Hang out with $1"
+sr:"^都市五維(.*)達到(\d+)/(\d+)級$"="$1 Reach Rank $2/$3"
+sr:"^都市五維<sprite\=(\d+)><color\=#ffb400>(.*)</color>達到(\d+)級$"="Reach <sprite\=$1><color\=#ffb400>$2</color> Rank $3"
+r:"^完成與(.*)的關係加深約會$"="Hang out with $1"
+
+可選擇與協同者成為{{A}}=Can become {{A}}
+與協同者成為{{A}}=Become {{A}}
+協同者成為您的私人{{A}}=Becomes your Personal {{A}}
+
+r:"^與「<color\=#FFC000>{{A}}</color>」好感度提升至<color\=#FFC000>rank5</color>後，\n送禮時，好感度的喜好加成提升(\d+%)。$"="<size\=24>Gain $1 more confidant points when giving gifts after reaching <color\=#FFC000>rank 5</color> with [<color\=#FFC000>{{A}}</color>].</size>"
+r:"^好感度提升至<color\=#FFC000>rank17</color>後，\n送禮時，基礎好感度提升(\d+%)。$"="<size\=24>Gain $1 more confidant points when giving gifts after reaching <color\=#FFC000>rank 17</color>.</size>"
+
+時溯之券=Backtrack Ticket
+『時溯之券』\n使用後可以改變一名協同者的特殊關係。=[Backtrack Ticket]\nCan change your special relationship with Confidant after use.
+使用後可以改變一名協同者的特殊關係。=Can change your special relationship with Confidant after use.
+r:"^當前關係為「{{B}}」，需要消耗<size\=66><sprite\=31></size>×1進行一次與該協同者「{{A}}」的關係回溯嗎？回溯後將變為「{{C}}」關係。$"="The current relationship is [{{B}}]. \nUse <size\=66><sprite\=31></size>x1 to backtrack your relationship with [{{A}}]?"
+r:"^當前關係為「{{B}}」，需要消耗<size\=66><sprite\=31></size>×1進行一次與協同者「{{A}}」的關係回溯嗎？回溯後將變為「{{C}}」關係。$"="The current relationship is [{{B}}]. \nUse <size\=66><sprite\=31></size>x1 to backtrack your relationship with [{{A}}]?"
+r:"^當前關係為「{{C}}」，需要消耗<size\=66><sprite\=31></size>×1進行一次與該協同者「{{A}}」的關係回溯嗎？回溯後將變為「{{B}}」關係。$"="The current relationship is [{{C}}]. \nUse <size\=66><sprite\=31></size>x1 to backtrack your relationship with [{{A}}]?"
+
+好感度等級解鎖內容=Rank Rewards
+好感度=Confidant Points
+當前已設置密友，要更換嗎？=You have already set a favorite, \ndo you want to change it?
+已取消{{A}}的親密協同者設置=Removed {{A}} from favorite
+設置親密協同=Favorite
+設置親密協同後將提升該協同者在所屬時段下發出的約會邀請的機率=Increase the chance for Favorite Confidants to show up
+取消設置=Cancel
+當前角色未解鎖，無法選擇。=Cannot select not unlocked character.
+
+r:"^{{A}}協同等級(\d+)級解鎖$"="<size\=26>Need {{A}} Rank $1</size>"
+r:"^「{{A}}」Rank(\d+)解鎖$"="<size\=26>Need {{A}} Rank $1</size>"
+r:"^與協同者關係達到RANK『(\d+)』解鎖。$"="Unlocked after reaching Rank $1 with this Confidant."
+sr:"^完成支線「(.*)」中的相關任務$"="Complete the side quest [$1]"
+<color\=#ffb400>條件</color>不足=<size\=21>Insufficient <color\=#ffb400>Conditions</color></size>
+sr:"^完成「(.*)」任務解鎖$"="Unlock after completing the mission [$1]"
+
+生日=Birthday
+星座=Horoscope
+年齡=Age
+職業=Occupation
+身高=Height
+體重=Weight
+喜歡的食物=<size\=28>Favorite Food</size>
+血型=Blood Type
+興趣=Interests
+特長=Strengths
+
+??月??日=??Month ??Day
+白羊座=Aries
+金牛座=Taurus
+雙子座=Gemini
+巨蟹座=Cancer
+獅子座=Leo
+處女座=Virgo
+天秤座=Libra
+天蠍座=Scorpio
+射手座=Sagittarius
+摩羯座=Capricorn
+水瓶座=Aquarius
+雙魚座=Pisces
+r:"^(\d+)歲$"="$1 years old"
+
+角色詳情=<size\=22>Character Details</size>
+r:"^個人資料(\d+)$"="Info $1"
+
+----------
+Merope
+----------
+<color\=#FF0000>{{A}}</color>能為你提供更多<color\=#FF0000>{{B}}的服務</color>，可以幫助你育成更強大的{{C}}。=<size\=24><color\=#FF0000>{{A}}</color> can offer you more\n<color\=#FF0000>Velvet Room services</color>, helping you fuse stronger Personas.</size>
+偶像之路=Road to Idol
+可以使用「契約」功能，獲得更多怪盜偶像=Unlock the [Contract] feature \nto get more Kaidols
+特別招待=Special Service
+解鎖{{A}}的合成=Unlock fusion for {{A}}
+理想形象=Ideal Image
+貴賓席位=VIP Seat
+聚光燈下=Under Spotlight
+我推即正義=My Push is Justice
+應援回饋=Fanchant Feedback
+合成Rank4及以下的2星、3星面具時，機率額外獲得一個印記=There is a chance to get 1 additional Mark when fusing Rank 4 and below 2★ and 3★ Persona
+對影獨舞=Dance with Shadow
+擁有攜帶幸運拳技能的{{A}}={{A}} with Lucky Punch
+擁有攜帶塔爾卡加技能的{{A}}={{A}} with Tarukaja
+擁有攜帶攻擊強化Ⅰ技能的{{A}}={{A}} with Attack Boost I
+擁有攜帶治療強化Ⅱ技能的{{A}}={{A}} with Healing Boost II
+擁有攜帶布芙達因技能的{{A}}={{A}} with Bufudyne
+擁有攜帶吸魔技能的{{A}}={{A}} with Life Drain
+擁有攜帶瑪哈塔爾卡加技能的{{A}}={{A}} with Matarukaja
+
+請恕我無可奉告=<size\=20>Forgive me I can't disclose this</size>
+寄託了創作者慾望的作品=<size\=17>Work infused with the creator's desires</size>
+支持我的推=Supporting my favorite
+提供特別計畫=Offer special plans
+
+----------
+Lufel
+----------
+<color\=#FF0000>{{A}}</color>掌握著很多{{B}}的探索技巧，可以教你<color\=#FF0000>製作潛入道具</color>。=<size\=24><color\=#FF0000>{{A}}</color> has mastered many metaverse exploration skills, he can teach you how to <color\=#FF0000>make Infiltration Tools</color>.</size>
+「交易」成立=Deal Established
+不定期發佈{{A}}的「商業」目標=Occasional get {{A}}'s "business" goals
+潛入道具製作=<size\=18>Making Infiltration Tools</size>
+可以進行潛入道具的製作（解鎖工作臺後解鎖）=Unlock crafting for Infiltration Tools (Unlock after getting the workbench)
+潛入行動心得=Infiltration Insights
+可以在{{A}}與{{B}}對低等級的陰影進行瞬殺=Can Insta-kill lower level Shadows in {{A}} and {{B}}
+可以在{{B}}與{{A}}對低等級的陰影進行瞬殺=Can Insta-kill lower level Shadows in {{B}} and {{A}}
+中階製作配方=Intermediate Recipe
+增加尋寶儀、潛入道具及禮物的製作=Unlock crafting for Treasure Seeker, more Infiltration Tools and gifts
+材料節省心得=<size\=20>Material Saving Insights</size>
+製作禮物時，有機率返還部分製作材料=Chance to refund materials when making gifts
+高階製作配方=Advanced Recipe
+增加可以製作的禮物=Increase the number of gifts that can be made
+製作技巧=Gift Making Skills
+製作禮物時，有機率額外產出一個=Chance to get an extra gift when making gift
+
+不記得了=Don't remember
+人類觀察=People watching
+所有肉類=All meats
+知道一些古老的語言=Know some ancient languages
+
+----------
+Motoha
+----------
+<color\=#FF0000>{{A}}</color>能教給你各種<color\=#FF0000>棒球的技巧</color>，可以幫助你在棒球挑戰中有更好的表現。=<size\=24><color\=#FF0000>{{A}}</color> can teach you a variety of <color\=#FF0000>baseball skills</color>, helping you perform better in baseball.</size>
+我看到了=I Saw It
+在進行棒球練習時，可以進入觀察模式=Can use Third Eye in baseball
+一起加油吧=<size\=30>Let's work hard together</size>
+多多加強鍛煉=Exercise More
+以{{C}}結束戰鬥時，回滿全隊HP（僅對{{B}}和{{A}}中的遊蕩陰影生效）=When ending a battle with an All-Out Attack, fully restore all allies' HP (Only work against Roaming Shadows in Palace and Mementos)
+多多加強鍛煉=Exercise More
+可以在棒球練習中挑戰新的難度；增加在棒球練習場兌換處能夠兌換的商品種類=Unlock a higher difficulty in baseball. Increase the number of exchange items available in the Batting Cage
+準備上了哦=Ready to Go
+從安全小屋休息後，HL未達到30%能量時，恢復至30%（僅對{{B}}和{{A}}中的遊蕩陰影生效）=Restore to 30% HIGHLIGHT energy after resting in a Safe Room (Only work against Roaming Shadows in Palace and Mementos)
+放馬過來吧=Bring it on
+可以在棒球練習中挑戰更高的難度；進一步增加在棒球練習場兌換處能夠兌換的商品種類=Unlock an even higher difficulty in baseball. Further increase the number of exchange items available in the Batting Cage
+
+r:"^(\d+)月(\d+)日$"="$1/$2"
+O型=Type O
+高中2年級=High school second year
+高中生=High school student
+最近重了一點呢……=<size\=20>Gained a bit of weight lately...</size>
+訓練，看電影=Working out, watching movies
+媽媽做的飯=Mom's cooking
+我視力很好哦！=I have great eyesight!
+
+----------
+Yaoling
+----------
+<color\=#FF0000>{{A}}</color>可以送給你各種各樣<color\=#FF0000>來自中國的神秘道具</color>，說不定會有意想不到的用途。=<size\=24><color\=#FF0000>{{A}}</color> can gift you a variety of <color\=#FF0000>mysterious items from China</color>. Maybe there will be some unexpected uses.</size>
+心靈手巧=Ingenuity
+開放部分戰鬥內小道具的製作=Unlock crafting for some Combat Items
+中華料理配方=<size\=20>Chinese Cuisine Recipe</size>
+開放部分中式料理的烹飪=Unlock cooking for some Chinese cuisines
+努力的回報=Fruits of Labour 
+開放更多戰鬥內道具的製作=Unlock crafting for even more Combat Items
+嫺熟的技巧=Dexterous Skills
+戰鬥道具製作時機率返還部分材料=Chance to refund materials when crafting Combat Items
+中華料理的魅力=<size\=18>Charm of Chinese Cuisine</size>
+開放更多中式料理的烹飪=Unlock cooking for even more Chinese cuisines
+
+A型=Type A
+大學1年級=University first year
+大學生=University student
+是秘密哦=It's a secret
+火鍋=Hot pot
+探訪咖啡店=Visiting café
+我對廚藝很有自信！=<size\=21>I am very confident in my cooking!</size>
+
+----------
+Tomoko
+----------
+<color\=#FF0000>{{A}}</color>對各種各樣的<color\=#FF0000>打工</color>頗有心得，可以幫助你在打工中獲得更多成長。=<size\=24><color\=#FF0000>{{A}}</color> has a variety of\n<color\=#FF0000>part-time</color> experiences, helping you gain more social stats when working.</size>
+打工出道=Part-time Debut
+可以去「{{A}}·百萬甜品店」打工了=Can now work at \nthe Shibuya Crepe Shop
+觀察的心得=Observation Insights
+打工時，可以使人格指數獲得額外的成長=Gain more Social Stats when working
+櫃檯接待能手=Reception Expert
+可以去「{{A}}·藥妝店」打工了=Can now work at \nthe Shibuya Drug Store
+服務的心得=Service Insights
+打工時，可以使人格指數獲得更多的額外成長=Gain even more Social Stats when working
+客人情緒觀察=<size\=20>Customer Observation</size>
+可以去「{{A}}·日乃國屋書店」打工了=Can now work at \nthe Shinjuku Bookstore
+
+AB型=Type AB
+我不太想回答呢……=<size\=21>I don't really want to answer...</size>
+所有蛋類料理=All egg dishes
+能讓身體活動起來的事情，人類觀察=Physical activities, people watching
+我其實很擅長畫肖像畫=<size\=20>I'm actually pretty good at portraiture</size>
+
+----------
+Kayo
+----------
+<color\=#FF0000>{{A}}</color>為你準備了很多<color\=#FF0000>服飾</color>，穿上看看是不是合身吧。=<size\=22><color\=#FF0000>{{A}}</color> has prepared many <color\=#FF0000>outfits</color> for you. Put them on and see if they fit.</size>
+時尚設計師=Fashion Designer
+贈送時裝「休閒正裝」=Get the "Smart Casual" outfit
+新的潮流=New Trend
+贈送時裝「休閒正裝·綠」=Get the "Smart Casual - Green" outfit
+時尚的多樣化=Diversity in Fashion
+可以在「{{A}}地下商場·服裝店」購買新時裝了=Can buy new outfits in the Shibuya underground mall clothing store
+用心縫製=Sewed with Care
+可以在「{{A}}地下商場·高級服裝店」購買新時裝了=Can buy new outfits in the Shibuya underground mall high-end clothing store
+特別的品味=Special Taste
+贈送時裝「休閒學派」=Get the "Casual Uniform" outfit
+
+B型=Type B
+家庭主婦=Housewife
+問女孩子這個問題可不合適哦？=<size\=17>You can't ask a girl that, you know?</size>
+炸蝦天婦羅=Fried shrimp tempura
+手機上的解謎遊戲=Puzzle games on phone
+洋裝裁剪，所有手工藝=Dress cutting, all handicraft
+
+----------
+Shun
+----------
+<color\=#FF0000>{{A}}</color>可以帶你了解很多高深的<color\=#FF0000>烹飪</color>技巧，幫助你在烹飪時做出更優秀的料理。=<size\=21><color\=#FF0000>{{A}}</color> can teach you many advanced <color\=#FF0000>cooking</color> techniques, helping you make better dishes when cooking.</size>
+獨家料理配方=Exclusive Recipe
+增加可以製作料理的種類=Increase the variety of dishes that can be made
+食材處理心得=<size\=20>Food Handling Insights</size>
+製作料理時，有一定機率返還部分製作材料=Chance to refund ingredients when cooking
+熟練的烹飪技巧=<size\=20>Practiced Cooking Skills</size>
+製作完美食物機率增加=Increase the chance of making perfect food
+料理心得=Cooking Insights
+製作料理時，有一定機率會額外獲得一個=Chance to get an extra dish when cooking
+珍貴的料理配方=Precious Recipe
+進一步增加可以製作料理的種類=Further increase the variety of dishes that can be made
+
+拉麵=Ramen
+邊走邊吃、做點心=Walk and eat, making snacks
+能透過料理的味道推測食譜=Can guess the recipe from taste
+
+----------
+YUI
+----------
+<color\=#FF0000>{{A}}</color>可以幫助你提高對<color\=#FF0000>栽培</color>知識和理解，能更有效地縮短家園種植的成熟週期。=<size\=21><color\=#FF0000>{{A}}</color> can help you improve your knowledge and understanding of <color\=#FF0000>cultivation</color>, decreasing the time it takes to cultivate plants.</size>
+和植物聊天=Talk to Plants
+種植時間降低=Decrease the time needed to cultivate plants
+與植物做朋友=Befriending Plants
+解鎖更多花盆和菜盆=Unlock more flower pots and vegetable pots
+回應的心意=Thought of Response
+種植收穫時機率獲得種子=Chance to gain seeds when harvesting
+園藝心得=Cultivation Insights
+種植有一定機率獲得額外產出=Chance to gain more yield when harvesting
+傳達的心聲=Convey Wishes
+種植時間大幅降低=Greatly decrease the time needed to cultivate plants
+
+{{A}}型！=Type {{A}}!
+是秘密哦！=It's a secret!
+算是……{{A}}主吧=Sort of... a landlord
+大約5000兆MB吧？=About 5000 MB?
+是馬鈴薯哦！=It's potatoes!
+開墾荒野！=Reclaiming the wilderness!
+可以做超——多的事情哦！=Can do sooo- many things!
+
+----------
+Kiyoshi
+----------
+<color\=#FF0000>{{A}}</color>收集了很多<color\=#FF0000>書籍</color>，閱讀之後可以增長很多見識。=<size\=24><color\=#FF0000>{{A}}</color> collected many <color\=#FF0000>books</color>. You can enrich yourself after reading them.</size>
+休息也是作戰=Rest is also Battle
+獲得書籍『高效放鬆法』=Get the book [Efficient Relaxation]
+治癒天使=Healing Angel
+獲得書籍『關於急救的一切』=Get the book [All About First Aid]
+突破人體的限制=Limit Break
+獲得書籍『肌肉，GO！』=Get the book [Muscle, GO!]
+我已經知曉了=I Already Know
+獲得書籍『圖書管理員秘技！』=Get the book [Librarian's Secret Skill!]
+看穿一切=See Through All
+獲得書籍『電影與電影評論家』=Get the book [Film and Film Critics]
+
+高中1年級=High school first year
+纏繞黑暗的甘美聖杯（巧克力聖代）=<size\=16>Holy grail of darkness (chocolate sundae)</size>
+追尋在世間的「那些傢伙」的蹤跡=Tracking the traces of "those guys"
+「能力」可不能輕易透露哦="Abilities" are meant to be hidden
+
+----------
+Yumi
+----------
+<color\=#FF0000>{{A}}</color>能教給你各種<color\=#FF0000>飲品</color>的製作方式，説明你在烹飪時做出更優秀的飲品。=<size\=24><color\=#FF0000>{{A}}</color> can teach you a variety of <color\=#FF0000>drink</color> recipes, helping you make better drinks when cooking.</size>
+搖和法=Shake
+烹飪台解鎖新飲品的製作\n（飲用後可提升屬性）=Unlock new drinks in cooking (Which improve stats when consumed)
+烹飪台解鎖新飲品（飲用後可提升屬性）的製作=Unlock new drinks in cooking (Which improve stats when consumed)
+濾冰法=Strain
+烹飪台解鎖新飲品的製作\n（飲用後可恢復行動力）=Unlock new drinks in cooking (Which restore Energy Points when consumed)
+烹飪台解鎖新飲品（飲用後可恢復行動力）的製作=Unlock new drinks in cooking (Which restore Energy Points when consumed)
+攪合法=Blend
+提升「{{A}}·便利商店」中「阿薩姆紅茶」的購買上限=Increase the purchase limit of Assam Tea in the Shinjuku Convenience Store
+雪霜法=Frozen
+製作完美飲品的機率增加（僅對標記飲品的菜品生效）=Increase the chance of making perfect drinks (Only work on marked drinks)
+雙混法=Dual Mixing
+製作飲品時，有50%機率額外獲得1個（僅對標記飲品的菜品生效）=50% chance to get 1 extra drink when making a drink (Only work on marked drinks)
+
+調酒師=Bartender
+最近喝的有點多呢～=<size\=20>Might've drank too much lately～</size>
+味道濃郁的食物=Rich-flavored food
+跳舞，居酒屋探店=Dancing, exploring izakayas
+花式調酒，水果雕刻=Flair bartending, fruit carving
+
+----------
+Ayaka
+----------
+<color\=#FF0000>{{A}}</color>能教給你各種<color\=#FF0000>演奏技巧</color>，可以幫助你在輕音社的活動中有更好的表現。=<size\=23><color\=#FF0000>{{A}}</color> can teach you a variety of <color\=#FF0000>musical skills</color>, helping you perform better in the Music Club.</size>
+孤獨的轉機=Solo Turning Point
+輕音部演奏時，Perfect、Great判定會變得更加容易=Easier to land Perfect and Great when performing in the Music Club
+救星趕來=Savior Hurry
+r:"^輕音部演奏時，每隔10秒，會自動將一個單鍵Miss修正為Perfect判定$"="When performing in the Music Club, automatically turn 1 Miss into Perfect every 10 seconds"
+孤獨的搖滾樂=Solo Rock
+解鎖歌曲Seize the Light=Unlock the song Seize The Light
+十二進位夕景=Twelve-tone Sunset
+輕音部演奏時，長鍵的末尾判定，即使不鬆手也會自動進行末尾判定=When performing in the Music Club, you won't Miss hold notes if you failed to release
+願與你迎來黎明=<size\=18>Greet Dawn Star with You</size>
+解鎖歌曲Wonder Light=Unlock the song Wonder Light
+
+保密（可能會被說不健康……）=<size\=21>May be considered unhealthy...</size>
+海藻涼粉=Seaweed jelly
+作曲，彈吉他=Composing, playing guitar
+左右手能同時做不同的動作=<size\=21>Both hands can move independently</size>
+
+----------
+Miyu
+----------
+<color\=#FF0000>{{A}}</color>能幫助你更準確地揣摩對方的心思，在<color\=#FF0000>送禮</color>時提升更多好感度，幫助你在人際交往中更加遊刃有餘。=<size\=21><color\=#FF0000>{{A}}</color> can help you gauge the hearts of others, increasing the amount of confidant points you gain when <color\=#FF0000>giving gifts</color>.</size>
+討人喜歡的小技巧=Adorable Tips
+可以在「{{B}}·能量石專賣店」購買「限量版鑰匙圈」；\n可以在「{{A}}·超市」購買「粗點心零食超值包」=You can buy [Limited Edition Keychain] at Kichijoji;\nYou can buy [Snacks Value Pack] at {{A}}
+溫暖的包容力=<size\=19>Warm Open-Mindedness</size>
+送禮時，好感度的喜好加成提升15%=Gain 15% more confidant points when giving gifts
+哥哥，{{A}}=<size\=18>Onii-sama, {{A}}</size>
+可以在「{{A}}地下商場·美妝店」購買「高級精油組合」；\n可以在「{{A}}地下商場·高級超市」購買「栗子蛋糕」=You can buy [Premium Essential Oil Set] at {{A}};\nYou can buy [Chestnut Cake] at {{A}}
+可以撒嬌嗎=Can I Act Cute?
+可以在「{{B}}·文具店」購買「音樂雪花球模型」；     \n可以在「{{A}}地下商場·美妝店」購買「桌上型熏香機」=You can buy [Music Snow Globe] at {{B}};\nYou can buy [Desktop Incense Burner] at {{A}}
+哥哥好狡猾=<size\=20>Onii-sama Is So Crafty</size>
+送禮時，基礎好感度提升15%=Gain 15% more confidant points when giving gifts
+
+比哥哥小一歲=<size\=19>One year younger than onii-sama</size>
+街頭藝人=Street performer
+絕——對保密！=Absolute- secret!
+高熱量食物（比如炸薯條）=High-calorie foods (like fries)
+逛舊書店=Browsing antique bookstores
+做木偶的衣服，節約=Making puppet clothes, saving
+
+----------
+Kira
+----------
+<color\=#FF0000>{{A}}</color>能教給你各種<color\=#FF0000>槍械技巧</color>，可以幫助你在戰鬥中有更好的表現。=<size\=23><color\=#FF0000>{{A}}</color> can teach you a variety of <color\=#FF0000>gun skills</color>, helping you perform better in combat.</size>
+快速裝彈=Quick Reload
+所有怪盜槍械射擊時，傷害提升10%=<size\=24>When Thieves use Gun Attack, increase Gun DMG by 10%</size>
+子彈上膛=Fully Loaded
+所有怪盜槍械射擊子彈耗光後，經過2回合準備，重新裝填100%的子彈=<size\=23>When Thieves ran out of ammo, refill 100% ammo after 2 turns</size>
+扣動扳機=Pull the Trigger
+所有怪盜槍械射擊時，射擊傷害提升10%=<size\=24>When Thieves use Gun Attack, increase Gun DMG by 10%</size>
+引燃火藥=Ignite Gunpowder
+所有怪盜槍械射擊時，射擊傷害額外提升10%=<size\=24>When Thieves use Gun Attack, increase Gun DMG by 10%</size>
+全速開火=Full Auto
+所有怪盜槍械射擊子彈耗光後，經過1回合準備，重新裝填100%的子彈=<size\=23>When Thieves ran out of ammo, refill 100% ammo after 1 turn</size>
+
+實習醫生=Intern
+果凍飲料（能量飲料味）=<size\=21>Jelly drink (energy drink flavor)</size>
+用超現實的冷笑話讓對方困惑=Confuse people with surreal jokes
+射擊遊戲=Shooter games
+
+----------
+Masaki
+----------
+<color\=#FF0000>{{A}}</color>能教給你各種<color\=#FF0000>大富豪打牌技巧</color>，可以幫助你在大富豪的對局中有更好的表現。=<size\=22><color\=#FF0000>{{A}}</color> can teach you a variety of <color\=#FF0000>tycoon skills</color>, helping you perform better in Tycoon.</size>
+囚徒困境=Prisoner's Dilemma
+開啟大富豪卡牌提示功能=Unlock the tips feature in Tycoon
+協和謬誤=<size\=20>Coordination Problem</size>
+可以使用「{{A}}」的大富豪角色=Unlock [{{A}}] in Tycoon
+槍手博弈=Truel
+可以使用「{{A}}」的方塊6皮膚卡牌=Unlock the [{{A}}] six of diamonds card skin
+手錶定律=Segal's Law
+開啟大富豪記牌器功能=Unlock the card tracker in Tycoon
+以牙還牙=Eye for an Eye
+大富豪商店可以購買更多的道具=Unlock more items in the Tycoon Shop
+
+高中3年級=High school third year
+百合根燉菜=Stewed lily roots
+呵護花朵=Taking care of flowers
+通曉1000種以上的花語=<size\=19>Know more than 1000 flower languages</size>
+
+----------
+Kotone
+----------
+<color\=#FF0000>{{A}}</color>能助力你在<color\=#FF0000>派遣</color>途中收穫更多驚喜，可以幫助你提高派遣途中的獲取獎勵效率。=<size\=24><color\=#FF0000>{{A}}</color> can help you in <color\=#FF0000>Dispatch</color>, increasing your efficiency of getting rewards.</size>
+四象限法則=Eisenhower Matrix 
+派遣完成時間減少5%=Decrease the time needed to complete Dispatch by 5%
+二八法則=Pareto Principle
+刷出常規委派數量+1=+1 to the max refreshes on Standard Commissions
+番茄工作法=Pomodoro Technique
+派遣完成時間減少10%=Decrease the time needed to complete Dispatch by 10%
+聚光法則=Concentration
+刷出藍色以上品質委託機率提升=Increase the chance to get above blue quality Commissions
+時間盒理論=Timeboxing Theory
+可以快速完成已經派遣的委託，\n每週限3次=<size\=21>Can instant complete 3 dispatched Commissions per week</size>
+
+花式滑冰選手=Figure skater
+不知道（每天都在變化）=<size\=20>Don't know (changes every day)</size>
+白桃雪酪=White peach sorbet
+聽爵士樂=Listening to jazz
+阿克塞爾三周跳=Triple axel jump
+
+----------
+Runa
+----------
+<color\=#FF0000>{{A}}</color>能教給你各種<color\=#FF0000>購物</color>溝通技巧，幫助你在都市購買商品時享受折扣價格。=<size\=24><color\=#FF0000>{{A}}</color> can teach you a variety of <color\=#FF0000>shopping skills</color>, helping you to get discounts when shopping.</size>
+節省竅門=Saving Tips
+r:"^{{A}}地區，大部分街頭店鋪商品有小幅降價$"="Most shop in {{A}}\nhave a small discount"
+r:"^{{A}}和{{B}}地區，大部分街頭店鋪商品有小幅降價$"="Most shop in {{A}} and {{B}} have a small discount"
+優惠秘訣=Discount Tips
+聰明選擇=Smart Choices
+{{A}}消費=Smart Spending
+購物智慧=Shopping Wisdom
+
+應該比{{A}}輕吧？=<size\=19>Should be lighter than {{A}}?</size>
+餛飩麵=Wonton noodles
+收集{{A}}的周邊=Collecting {{A}} merch
+已經把{{A}}的歷史全部記住了=<size\=17>Memorized the entire history of {{A}}</size>
+
+----------
+Riko
+----------
+<color\=#FF0000>{{A}}</color>可以帶你了解很多普通人難以接觸到的<color\=#FF0000>地點</color>，與心儀的協同者去逛逛看吧。=<size\=24><color\=#FF0000>{{A}}</color> can bring you to many hard-to-reach <color\=#FF0000>locations</color>, go there with your favorite Confidants.</size>
+美食祈禱和愛=<size\=21>Food Prayer and Love</size>
+解鎖約會地點「{{A}}·自助餐廳」=<size\=25>Unlock the Hangout Spot [{{A}} Buffet]</size>
+煙火味道=Flavor of Fireworks
+解鎖約會地點「元町·中華街」=<size\=22>Unlock the Hangout Spot [Motomachi Chinatown]</size>
+藍色大門=Blue Gate
+解鎖約會地點「品川·水族館」，並且在協同者邀約中可以獲得額外好感度=<size\=22>Unlock the Hangout Spot [Shinagawa Aquarium] and gain more Confidant Points from Invitations</size>
+米粒間的心事=<size\=20>Thoughts between Rice</size>
+解鎖約會地點「銀座·壽司店」=<size\=21>Unlock the Hangout Spot [Ginza Sushi Restaurant]</size>
+泛黃的時光=Yellowing Times
+解鎖約會地點「{{A}}·家電量販店」，並且在協同者邀約中可以獲得更多額外好感度=<size\=26>Unlock the Hangout Spot [{{A}} Electronics Store] and gain even more Confidant Points from Invitations</size>
+自助餐廳=Buffet
+中華街=Chinatown
+水族館=Aquarium
+壽司店=Sushi Restaurant
+家電量販店=Electronics Store
+
+梅子茶泡飯、蜜瓜蛋糕=Plum tea rice, melon cake
+收集繪本=Collecting picture books
+橫向思維謎題=Lateral thinking puzzles
+
+----------
+Mio
+----------
+<color\=#FF0000>{{A}}</color>能教給你各種<color\=#FF0000>網購</color>技巧，可以幫助你在「網購」中快捷購買物品，其中還有只能透過網購才可以獲得的物品。=<size\=22><color\=#FF0000>{{A}}</color> can teach you a variety of <color\=#FF0000>online shopping</color> skills, helping you buy items online faster, including items that are only available through online shopping.</size>
+火線商城=Live Wire Mall
+可以使用「網購」功能；\n可以在網購商店中購買「{{A}}」地區的商品=Unlock the [Online Shopping] feature;\nCan buy items from [{{A}}] online
+安全補給=Safe Supply
+可以在網購商店中購買「{{A}}」地區的商品=<size\=24>Can buy items from [{{A}}] online</size>
+供貨網路=Supply Network
+管道展開=Pipeline Expansion
+後勤保障=Logistical Support
+倉儲{{A}}=Warehouse {{A}}
+
+消防員=Firefighter
+肌肉多，應該比你重=<size\=18>Muscular, probably heavier than you</size>
+梅乾、威化餅=Dried plums, wafers
+觀看海外紀錄片=Watching overseas documentaries
+可能跑得很快=Can run very fast
+
+----------
+Mayumi
+----------
+<color\=#FF0000>{{A}}</color>能教給你各種<color\=#FF0000>抓娃娃技巧</color>，可以幫助你在抓娃娃時有更好的體驗。=<size\=23><color\=#FF0000>{{A}}</color> can teach you a variety of <color\=#FF0000>crane game</color> skills, helping you have a better experience in crane game.</size>
+遊戲中心常客=Arcade Regular
+增加在小型娃娃機中抓到娃娃的機率=Increase the chance to get dolls in small crane machine
+看準時機！=Timing is Key!
+增加在中型娃娃機中抓到娃娃的機率=Increase the chance to get dolls in medium crane machine
+這裡是隱藏介面=Hidden Interface
+娃娃機商店中增加新的商品=<size\=24>Add new items to the crane machine shop</size>
+這也是練習的成果=Results of Practice
+增加在小型娃娃機中抓到高級稀有度娃娃的機率=Increase the chance to get super rare dolls in small crane machine
+別放手哦=Don't Let Go
+增加在中型娃娃機中抓到高級稀有度娃娃的機率=Increase the chance to get super rare dolls in medium crane machine
+
+高中生、影片頻道主=<size\=19>High school student, video creator</size>
+企業機密=Trade secret
+咖哩飯、鬆餅=Curry, pancakes
+觀看賽車比賽=Watching motorsports
+記住了世界三大賽車40年來的比賽結果=<size\=17>Memorized 40 years of top-tier race results</size>
+
+----------
+Manaka
+----------
+<color\=#FF0000>{{A}}</color>能助力你在鍛煉<color\=#FF0000>五維</color>時取得進步，幫助你在五維成長過程中獲得更高的收益。=<size\=22><color\=#FF0000>{{A}}</color> can help you in improving <color\=#FF0000>Social Stats</color>, helping you gain more rewards during your growth.</size>
+邁出一步的力量=<size\=20>Power to Step Forward</size>
+sr:"^都市日程中「(.*)」、「(.*)」的人格指數獲得量提升$"="<size\=23>Gain more [$1] and [$2] from City Activities</size>"
+並肩前行的勇氣=<size\=18>Courage to Move Together</size>
+傳遞快樂的決心=<size\=18>Determination to Spread Happiness</size>
+人格指數提升到16/18/20級時，可以獲得1個「靈感輝光」=<size\=26>Gain 1 [Inspiration Glow] when reaching Rank 16/18/20 Social Stats</size>
+開拓見聞的毅力=<size\=18>Perseverance in Expanding Horizons</size>
+r:"^都市日程中「知識」的人格指數獲得量提升$"="Gain more [Knowledge] from City Activities"
+最重要的，是和你一起=<size\=17>Most Importantly, With You</size>
+r:"^人格指數提升到(\d+)級後，每(\d+)點超額的經驗將轉化為隨機禮物道具。$"="After reaching Rank $1 Social Stats, convert every $2 excess experience into a random gift."
+
+經常被說要多吃點=Often told to eat more
+奶奶特製的乳酪燉菜=<size\=20>Grandma's special cheese stew</size>
+唱歌、流覽影片分享網站=Singing, browsing video sharing sites
+蜂蜜品種繞口令=Great at tongue twisters

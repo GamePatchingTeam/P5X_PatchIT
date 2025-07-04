@@ -1,0 +1,243 @@
+﻿A=A
+B=B
+C=C
+D=D
+E=E
+F=F
+G=G
+H=H
+I=I
+J=J
+K=K
+L=L
+M=M
+N=N
+O=O
+P=P
+Q=Q
+R=R
+S=S
+T=T
+U=U
+V=V
+W=W
+X=X
+Y=Y
+Z=Z
+a=a
+b=b
+c=c
+d=d
+e=e
+f=f
+g=g
+h=h
+i=i
+j=j
+k=k
+l=l
+m=m
+n=n
+o=o
+p=p
+q=q
+r=r
+s=s
+t=t
+u=u
+v=v
+w=w
+x=x
+y=y
+z=z
+fps=fps
+
+Purchase Limit: 1=Limite di acquisto: 1
+Purchase Limit: 2=Limite di acquisto: 2
+Purchase Limit: 3=Limite di acquisto: 3
+Purchase Limit: 4=Limite di acquisto: 4
+Purchase Limit: 5=Limite di acquisto: 5
+Purchase Limit: 6=Limite di acquisto: 6
+Purchase Limit: 7=Limite di acquisto: 7
+Purchase Limit: 8=Limite di acquisto: 8
+Purchase Limit: 9=Limite di acquisto: 9
+Purchase Limit: 10=Limite di acquisto: 10
+Purchase Limit: 11=Limite di acquisto: 11
+Purchase Limit: 12=Limite di acquisto: 12
+Purchase Limit: 13=Limite di acquisto: 13
+Purchase Limit: 14=Limite di acquisto: 14
+Purchase Limit: 15=Limite di acquisto: 15
+Purchase Limit: 16=Limite di acquisto: 16
+Purchase Limit: 17=Limite di acquisto: 17
+Purchase Limit: 18=Limite di acquisto: 18
+Purchase Limit: 19=Limite di acquisto: 19
+Purchase Limit: 20=Limite di acquisto: 20
+Purchase Limit: 21=Limite di acquisto: 21
+Purchase Limit: 22=Limite di acquisto: 22
+Purchase Limit: 23=Limite di acquisto: 23
+Purchase Limit: 24=Limite di acquisto: 24
+Purchase Limit: 25=Limite di acquisto: 25
+Purchase Limit: 26=Limite di acquisto: 26
+Purchase Limit: 27=Limite di acquisto: 27
+Purchase Limit: 28=Limite di acquisto: 28
+Purchase Limit: 29=Limite di acquisto: 29
+Purchase Limit: 30=Limite di acquisto: 30
+Purchase Limit: 31=Limite di acquisto: 31
+Purchase Limit: 32=Limite di acquisto: 32
+Purchase Limit: 33=Limite di acquisto: 33
+Purchase Limit: 34=Limite di acquisto: 34
+Purchase Limit: 35=Limite di acquisto: 35
+Purchase Limit: 36=Limite di acquisto: 36
+Purchase Limit: 37=Limite di acquisto: 37
+Purchase Limit: 38=Limite di acquisto: 38
+Purchase Limit: 39=Limite di acquisto: 39
+Purchase Limit: 40=Limite di acquisto: 40
+Purchase Limit: 41=Limite di acquisto: 41
+Purchase Limit: 42=Limite di acquisto: 42
+Purchase Limit: 43=Limite di acquisto: 43
+Purchase Limit: 44=Limite di acquisto: 44
+Purchase Limit: 45=Limite di acquisto: 45
+Purchase Limit: 46=Limite di acquisto: 46
+Purchase Limit: 47=Limite di acquisto: 47
+Purchase Limit: 48=Limite di acquisto: 48
+Purchase Limit: 49=Limite di acquisto: 49
+Purchase Limit: 50=Limite di acquisto: 50
+Purchase Limit: 51=Limite di acquisto: 51
+Purchase Limit: 52=Limite di acquisto: 52
+Purchase Limit: 53=Limite di acquisto: 53
+Purchase Limit: 54=Limite di acquisto: 54
+Purchase Limit: 55=Limite di acquisto: 55
+Purchase Limit: 56=Limite di acquisto: 56
+Purchase Limit: 57=Limite di acquisto: 57
+Purchase Limit: 58=Limite di acquisto: 58
+Purchase Limit: 59=Limite di acquisto: 59
+Purchase Limit: 60=Limite di acquisto: 60
+Purchase Limit: 61=Limite di acquisto: 61
+Purchase Limit: 62=Limite di acquisto: 62
+Purchase Limit: 63=Limite di acquisto: 63
+Purchase Limit: 64=Limite di acquisto: 64
+Purchase Limit: 65=Limite di acquisto: 65
+Purchase Limit: 66=Limite di acquisto: 66
+Purchase Limit: 67=Limite di acquisto: 67
+Purchase Limit: 68=Limite di acquisto: 68
+Purchase Limit: 69=Limite di acquisto: 69
+Purchase Limit: 70=Limite di acquisto: 70
+Purchase Limit: 71=Limite di acquisto: 71
+Purchase Limit: 72=Limite di acquisto: 72
+Purchase Limit: 73=Limite di acquisto: 73
+Purchase Limit: 74=Limite di acquisto: 74
+Purchase Limit: 75=Limite di acquisto: 75
+Purchase Limit: 76=Limite di acquisto: 76
+Purchase Limit: 77=Limite di acquisto: 77
+Purchase Limit: 78=Limite di acquisto: 78
+Purchase Limit: 79=Limite di acquisto: 79
+Purchase Limit: 80=Limite di acquisto: 80
+Purchase Limit: 81=Limite di acquisto: 81
+Purchase Limit: 82=Limite di acquisto: 82
+Purchase Limit: 83=Limite di acquisto: 83
+Purchase Limit: 84=Limite di acquisto: 84
+Purchase Limit: 85=Limite di acquisto: 85
+Purchase Limit: 86=Limite di acquisto: 86
+Purchase Limit: 87=Limite di acquisto: 87
+Purchase Limit: 88=Limite di acquisto: 88
+Purchase Limit: 89=Limite di acquisto: 89
+Purchase Limit: 90=Limite di acquisto: 90
+Purchase Limit: 91=Limite di acquisto: 91
+Purchase Limit: 92=Limite di acquisto: 92
+Purchase Limit: 93=Limite di acquisto: 93
+Purchase Limit: 94=Limite di acquisto: 94
+Purchase Limit: 95=Limite di acquisto: 95
+Purchase Limit: 96=Limite di acquisto: 96
+Purchase Limit: 97=Limite di acquisto: 97
+Purchase Limit: 98=Limite di acquisto: 98
+Purchase Limit: 99=Limite di acquisto: 99
+Purchase Limit: 100=Limite di acquisto: 100
+Have=<align\=center>Hai</align>
+Locked=Bloccato
+
+Collected: =Raccolto: 
+
+Network error. Please log in again.\n(Error code: 1045012)=Errore di rete. Accedi di nuovo.\n(Codice di errore: 1045012)
+No Story Log.=Niente da mostrare.	
+Tap screen to return.=Tocca lo schermo per tornare indietro.
+This will advance the story up to a predetermined plot point. Do you want to skip?\n<color\=#FF423F>(This message will only be displayed once per login.)</color>=Questo farà avanzare la storia fino a un punto di trama predeterminato. Vuoi continuare?\n<color\=#FF423F>(Questo messaggio verrà visualizzato solo una volta per accesso.)</color>
+
+Event=Evento
+Guide=Guida
+No missions available.=Nessuna missione disponibile.
+Nothing here yet.=Ancora niente qui.
+
+Shopping=Shopping
+SYSTEM=SISTEMA
+DAILY=QUOTIDIANO
+BATTLE=BATTAGLIA
+RANK=RANGO
+ALL=TUTTO
+OFF=SPENTO
+CHOOSE=SCEGLI
+HIGHLIGHT=ASSOLO
+SKILL=ABILITÀ
+INFO=INFORMAZIONI
+Level=Livello
+Tutorials=Tutorial
+Contracts=Contratti
+ID:=ID:
+
+Requirements Not Met=Requisiti Non Soddisfatti
+Stop the alarm=Ferma l'allarme
+Don't remove for sorting.=Non rimuovere per l'ordinamento.
+Specified Commercial Transactions Act and Payment Services Act=Legge sulle transazioni commerciali e sui servizi di pagamento specifici
+Community=Community
+Notices=Avvisi
+Cost: =Costo: 
+
+Settings=Impostazioni
+Saved.=Salvato.
+Copied=Copiato
+<link\="htp|https:\/\/beian.miit.gov.cn/"><u>Beijing ICP No. 2021015964-3A</u></link>=<link\="htp|https:\/\/beian.miit.gov.cn/"><u>Beijing ICP n. 2021015964-3a</u></link>
+
+
+Bonus!=Bonus!
+Currency=Valuta
+Shop=Compra
+Exchange=Scambio
+Craft=Crea
+
+Explorer=Esploratore
+Revelations=Rivelazioni
+Personas=Personas
+Weapons=Armi
+Phantom Thieves=Ladri fantasma
+Recipes=Ricette
+Capsules=Capsule
+Story Log=Registro della storia
+Your journey begins. Let curiosity guide you.=Il tuo viaggio inizia. Lascia che la curiosità ti guidi.
+View Collections=Visualizza collezioni
+Main Story=Storia principale
+Side Story=Storia secondaria
+You haven't unlocked this episode yet.=Non hai ancora sbloccato questo episodio.
+Coming Soon=Prossimamente
+Level up to unlock Revelations.=Sali di livello per sbloccare le rivelazioni.
+
+Sightseer=Turista
+
+
+MAIL 
+
+Mail=Posta
+No mail available.=La posta è vuota.
+Claim All=Reclama tutto
+Delete All Claimed=Elimina reclamati
+
+
+OTHER
+Item/Talk Actions=Azioni Oggetti/Dialoghi
+No friend requests.=Nessuna richiesta d'amicizia.
+Mementos=Memento
+Cover=Copertina
+
+
+External Transmission Guidelines=Linee Guida per la Trasmissione Esterna
+Copyright Information=Informazioni sul Copyright
+Privacy Policy=Politica sulla Riservatezza
+Terms of Use=Termini di Utilizzo
