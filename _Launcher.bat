@@ -64,5 +64,4 @@ goto :end
 echo Nome di default rilevato (!fullName!), elaborazione saltata.
 
 :end
-pause
 start steam://run/3061570
