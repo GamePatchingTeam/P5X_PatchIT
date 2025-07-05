@@ -1,14 +1,14 @@
-ï»¿But I have to say, showing\nyourself above that crowd\nearlier was an excellent move.=Devo ammetterlo, mostrarti\nalla folla in quel modo\nÃ¨ stata una mossa eccellente.
+But I have to say, showing\nyourself above that crowd\nearlier was an excellent move.=Devo ammetterlo, mostrarti\nalla folla in quel modo\nè stata una mossa eccellente.
 Nice work as always, Joker.=Ottimo lavoro come sempre, Joker.
-Okay, the enemy's focus is on\nhim. Looks like the rest of\nus can slip away.=Ok, il nemico Ã¨ concentrato\nsu di lui. Direi che possiamo\nanche svignarcela.
-Everyone remember where we're\nmeeting up?=Ricordate tutti dov'Ã¨\nil punto di ritrovo?
+Okay, the enemy's focus is on\nhim. Looks like the rest of\nus can slip away.=Ok, il nemico è concentrato\nsu di lui. Direi che possiamo\nanche svignarcela.
+Everyone remember where we're\nmeeting up?=Ricordate tutti dov'è\nil punto di ritrovo?
 No worries, I can guide\nyou all.=Nessun problema, vi guido io.
 Comparing power levels...\nNo threat. Get 'em, Joker!=Confronto livelli di potenza...\nNessuna minaccia.\nFalli neri, joker!
-Why do I have to\nfill in this\ndumb form?=PerchÃ© devo compilare questo stupido modulo?
+Why do I have to\nfill in this\ndumb form?=Perché devo compilare questo stupido modulo?
 A lot of students\nare skipping school\nthese days.=Molti studenti stanno\nsaltando la scuola in\nquesti giorni.
 
-I don't want to do\nanything. It's all\nso boring...=Non voglio fare nulla.\n Ãˆ tutto cosÃ¬ noioso...
-Why do I have to\nstudy so much?=PerchÃ© devo studiare\ncosÃ¬ tanto?
+I don't want to do\nanything. It's all\nso boring...=Non voglio fare nulla.\n È tutto così noioso...
+Why do I have to\nstudy so much?=Perché devo studiare\ncosì tanto?
 I wouldn't mind\nstaying home and\ndoing nothing.=Non mi dispiacerebbe restare a casa a non fare nulla.
 I haven't thought\nabout the future\nat all...=Non ho pensato al futuro...
 Class is\ntoo hard.=Le lezioni sono\ntroppo dure.
@@ -20,21 +20,21 @@ I can't focus\nat all.=Non riesco a \nconcentrarmi affatto.
 
 SHIBUYA
 
-Let's go eat crÃªpes.=Andiamo a mangiare\ndelle crÃªpes.
+Let's go eat crêpes.=Andiamo a mangiare\ndelle crêpes.
 I wonder which books\nare popular lately.=Mi chiedo quali libri\nvadano di moda per adesso.
 I hope that girl\nis all right...=Spero che quella\nragazza stia bene...
-I'm too scared\nto go out into\nthe city now...=Ho troppa paura di\nandare in cittÃ  adesso...
+I'm too scared\nto go out into\nthe city now...=Ho troppa paura di\nandare in città adesso...
 I want to stop at\nthe drugstore on the\nway home.=Dovrei fare un salto\nin farmacia prima di\ntornare a casa.
-I don't even have an\nappetite anymore...=Non ho nemmeno\npiÃ¹ fame...
-I heard a student\ngot injured\nrecently...=Ho sentito che una\nstudentessa Ã¨ rimasta\nferita di recente...
-He only attacks\nwomen. It's\nterrifying...=Attacca solo le\ndonne. Ãˆ\nterrificante...
-Someone got pushed\non the tracks! Hope\nthey're okay...=Qualcuno Ã¨ stato spinto\nsui binari! Spero\nsia tutto a posto...
-That guy's\npretty cute.=Quel ragazzo Ã¨\nproprio carino.
-When are they going\nto catch him?=Quand'Ã¨ che\nlo cattureranno?
+I don't even have an\nappetite anymore...=Non ho nemmeno\npiù fame...
+I heard a student\ngot injured\nrecently...=Ho sentito che una\nstudentessa è rimasta\nferita di recente...
+He only attacks\nwomen. It's\nterrifying...=Attacca solo le\ndonne. È\nterrificante...
+Someone got pushed\non the tracks! Hope\nthey're okay...=Qualcuno è stato spinto\nsui binari! Spero\nsia tutto a posto...
+That guy's\npretty cute.=Quel ragazzo è\nproprio carino.
+When are they going\nto catch him?=Quand'è che\nlo cattureranno?
 The gym trainer\nseems a bit strange.=L'allenatore della\npalestra sembra\nun po 'strano.
 Can you believe what\nthey sell in vending\nmachines now?=Riesci a credere a cosa\nvendono nei distributori\nautomatici adesso?
 Uh... This tastes\nstrange. I don't\nlike it.=Bleah... ha un sapore\nstrano. Non mi piace.
-Isn't there a nicer\nrestaurant nearby?=Non c'Ã¨ un ristorante\npiÃ¹ bello qui vicino?
+Isn't there a nicer\nrestaurant nearby?=Non c'è un ristorante\npiù bello qui vicino?
 
 
 
@@ -49,7 +49,7 @@ Isn't there a nicer\nrestaurant nearby?=Non c'Ã¨ un ristorante\npiÃ¹ bello qui v
 I really want to\npull a rare figure.=Voglio un sacco\ntrovare un'action\nfigure rara.
 Old movies aren't\nbad. What's showing\nnext month?=I film antichi non\nsono male. Quale fanno\nil mese prossimo?
 Whoa! Someone broke\nthe record at the\nbatting cages?=Wow! Qualcuno ha\nbattuto il record delle\ngabbie di battuta?
-Think I'll visit\nthe bookstore.=Credo che farÃ² un\nsalto in libreria.
+Think I'll visit\nthe bookstore.=Credo che farò un\nsalto in libreria.
 Wonder if there's\nanything good on\nTV tonight.=Mi chiedo se stasera\nci sia qualcosa\nd'interessante in TV.
 Booored.=Noooooia.
 
@@ -57,29 +57,29 @@ Booored.=Noooooia.
 The underground mall\nmight have a good\ngift for her...=Potrei comprarle\nqualcosa al centro\ncommerciale sotterraneo...
 I heard he only\ntargets women.\nHow disgusting.=Ho sentito che prende\ndi mira solo le donne.\nChe schifo.
 I want a new pair\nof sneakers...=Voglio un nuovo\npaio di scarpe...
-I heard the train\nstopped. What\nhappened...?=Ho sentito che il treno\nsi Ã¨ fermato. Cos'Ã¨ successo...?
-The world is getting\nmore dangerous\nevery day.=Il mondo sta diventando\nogni giorno sempre\npiÃ¹ pericoloso.
+I heard the train\nstopped. What\nhappened...?=Ho sentito che il treno\nsi è fermato. Cos'è successo...?
+The world is getting\nmore dangerous\nevery day.=Il mondo sta diventando\nogni giorno sempre\npiù pericoloso.
 Let's just eat\nsomething.=Mangiamo qualcosa.
-If I meet him, I'll\nmake sure he\nregrets it.=Se lo becco,\ngliene farÃ² pentire\namaramente.
+If I meet him, I'll\nmake sure he\nregrets it.=Se lo becco,\ngliene farò pentire\namaramente.
 I'm too scared\nto walk alone.=Ho troppo paura\ndi camminare da sola.
 Let's go buy\nsome flowers.=Andiamo a comprare\ndei fiori.
 I'm hungry...=Ho fame...
-It's not even in the\nnews, and there's no\ninfo online...=Non Ã¨ nemmeno sui\nnotiziari e non ci sono\ninformazioni online...
-I think I'll have my\nboyfriend come\npick me up.=Penso che mi farÃ²\nvenire a prendere\ndal mio ragazzo.
-That girl who was\npushed on the tracks\nis in hospital.=Quella ragazza che Ã¨\nstata spinta sui binari\nÃ¨ finita all'ospedale.
+It's not even in the\nnews, and there's no\ninfo online...=Non è nemmeno sui\nnotiziari e non ci sono\ninformazioni online...
+I think I'll have my\nboyfriend come\npick me up.=Penso che mi farò\nvenire a prendere\ndal mio ragazzo.
+That girl who was\npushed on the tracks\nis in hospital.=Quella ragazza che è\nstata spinta sui binari\nè finita all'ospedale.
 I wonder if they'll\ncatch the Subway\nSlammer soon.=Mi chiedo quando\ncattureranno il Flagello\ndella Stazione.
 Let's go to the\nunderground mall\nat the station.=Andiamo al centro\ncommerciale sotterraneo\ndella stazione.
 
 I wonder if Noge-san\nis okay...=Mi chiedo se Noge-san\nstia bene...
-Someone was shoved\nviolently at\nthe station!=Qualcuno Ã¨ stato spinto\nviolentemente\nalla stazione!
+Someone was shoved\nviolently at\nthe station!=Qualcuno è stato spinto\nviolentemente\nalla stazione!
 No updates from\nDivine Justice yet.=Ancora nessun aggiornamento dalla Giustizia Divina.
-Things feel really\ndangerous lately.=Sembra tutto\ncosÃ¬ pericoloso\nultimamente.
-Who would do\nsuch a thing?\nThat's terrible.=Chi farebbe mai una\ncosa del genere?\nÃˆ terribile.
+Things feel really\ndangerous lately.=Sembra tutto\ncosì pericoloso\nultimamente.
+Who would do\nsuch a thing?\nThat's terrible.=Chi farebbe mai una\ncosa del genere?\nÈ terribile.
 An accident? I hope\neveryone's okay...=Un incidente? Spero\nche nessuno si\nsia fatto male...
 
 GACHA MACHINE
 We have quite a selection. You're free to pick what you like.=Abbiamo una vasta scelta. Sei libero di scegliere quello che ti piace.
-They all are very interesting.\nWhy not try them out?=Sono tutti molto interessanti.\nPerchÃ© non li proviamo?
-What's wrong?\nDid you not want that one?=Cosa c'Ã¨ che non va?\nNon era quello che volevi?
-This is a new one. Luck's on your side today.=Questo Ã¨ nuovo! La fortuna\nÃ¨ dalla tua parte oggi.
+They all are very interesting.\nWhy not try them out?=Sono tutti molto interessanti.\nPerché non li proviamo?
+What's wrong?\nDid you not want that one?=Cosa c'è che non va?\nNon era quello che volevi?
+This is a new one. Luck's on your side today.=Questo è nuovo! La fortuna\nè dalla tua parte oggi.
 Ooh. Never seen this before.=Ooohh! Questo non l'avevo mai visto.

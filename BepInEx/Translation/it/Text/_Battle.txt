@@ -1,4 +1,4 @@
-ÔªøCOMMON
+COMMON
 Single-Target=Bersaglio singolo
 Multi-Target=Bersaglio multiplo
 Highlight=Assolo
@@ -54,17 +54,17 @@ Mapsiodyne=Mapsiodyne
 JOKER
 W<color\=#000000>i</color>ll of Rebellion=W<color\=#000000>i</color>ll of Rebellion
 
-Ars√®ne=Ars√®ne
+ArsËne=ArsËne
 
-Curse dmg to all foes. Gain 1 Will of Rebellion.=DMG da Maledizione a tutti i nemici. Ottieni 1 volont√† di ribellione.
+Curse dmg to all foes. Gain 1 Will of Rebellion.=DMG da Maledizione a tutti i nemici. Ottieni 1 volont‡ di ribellione.
 
 Trickster's Plunder=Saccheggio del Trickster
-Curse dmg to all foes. Chance to inflict Curse. Gain 1 Will of Rebellion.=DMG da Maledizione a tutti i nemici. Possibilit√† d'infliggere Maledizione. Ottieni 1 Volont√† di Ribellione.
+Curse dmg to all foes. Chance to inflict Curse. Gain 1 Will of Rebellion.=DMG da Maledizione a tutti i nemici. Possibilit‡ d'infliggere Maledizione. Ottieni 1 Volont‡ di Ribellione.
 
 Phantom Omen=Presagio Fantasma
-Curse dmg to 1 foe. If 1 foe is present, gain 2 Will of Rebellion.=DMG da Maledizione a un nemico. Se c'√® un solo nemico, ottieni 2 Volont√† di Ribellione.
+Curse dmg to 1 foe. If 1 foe is present, gain 2 Will of Rebellion.=DMG da Maledizione a un nemico. Se c'Ë un solo nemico, ottieni 2 Volont‡ di Ribellione.
 
-Ars√®ne's Chains=Catene di Ars√®ne
+ArsËne's Chains=Catene di ArsËne
 Curse dmg to all foes. Increase dmg on Extra Action. Increase dmg when foe has debuff.=DMG da Maledizione a tutti i nemici. Aumenta il DMG da Staffetta e quando il nemico ha un malus.
 
 

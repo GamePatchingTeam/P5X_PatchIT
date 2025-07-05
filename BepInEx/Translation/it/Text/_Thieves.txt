@@ -1,4 +1,4 @@
-ï»¿Lv=Lv
+Lv=Lv
 Lv.=Lv.
 Attack=Attacco
 HP=HP
@@ -10,7 +10,7 @@ SP Recovery Taken=Recupero SP ricevuto
 Shield=Scudo
 Shield Received=Scudo ricevuto
 Defense=Difesa
-Speed=VelocitÃ 
+Speed=Velocità
 Crit Mult.=Molt. di crit
 Crit Rate=Tasso di crit
 Crit Rate: =Tasso di crit: 
@@ -31,9 +31,9 @@ Weakness Mult. +=Molt. debolezza +
 Attack Mult. +=Molt. attacco +
 Pierce Resistance=Resistenza a perforazione
 Ailment Resist.=Resistenza alterazioni
-Strong Attack Down=Attacco potenziato giÃ¹
-Weak Attack Down=Attacco debole giÃ¹
-Damage Down=Danno giÃ¹
+Strong Attack Down=Attacco potenziato giù
+Weak Attack Down=Attacco debole giù
+Damage Down=Danno giù
 Ailment Acc.=Acc. alterazioni
 Down Points=Punti atterramento
 
@@ -43,16 +43,16 @@ Ranged Attack=Attacco a distanza
 Effects=Effetti
 Multiplier: =Moltiplicatore: 
 Accuracy: =Precisione: 
-Basic Abilities=AbilitÃ  di base
+Basic Abilities=Abilità di base
 
 Role=Ruolo
 Sweeper=Assaltatore
 Deals with groups of foes through multi-target attacks.=Efficace contro gruppi di nemici tramite attacchi a bersaglio multiplo.
 
-Nagisa=Nagisa
-Nagisa Kamisiro=Nagisa Kamishiro
+Over=Over
+Over Blitz=Over Blitz
 Wonder=Wonder
-JÃ¡noÅ¡Ã­k=JÃ¡noÅ¡Ã­k
+Jánošík=Jánošík
 CV.Koki Uchiyama=VA. Koki Uchiyama
 
 Joker=Joker
@@ -61,18 +61,18 @@ Ryuji=Ryuji
 Ryuji Sakamoto=Ryuji Sakamoto
 Captain Kidd=Captain Kidd
 CV. Mamoru Miyano=VA. Mamoru Miyano
-A second-year high school student.\nAlthough his words and actions can be crude, he has a caring, dependable, and outgoing personality.\nAfter meeting Joker, he awakens his abilities as a Persona-user.\nHis codename is Skull.\nHis initial Persona is Captain Kidd.=Uno studente del secondo anno di liceo.\nAnche se i suoi modi e le sue parole possono sembrare rozzi, ha una personalitÃ  premurosa, affidabile ed estroversa.\nDopo aver incontrato Joker, risveglia le sue capacitÃ  di utilizzatore di Persona.\nIl suo nome in codice Ã¨ Skull.\nLa sua Persona iniziale Ã¨ Captain Kidd.
-Do you want to trade to receive the 5â˜… Phantom Thief Morgana?=Vuoi ricevere il Ladro Fantasma 5â˜… Morgana?
+A second-year high school student.\nAlthough his words and actions can be crude, he has a caring, dependable, and outgoing personality.\nAfter meeting Joker, he awakens his abilities as a Persona-user.\nHis codename is Skull.\nHis initial Persona is Captain Kidd.=Uno studente del secondo anno di liceo.\nAnche se i suoi modi e le sue parole possono sembrare rozzi, ha una personalità premurosa, affidabile ed estroversa.\nDopo aver incontrato Joker, risveglia le sue capacità di utilizzatore di Persona.\nIl suo nome in codice è Skull.\nLa sua Persona iniziale è Captain Kidd.
+Do you want to trade to receive the 5? Phantom Thief Morgana?=Vuoi ricevere il Ladro Fantasma 5? Morgana?
 
 Morgana=Morgana
 Zorro=Zorro
 CV. Ikue Otani=VA. Ikue Otani
-A mysterious catlike creature.\nHe can communicate with humans and claims to be able to transform into various objects, yet many things about him remain shrouded in mystery.\nAlthough he can be aggressive at times, he's also incredibly selfless and supports his teammates.\nHe often exclaims, "I'm not a cat!"\nHis codename is Mona.\nHis initial Persona is Zorro.=Una misteriosa creatura simile a un gatto.\nPuÃ² comunicare con gli esseri umani e afferma di saper trasformarsi in vari oggetti, ma molte cose su di lui restano avvolte nel mistero.\nSebbene a volte possa essere aggressivo, Ã¨ anche incredibilmente altruista e sostiene sempre i suoi compagni.\nEsclama spesso: "Non sono un gatto!"\nIl suo nome in codice Ã¨ Mona.\nLa sua Persona iniziale Ã¨ Zorro.
+A mysterious catlike creature.\nHe can communicate with humans and claims to be able to transform into various objects, yet many things about him remain shrouded in mystery.\nAlthough he can be aggressive at times, he's also incredibly selfless and supports his teammates.\nHe often exclaims, "I'm not a cat!"\nHis codename is Mona.\nHis initial Persona is Zorro.=Una misteriosa creatura simile a un gatto.\nPuò comunicare con gli esseri umani e afferma di saper trasformarsi in vari oggetti, ma molte cose su di lui restano avvolte nel mistero.\nSebbene a volte possa essere aggressivo, è anche incredibilmente altruista e sostiene sempre i suoi compagni.\nEsclama spesso: "Non sono un gatto!"\nIl suo nome in codice è Mona.\nLa sua Persona iniziale è Zorro.
 
 Ann=Ann
 Ann Takamaki=Ann Takamaki
 Carmen=Carmen
-A second-year high school student.\nShe's an attractive girl who is one quarter American and models on the side.\nShe's free-spirited and has an honest personality, but due to her striking appearance, she's isolated from everyone around her.\nAfter meeting Joker, an incident acts as a catalyst to awaken her abilities as a Persona-user.\nHer codename is Panther.\nHer initial Persona is Carmen.=Una studentessa del secondo anno di liceo.\nÃˆ una ragazza affascinante, per un quarto americana, e lavora come modella nel tempo libero.\nHa uno spirito libero e una personalitÃ  sincera, ma il suo aspetto vistoso la porta a essere isolata dagli altri.\nDopo lâ€™incontro con Joker, un incidente diventa il catalizzatore che risveglia in lei il potere di evocare una Persona.\nIl suo nome in codice Ã¨ Panther.\nLa sua Persona iniziale Ã¨ Carmen.
+A second-year high school student.\nShe's an attractive girl who is one quarter American and models on the side.\nShe's free-spirited and has an honest personality, but due to her striking appearance, she's isolated from everyone around her.\nAfter meeting Joker, an incident acts as a catalyst to awaken her abilities as a Persona-user.\nHer codename is Panther.\nHer initial Persona is Carmen.=Una studentessa del secondo anno di liceo.\nÈ una ragazza affascinante, per un quarto americana, e lavora come modella nel tempo libero.\nHa uno spirito libero e una personalità sincera, ma il suo aspetto vistoso la porta a essere isolata dagli altri.\nDopo l’incontro con Joker, un incidente diventa il catalizzatore che risveglia in lei il potere di evocare una Persona.\nIl suo nome in codice è Panther.\nLa sua Persona iniziale è Carmen.
 CV. Nana Mizuki=VA. Nana Mizuki
 
 Yaoling Li=Yaooling li

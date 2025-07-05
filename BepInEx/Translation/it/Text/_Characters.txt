@@ -1,6 +1,6 @@
-Kamisiro-san=Kamishiro-san
-Kamishiro-kun=Kamishiro-kun
-Kamishiro-chan=Kamishiro-chan
+Blitz-san=Blitz-san
+Blitz-kun=Blitz-kun
+Blitz-chan=Blitz-chan
 
 Woman Wearing Glasses=Donna con gli occhiali
 Kumi Katayama=Kumi Katayama
