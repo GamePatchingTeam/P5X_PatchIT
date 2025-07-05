@@ -1,4 +1,4 @@
-A=A
+ÔªøA=A
 B=B
 C=C
 D=D
@@ -160,7 +160,7 @@ Collected: =Raccolto:
 Network error. Please log in again.\n(Error code: 1045012)=Errore di rete. Accedi di nuovo.\n(Codice di errore: 1045012)
 No Story Log.=Niente da mostrare.	
 Tap screen to return.=Tocca lo schermo per tornare indietro.
-This will advance the story up to a predetermined plot point. Do you want to skip?\n<color\=#FF423F>(This message will only be displayed once per login.)</color>=Questo far‡ avanzare la storia fino a un punto di trama predeterminato. Vuoi continuare?\n<color\=#FF423F>(Questo messaggio verr‡ visualizzato solo una volta per accesso.)</color>
+This will advance the story up to a predetermined plot point. Do you want to skip?\n<color\=#FF423F>(This message will only be displayed once per login.)</color>=Questo far√† avanzare la storia fino a un punto di trama predeterminato. Vuoi continuare?\n<color\=#FF423F>(Questo messaggio verr√† visualizzato solo una volta per accesso.)</color>
 
 Event=Evento
 Guide=Guida
@@ -176,7 +176,7 @@ ALL=TUTTO
 OFF=SPENTO
 CHOOSE=SCEGLI
 HIGHLIGHT=ASSOLO
-SKILL=ABILIT¿
+SKILL=ABILIT√Ä
 INFO=INFORMAZIONI
 Level=Livello
 Tutorials=Tutorial
@@ -211,7 +211,7 @@ Phantom Thieves=Ladri fantasma
 Recipes=Ricette
 Capsules=Capsule
 Story Log=Registro della storia
-Your journey begins. Let curiosity guide you.=Il tuo viaggio inizia. Lascia che la curiosit‡ ti guidi.
+Your journey begins. Let curiosity guide you.=Il tuo viaggio inizia. Lascia che la curiosit√† ti guidi.
 View Collections=Visualizza collezioni
 Main Story=Storia principale
 Side Story=Storia secondaria
@@ -225,7 +225,7 @@ Sightseer=Turista
 MAIL 
 
 Mail=Posta
-No mail available.=La posta Ë vuota.
+No mail available.=La posta √® vuota.
 Claim All=Reclama tutto
 Delete All Claimed=Elimina reclamati
 

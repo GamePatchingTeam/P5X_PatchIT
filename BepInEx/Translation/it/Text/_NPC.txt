@@ -1,4 +1,4 @@
-U<color\=#ff0000ff>n</color>decided Student=S<color\=#ff0000ff>t</color>udente indeciso
+ÔªøU<color\=#ff0000ff>n</color>decided Student=S<color\=#ff0000ff>t</color>udente indeciso
 U<color\=#ff0000ff>n</color>decided Girl=R<color\=#ff0000ff>a</color>gazza indecisa
 L<color\=#ff0000ff>a</color>nguid Boy=R<color\=#ff0000ff>a</color>gazzo svogliato
 What did you put for your answer to the last question?=Che cos'hai risposto all'ultima domanda?
@@ -8,7 +8,7 @@ Same here. It doesn't really matter what we choose, anyway.=Idem. Non importa da
 L<color\=#ff0000ff>a</color>nguid Student=S<color\=#ff0000ff>t</color>udente svogliato
 L<color\=#ff0000ff>e</color>thargic Student=S<color\=#ff0000ff>t</color>udente letargico
 Honestly, I can't even bring myself to think about what to do after graduation...=Onestamente, non riesco nemmeno\na pensare a cosa fare dopo il diploma...
-I've got no idea what school I want to go to.=Non ho la pi˘ pallida idea di che\nscuola voglia frequentare.
+I've got no idea what school I want to go to.=Non ho la pi√π pallida idea di che\nscuola voglia frequentare.
 The school probably only cares about the advancement rate.=Alla scuola probabilmente importa\nsolo del tasso di avanzamento.
 
 M<color\=#ff0000ff>e</color>llow Student=S<color\=#ff0000ff>t</color>udente rilassato
@@ -36,9 +36,9 @@ Another day where no one spoke to me...=Un altro giorno in cui nessuno mi consid
 
 Uh... What're you looking at over there?=Uh... cosa stai guardando?
 Chu<color\=#ff0000ff>u</color>nibyou Boy=Rag<color\=#ff0000ff>a</color>zzo infantile
-S-Shh... They'll find us...! Their sense of\nhearing is 100 times stronger than humans...=S-shh... ci troveranno! Il loro\nsenso dell'udito Ë 100 volte pi˘\nsviluppato di quello degli umani...
+S-Shh... They'll find us...! Their sense of\nhearing is 100 times stronger than humans...=S-shh... ci troveranno! Il loro\nsenso dell'udito √® 100 volte pi√π\nsviluppato di quello degli umani...
 Oh... Uh, I see...=Oh... ehm, capisco...
-Lemme guess, it's the organization again...?=Fammi indovinare... di nuovo\nlíorganizzazione, eh?
+Lemme guess, it's the organization again...?=Fammi indovinare... di nuovo\nl‚Äôorganizzazione, eh?
 So what organization is after you today?=Oggi quale organizzazione ti sta dando\nla caccia?
 I can't say that out loud...=Non posso dirlo ad alta voce...
 You really need to pick a premise and stick with it.=Dovresti davvero scegliere una storia\ne restarne fedele.
@@ -50,57 +50,57 @@ I should leave them alone.=Dovrei starne alla larga.
 They're whispering\nabout something,\nbut I can't tell what...=Stanno bisbigliando\nqualcosa, ma non\nriesco a capire cosa...
 
 P<color\=#ff0000ff>o</color>sing Boy=R<color\=#ff0000ff>a</color>gazzo vanitoso
-Maybe if I stand here, one of the girls will\nnotice me... Or even talk to me!=Forse se me ne sto qui, una delle ragazze\nmi noter‡ ... o addirittura mi parler‡!
+Maybe if I stand here, one of the girls will\nnotice me... Or even talk to me!=Forse se me ne sto qui, una delle ragazze\nmi noter√† ... o addirittura mi parler√†!
 What kind of poses do girls even like...?=Quali pose piacciono piacciono alle ragazze...?
 
 C<color\=#ff0000ff>h</color>atting Students=S<color\=#ff0000ff>t</color>udenti che parlano
 F<color\=#ff0000ff>r</color>ustated Boy=R<color\=#ff0000ff>a</color>gazzo frustrato
-Hey, so I really need an answer from you ASAP.=Ehi, ho davvero bisogno di\nuna risposta da te al pi˘ presto.
+Hey, so I really need an answer from you ASAP.=Ehi, ho davvero bisogno di\nuna risposta da te al pi√π presto.
 W<color\=#ff0000ff>o</color>rried Girl=R<color\=#ff0000ff>a</color>gazza in ansia
 Sorry, I need some more time to think...=Scusa, ho bisogno di un po'\ndi tempo per pensare...
-You haven't been coming to press me for an answer recently.=Non mi hai pi˘ fatto pressioni per avere\nrisposta ultimamente.
+You haven't been coming to press me for an answer recently.=Non mi hai pi√π fatto pressioni per avere\nrisposta ultimamente.
 Sorry, I've been busy. Wait... Did you want\nme to pressure you?=Scusa, sono stato impegnato. Aspetta...\nvolevi che ti facessi pressione?
 No, no, of course not!=No, no, certo che no!
 
 G<color\=#ff0000ff>i</color>rl Looking Afar=R<color\=#ff0000ff>a</color>gazza che guarda lontano
-Wanna go try that new cafÈ? Remedial classes\nare so boring.=Ti va di provare quella nuova caffetteria?\nI corsi di recupero sono cosÏ noiosi...
+Wanna go try that new caf√©? Remedial classes\nare so boring.=Ti va di provare quella nuova caffetteria?\nI corsi di recupero sono cos√¨ noiosi...
 W<color\=#ff0000ff>o</color>rried-Looking Girl=R<color\=#ff0000ff>a</color>gazza preoccupata
-I'm all for checking out a new cafÈ, but are\nyou sure we won't get in trouble for skipping\nclass?=Assolutamente sÏ, ma sei sicura\nche non finiremo nei guai\nsaltando le lezioni?
-Let's go back to that cafÈ after school!=Torniamo in quella caffetteria dopo la scuola!
-You just wanna flirt with that barista there, don't you?=Vuoi solo flirtare con quel barista lÏ, non Ë cosÏ?
+I'm all for checking out a new caf√©, but are\nyou sure we won't get in trouble for skipping\nclass?=Assolutamente s√¨, ma sei sicura\nche non finiremo nei guai\nsaltando le lezioni?
+Let's go back to that caf√© after school!=Torniamo in quella caffetteria dopo la scuola!
+You just wanna flirt with that barista there, don't you?=Vuoi solo flirtare con quel barista l√¨, non √® cos√¨?
 Huh? How did you know?=Eh? Come fai a saperlo?
 You haven't shut up about him since the last time we went.=Non hai smesso di parlare di lui dall'ultima\nvolta che ci siamo andate.
 
 N<color\=#ff0000ff>o</color>nchalant Girl=R<color\=#ff0000ff>a</color>gazza indifferente
-It's always college this, career that...\nWhatever. I'm not interested in any of it!=Tutto il tempo college di qua, carriera di l‡... \nNon ne posso pi˘, non mi interessa nulla!
-Yeah, me neither.=SÏ, anche a me.
+It's always college this, career that...\nWhatever. I'm not interested in any of it!=Tutto il tempo college di qua, carriera di l√†... \nNon ne posso pi√π, non mi interessa nulla!
+Yeah, me neither.=S√¨, anche a me.
 Huh, well then, wanna just go hang out in Shibuya?=Ah ottimo, allora ti va di farci\nun giro a Shibuya?
 
 D<color\=#ff0000ff>e</color>pressed Boy=R<color\=#ff0000ff>a</color>gazzo depresso
 L<color\=#ff0000ff>i</color>stless Boy=R<color\=#ff0000ff>a</color>gazzo apatico
-I'm not up for doing club stuff today...=Non mi va di partecipare alle\nattivit‡ del club oggi...
-Yeah, me neither. Maybe I'll skip.=A chi lo dici... credo che le salterÚ.
+I'm not up for doing club stuff today...=Non mi va di partecipare alle\nattivit√† del club oggi...
+Yeah, me neither. Maybe I'll skip.=A chi lo dici... credo che le salter√≤.
 
 C<color\=#ff0000ff>h</color>atting Boys=R<color\=#ff0000ff>a</color>gazzi che parlano
 B<color\=#ff0000ff>a</color>shful Boy=R<color\=#ff0000ff>a</color>gazzo impacciato
 M<color\=#ff0000ff>i</color>ld-Mannered Boy=R<color\=#ff0000ff>a</color>gazzo educato
-He's not really an easy guy to get to know, huh?=Non Ë un ragazzo facile da conoscere, eh?
-He's really not that bad. I heard he's pretty\ngood at cooking!=Non Ë poi cosÏ male. Ho sentito che sia\nabbastanza bravo a cucinare!
-Arai-san must be really worried about\nNoge-san. I mean, they're such good friends\nand all.=Arai-san dev'essere molto in pensiero per\nNoge-san. Voglio dire, sono cosÏ tanto legate.
+He's not really an easy guy to get to know, huh?=Non √® un ragazzo facile da conoscere, eh?
+He's really not that bad. I heard he's pretty\ngood at cooking!=Non √® poi cos√¨ male. Ho sentito che sia\nabbastanza bravo a cucinare!
+Arai-san must be really worried about\nNoge-san. I mean, they're such good friends\nand all.=Arai-san dev'essere molto in pensiero per\nNoge-san. Voglio dire, sono cos√¨ tanto legate.
 I hope Noge-san's injuries aren't too bad.=Spero che Noge-san non sia ferita gravemente.
 
 O<color\=#ff0000ff>u</color>tdoor Shoe Students=S<color\=#ff0000ff>t</color>udenti con scarpe per esterni
 O<color\=#ff0000ff>u</color>tdoor Shoe Boy=R<color\=#ff0000ff>a</color>agazzo con scarpe per esterni
 D<color\=#ff0000ff>i</color>sorganized Girl=R<color\=#ff0000ff>a</color>gazza disorganizzata
-I'm so glad that we can wear outdoor shoes\ninside at Kokatsu. Having to switch shoes\nall the time is such a hassle...=Che bello che possiamo indossare le scarpe per esterni anche dentro la scuola. Dover cambiare sempre le scarpe Ë una tale seccatura...
-...What's that, Blitz? You prefer having\nseparate indoor and outdoor footwear?\nTalk about discipline... I could never!=...Che c'Ë Blitz? Preferisci avere delle scarpe separate per dentro e fuori?\nVa bene la disciplina... ma io non potrei mai!
+I'm so glad that we can wear outdoor shoes\ninside at Kokatsu. Having to switch shoes\nall the time is such a hassle...=Che bello che possiamo indossare le scarpe per esterni anche dentro la scuola. Dover cambiare sempre le scarpe √® una tale seccatura...
+...What's that, Kamisiro? You prefer having\nseparate indoor and outdoor footwear?\nTalk about discipline... I could never!=...Che c'√® Kamishiro? Preferisci avere delle scarpe separate per dentro e fuori?\nVa bene la disciplina... ma io non potrei mai!
 
 S<color\=#ff0000ff>t</color>udents in Corner=S<color\=#ff0000ff>t</color>udentesse in un angolo
 G<color\=#ff0000ff>i</color>rl Standing Up=R<color\=#ff0000ff>a</color>gazza in piedi
 G<color\=#ff0000ff>i</color>rl Sitting Down=R<color\=#ff0000ff>a</color>gazza seduta
 G<color\=#ff0000ff>i</color>rl near Window=R<color\=#ff0000ff>a</color>gazza alla finestra
 What game's that?=A cosa stai giocando?
-Something my dad recommended...\nIt's suuper hard though!=Un gioco che mi ha consigliato mio padre...\nË bello difficile perÚ!
+Something my dad recommended...\nIt's suuper hard though!=Un gioco che mi ha consigliato mio padre...\n√® bello difficile per√≤!
 Wow, those are some old-school graphics!=Wow, ha una grafica vecchissima!
 
 S<color\=#ff0000ff>t</color>udent near Window=S<color\=#ff0000ff>t</color>udente alla finestra
@@ -108,37 +108,37 @@ E<color\=#ff0000ff>n</color>thusiastic Employee=I<color\=#ff0000ff>m</color>pieg
 Welcome! The food we serve here isn't\nbound by any one genre.=Benvenuto! Qui serviamo cibo proveniente\nda tutto il mondo.
 T<color\=#ff0000ff>a</color>lkative Man=U<color\=#ff0000ff>o</color>mo loquace
 I<color\=#ff0000ff>n</color>attentive Boy=R<color\=#ff0000ff>a</color>gazzo disattento
-That western-style restaurant in Yotsuya\nhas really gone downhill. Awful sauces.=Quel ristorante occidentale a Yotsuya Ë proprio peggiorato. Ha delle salse terribili.
+That western-style restaurant in Yotsuya\nhas really gone downhill. Awful sauces.=Quel ristorante occidentale a Yotsuya √® proprio peggiorato. Ha delle salse terribili.
 Mm-hm, totally...=Mh mh, sono d'accordo...
 And don't even get me started on the Italian\nplace in Shibuya. How did a place like that\neven open up?=Per non parlare di quel ristorante italiano a Shibuya. Come ha fatto ad aprire un posto\ndel genere?
 
 B<color\=#ff0000ff>u</color>sinessman=U<color\=#ff0000ff>o</color>mo d'affari
 C<color\=#ff0000ff>l</color>ever Housewife=M<color\=#ff0000ff>o</color>glie sveglia
 I'm surprised they haven't torn down these\nold apartments yet. Look at the state of 'em.=Sono sorpreso che non abbiano ancora\ndemolito questi vecchi appartamenti.\nGuarda come stanno conciati.
-It doesn't seem like the residents have any complaints, though.=Non sembra che qualcuno se ne lamenti perÚ.
-But that building's ancient and it doesn't get any light...=Ma quell'edificio Ë molto vecchio e non passa luce...
-Maybe they like it because the rent is cheap?=Magari gli piace perchÈ l'affitto Ë economico?
+It doesn't seem like the residents have any complaints, though.=Non sembra che qualcuno se ne lamenti per√≤.
+But that building's ancient and it doesn't get any light...=Ma quell'edificio √® molto vecchio e non passa luce...
+Maybe they like it because the rent is cheap?=Magari gli piace perch√© l'affitto √® economico?
 
 G<color\=#ff0000ff>o</color>ssip-Loving Housewife=M<color\=#ff0000ff>o</color>glie pettegola
 R<color\=#ff0000ff>A</color>tional Man=U<color\=#ff0000ff>o</color>mo razionale
-I heard that the doctor there is\nunlicensed... And that the drugs they\nprescribe are illegal!=Ho sentito che il medico laggi˘ Ë senza\nlicenza e che prescrive medicine illegali!
+I heard that the doctor there is\nunlicensed... And that the drugs they\nprescribe are illegal!=Ho sentito che il medico laggi√π √® senza\nlicenza e che prescrive medicine illegali!
 Huh, I was told good things about that clinic. Their prescriptions are apparently very effective.=Mah, ho sentito parlare bene di quella clinica.\nSembra che le loro cure siano molto efficaci.
-Oh no, I'm sure that can't be true. Everyone knows that doctor's a fraud!=Non credo proprio, sicuramente non Ë cosÏ.\nLo sanno tutti che quella dottoressa\nsia una poco di buono!
+Oh no, I'm sure that can't be true. Everyone knows that doctor's a fraud!=Non credo proprio, sicuramente non √® cos√¨.\nLo sanno tutti che quella dottoressa\nsia una poco di buono!
 
 L<color\=#ff0000ff>a</color>nguid Doctor=D<color\=#ff0000ff>o</color>ttoressa svogliata
-...Is this your first visit?=...» la tua prima visita qui?
+...Is this your first visit?=...√à la tua prima visita qui?
 ...But you're healthy, aren't you? I can tell\nby your complexion.=...Ma sembri perfettamente in salute.\nLo vedo dal colore della tua pelle.
 We don't take patients without reason. Please\ncome back only if you're feeling unwell.=Non accettiamo pazienti senza motivo.\nPer favore, torna solo quando ti\nsentirai davvero male.
 
 W<color\=#ff0000ff>h</color>ispering Students=S<color\=#ff0000ff>t</color>udenti che sussurrano
 L<color\=#ff0000ff>o</color>udly Arguing Student=S<color\=#ff0000ff>t</color>udente alterato
 C<color\=#ff0000ff>a</color>utious Student=S<color\=#ff0000ff>t</color>udente prudente
-It's so annoying when the train's late...\nHaving to get the late train slip and\neverything is such a hassle.=» cosÏ fastidioso quando il treno ritarda...\ndover chiedere il certificato di ritardo\ne tutto il resto Ë una vera seccatura.î.
-Yeah, I don't wanna deal with any of that.\nThat's why I leave the house early.=SÏ, non voglio averne assolutamente a che fare.\nEcco perchÈ esco di casa presto.
+It's so annoying when the train's late...\nHaving to get the late train slip and\neverything is such a hassle.=√à cos√¨ fastidioso quando il treno ritarda...\ndover chiedere il certificato di ritardo\ne tutto il resto √® una vera seccatura.‚Äù.
+Yeah, I don't wanna deal with any of that.\nThat's why I leave the house early.=S√¨, non voglio averne assolutamente a che fare.\nEcco perch√© esco di casa presto.
 
 S<color\=#ff0000ff>l</color>ightly Tired Student=S<color\=#ff0000ff>t</color>udente molto stanco
 I stayed up way too late last night. I can barely keep my eyes open...=Sono stata sveglia fino a tardi la scorsa notte. Riesco a malapena a tenere gli occhi aperti...
-So sleepy... Just gonna put my head down...=Che sonno... credo che appoggerÚ un po'\nla testa sul banco...
+So sleepy... Just gonna put my head down...=Che sonno... credo che appogger√≤ un po'\nla testa sul banco...
 
 F<color\=#ff0000ff>o</color>rgetful Boy=R<color\=#ff0000ff>a</color>gazzo sbadato
 Oh no! I forgot to return the umbrella!=Oh no! Ho dimenticato di restituire l'ombrello!
@@ -149,22 +149,22 @@ Do I really have to join a club?=Devo davvero unirmi a un club?
 B<color\=#ff0000ff>o</color>ys Near the Stairs=R<color\=#ff0000ff>a</color>gazzi vicino alle scale
 B<color\=#ff0000ff>o</color>y with a Wicked Grin=R<color\=#ff0000ff>a</color>gazzo con ghigno malizioso
 E<color\=#ff0000ff>m</color>barassed Boy=R<color\=#ff0000ff>a</color>gazzo imbarazzato
-Look at my collection! Isn't it great?=Guarda la mia collezione! Non Ë fantastica?
+Look at my collection! Isn't it great?=Guarda la mia collezione! Non √® fantastica?
 Uh, sure, I guess...=Uh, certo, immagino...
 
 G<color\=#ff0000ff>i</color>rls Near the Stairs=R<color\=#ff0000ff>a</color>gazze vicino alle scale
 B<color\=#ff0000ff>o</color>y-Crazy Girl=R<color\=#ff0000ff>a</color>gazza fissata coi ragazzi
 G<color\=#ff0000ff>i</color>rl Lost in Thought=R<color\=#ff0000ff>a</color>gazza pensierosa
 D<color\=#ff0000ff>i</color>sinterested Girl=R<color\=#ff0000ff>a</color>gazza disinteressata
-I'm totally gonna date someone older!\nI'd love it if they had a kinda dark,\nmysterious vibe too.=Voglio assolutamente mettermi con qualcuno pi˘ grande! Sarebbe fantastico se avesse anche\nun'aria un poí cupa e misteriosa.
-I'd rather date someone around my age.\nI don't wanna be looked down on...=Preferisco qualcuno della mia et‡.\nNon mi piace essere trattata dallíalto in basso...
-If that's your problem, you'd be better off finding someone younger than you!=Allora ti conviene puntare su qualcuno pi˘ giovane!
+I'm totally gonna date someone older!\nI'd love it if they had a kinda dark,\nmysterious vibe too.=Voglio assolutamente mettermi con qualcuno pi√π grande! Sarebbe fantastico se avesse anche\nun'aria un po‚Äô cupa e misteriosa.
+I'd rather date someone around my age.\nI don't wanna be looked down on...=Preferisco qualcuno della mia et√†.\nNon mi piace essere trattata dall‚Äôalto in basso...
+If that's your problem, you'd be better off finding someone younger than you!=Allora ti conviene puntare su qualcuno pi√π giovane!
 
 S<color\=#ff0000ff>h</color>outing Students=S<color\=#ff0000ff>t</color>udenti rumorosi
 E<color\=#ff0000ff>x</color>cited Boy=R<color\=#ff0000ff>a</color>gazzo eccitato
 S<color\=#ff0000ff>u</color>per Excited Girl=R<color\=#ff0000ff>a</color>gazza super eccitata
-Have you seen the new episode yet?=Hai gi‡ visto il nuovo episodio?
-Dude, it was so peak! I didn't think we'd get\nto see that special attack so soon...!=Ovvio, Ë stato fighissimo! Non pensavo che\navremmo visto quell'attacco speciale cosÏ presto!
+Have you seen the new episode yet?=Hai gi√† visto il nuovo episodio?
+Dude, it was so peak! I didn't think we'd get\nto see that special attack so soon...!=Ovvio, √® stato fighissimo! Non pensavo che\navremmo visto quell'attacco speciale cos√¨ presto!
 
 SHIBUYA
 
@@ -181,16 +181,16 @@ Morning, noon, or night,\nShibuya always shines bright!=Che sia mattina, giorno 
 I'm Shibuya's very own Shichi-kun!\nWanna see me do a trick?=Sono Shichi-kun di Shibuya!\nVuoi vedermi fare un numero?
 See you.=Ci vediamo.
 Let's see it.=Vediamolo.
-Guess what? Shichi-kun's a great dancer!\nI hope you've got your phone ready,\nbecause I'm about to bust a move!=Indovina un po? Shichi-kun Ë un grande\nballerino! Spero che stia gi‡ registrando,\nperchÈ sono pronto a scatenarmi!
-It's time... to dance!=» ora... di ballare!
+Guess what? Shichi-kun's a great dancer!\nI hope you've got your phone ready,\nbecause I'm about to bust a move!=Indovina un po? Shichi-kun √® un grande\nballerino! Spero che stia gi√† registrando,\nperch√© sono pronto a scatenarmi!
+It's time... to dance!=√à ora... di ballare!
 Enjoy your time in Shibuya!=Divertiti a Shibuya!
 
 G<color\=#ff0000ff>i</color>rl with a Donation Box=R<color\=#ff0000ff>a</color>gazza attivista
 S-Spare, um... change?=A-avresti, ehm... qualche spicciolo?
-It's for... the kitties.... Um...=» per... i gattini.... ehm...
+It's for... the kitties.... Um...=√à per... i gattini.... ehm...
 Hi.=Ciao.
 Spare change?=Qualche spicciolo?
-Yes! Um...!=SÏ! Ehm...!
+Yes! Um...!=S√¨! Ehm...!
 I-I'm collecting... donations... to help cats... But um...=S-sto raccogliendo... donazioni...\nper aiutare i gatti... ma ehm...
 
 G<color\=#ff0000ff>i</color>rl with a Guitar=R<color\=#ff0000ff>a</color>gazza con una chitarra
@@ -205,17 +205,17 @@ Oh, um...=Oh, ehm...
 Oh, okay...=Oh, ok...
 I-I can't really sing today...=Non posso proprio cantare oggi...
 I'm sorry...=Mi dispiace...
-I'll come back next time.=TornerÚ la prossima volta.
+I'll come back next time.=Torner√≤ la prossima volta.
 I hope to hear you sometime.=Spero di sentirti qualche volta.
 Mm... Thanks.=Mh... grazie.
 
 M<color\=#ff0000ff>a</color>n with Large Muscles=U<color\=#ff0000ff>o</color>mo muscoloso
 Hey there, my friend!=Ehi, amico!
-Protein Lovers is open 24 hours a day!\nSign up now for a new member discount!=Protein Lovers Ë aperto 24 ore al giorno!\nIscriviti ora per uno sconto riservato ai nuovi\nmembri!
+Protein Lovers is open 24 hours a day!\nSign up now for a new member discount!=Protein Lovers √® aperto 24 ore al giorno!\nIscriviti ora per uno sconto riservato ai nuovi\nmembri!
 
 D<color\=#ff0000ff>e</color>pressed Man=U<color\=#ff0000ff>o</color>mo depresso
 E<color\=#ff0000ff>n</color>thusiastic Man=U<color\=#ff0000ff>o</color>mo entusiasta
-Have you tried this new app out yet?\nIt's incredible!=Hai gi‡ provato questa nuova app?\n» incredibile!
+Have you tried this new app out yet?\nIt's incredible!=Hai gi√† provato questa nuova app?\n√à incredibile!
 Nah, not really...=Nah, non proprio...
 Oh, you definitely should then! Here, I'll\ninstall it for you right now!=Oh, dovresti farlo assolutamente!\nDa' qua, te la installo io!
 I dunno if my phone has the space...=Non so se ci sia spazio nel telefono...
@@ -230,7 +230,7 @@ Better try another game then, I guess.=Meglio provare un altro gioco allora.
 
 ZOSHIGAYA
 
-The couple who lives there are overseas\nright now, you know? But they didn't take\ntheir son with them!=La coppia che vive lÏ Ë all'estero in questo momento, sai? Ma non hanno portato il loro figlio con loro!
-He's in high school, isn't he? Should we be\nworried about him?=» al liceo, vero? Dovremmo essere preoccupati per lui?
-He's a good kid, very mature. He always\ngreets me in the morning, unlike my children!=» un bravo ragazzo, molto maturo. Mi saluta\nsempre al mattino, a differenza dei miei figli!
-My kids don't have manners like that either...=Nemmeno i miei figli sono cosÏ ben educati...
+The couple who lives there are overseas\nright now, you know? But they didn't take\ntheir son with them!=La coppia che vive l√¨ √® all'estero in questo momento, sai? Ma non hanno portato il loro figlio con loro!
+He's in high school, isn't he? Should we be\nworried about him?=√à al liceo, vero? Dovremmo essere preoccupati per lui?
+He's a good kid, very mature. He always\ngreets me in the morning, unlike my children!=√à un bravo ragazzo, molto maturo. Mi saluta\nsempre al mattino, a differenza dei miei figli!
+My kids don't have manners like that either...=Nemmeno i miei figli sono cos√¨ ben educati...

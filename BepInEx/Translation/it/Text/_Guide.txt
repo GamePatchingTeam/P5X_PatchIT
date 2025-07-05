@@ -1,14 +1,14 @@
-Please follow the instructions.=Segui le istruzioni.
+﻿Please follow the instructions.=Segui le istruzioni.
 Progress in the main story to unlock this feature.=Vai avanti nella storia principale per sbloccare questa funzione.
 Adjust Camera=Regola la fotocamera
-Move with <size\=56>????</size>=Muoviti con <size\=56>????</size>
+Move with <size\=56>虋囻韽丷</size>=Muoviti con <size\=56>虋囻韽丷</size>
 <color\=#FF423F>Jump</color> to the next platform.=<color\=#FF423F>Salta</color> sulla piattaforma successiva.
 Speed up conversations with Fast Forward.=Accelera le conversazioni con Avanti Veloce.
 Select <color\=#FF423F>Persona</color>.=Seleziona <color\=#FF423F>Persona</color>.
 Select <color\=#FF423F>Action</color>.=Seleziona <color\=#FF423F>Azione</color>.
 Select your <color\=#FF423F>target</color>.=Seleziona il tuo <color\=#FF423F>bersaglio</color>.
 
-Press the <color\=#FF423F>left</color> <size\=56>?</size> to show the cursor.=Premi il tasto <size\=56>?</size> <color\=#FF423F>sinistro</color> per mostrare il cursore.
+Press the <color\=#FF423F>left</color> <size\=56>ብ</size> to show the cursor.=Premi il tasto <size\=56>ብ</size> <color\=#FF423F>sinistro</color> per mostrare il cursore.
 <color\=#FF423F>Track</color> the current mission.=<color\=#FF423F>Traccia</color> la missione attuale.
 
 G<color\=#ff0000ff>o</color> to the hallway=V<color\=#ff0000ff>a</color>i in corridoio
@@ -26,4 +26,4 @@ Draw 1=<size\=30>1 Tentativo</size>
 Draw 5=<size\=30>5 Tentativi</size>
 Tap screen to open.=Tocca per aprire.
 Slide to rotate.=Scorri per ruotare.
-Read "Encapsulated Mysteries" to boost the appearance rate of rare and super rare capsules. This book can be obtained from Awards.=Leggi "Misteri incapsulati" per aumentare il tasso di ottenimento di capsule rare e super rare. Questo libro pu� essere ottenuto dai Premi.
+Read "Encapsulated Mysteries" to boost the appearance rate of rare and super rare capsules. This book can be obtained from Awards.=Leggi "Misteri incapsulati" per aumentare il tasso di ottenimento di capsule rare e super rare. Questo libro può essere ottenuto dai Premi.

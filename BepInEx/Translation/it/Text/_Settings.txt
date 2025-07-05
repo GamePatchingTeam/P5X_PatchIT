@@ -1,4 +1,4 @@
-Setting=Impostazioni
+ÔªøSetting=Impostazioni
 
 Graphics=Grafica
 
@@ -8,14 +8,14 @@ High=Alto
 Best=Ultra
 Custom=Personalizzato
 
-Window Mode=Modalit‡ finestra
-Window: Shows in a window.\nFullscreen: Uses the full display.\nBorderless: Similar to fullscreen but the cursor can move off-screen.=Finestra: Mostra il gioco in una finestra.\nSchermo intero: Utilizza tutto lo schermo.\nSenza bordi: Simile allo schermo intero ma il cursore puÚ uscire dai bordi.
+Window Mode=Modalit√† finestra
+Window: Shows in a window.\nFullscreen: Uses the full display.\nBorderless: Similar to fullscreen but the cursor can move off-screen.=Finestra: Mostra il gioco in una finestra.\nSchermo intero: Utilizza tutto lo schermo.\nSenza bordi: Simile allo schermo intero ma il cursore pu√≤ uscire dai bordi.
 Window=Finestra
 Borderless=Senza bordi
 Full Screen=Schermo intero
 
 Display=Monitor
-Selects a display to use when multiple displays are available.=Seleziona un monitor da utilizzare quando ne sono disponibili pi˘ di uno.
+Selects a display to use when multiple displays are available.=Seleziona un monitor da utilizzare quando ne sono disponibili pi√π di uno.
 Display-1=Monitor-1
 Display-2=Monitor-2
 Display-3=Monitor-3
@@ -27,71 +27,71 @@ Display-8=Monitor-8
 Display-9=Monitor-9
 
 Screen Resolution=Risoluzione schermo
-Increases resolution to improve overall graphic quality. Depending on your system, your frame rate may be lower than expected.=Aumenta la risoluzione per migliorare la qualit‡ grafica generale. In base al tuo sistema, questo puÚ ridurre la frequenza dei fotogrammi.
+Increases resolution to improve overall graphic quality. Depending on your system, your frame rate may be lower than expected.=Aumenta la risoluzione per migliorare la qualit√† grafica generale. In base al tuo sistema, questo pu√≤ ridurre la frequenza dei fotogrammi.
 
 Dynamic Resolution=Risoluzione dinamica
-Automatically optimizes the resolution for your system. This may cause your screen resolution to be lower than expected.=Ottimizza automaticamente la risoluzione per il tuo sistema. Questo puÚ ridurre la risoluzione.
+Automatically optimizes the resolution for your system. This may cause your screen resolution to be lower than expected.=Ottimizza automaticamente la risoluzione per il tuo sistema. Questo pu√≤ ridurre la risoluzione.
 
 Frame Rate=Frequenza fotogrammi
-Selects the game's frame rate (FPS). The game will appear smoother at a higher FPS. Depending on your system and other settings, your frame rate may be lower than expected.=Seleziona la frequenza dei fotogrammi del gioco (FPS). Il gioco apparir‡ pi˘ fluido con degli FPS elevati.In base al tuo sistema e ad altre impostazioni, questa puÚ subire dei cali.
+Selects the game's frame rate (FPS). The game will appear smoother at a higher FPS. Depending on your system and other settings, your frame rate may be lower than expected.=Seleziona la frequenza dei fotogrammi del gioco (FPS). Il gioco apparir√† pi√π fluido con degli FPS elevati.In base al tuo sistema e ad altre impostazioni, questa pu√≤ subire dei cali.
 
-Render Quality=Qualit‡ render
-Selects the overall render quality. Depending on your system, increasing the quality may cause your frame rate to be lower than expected.=Seleziona la qualit‡ del rendering generale.\nIn base al tuo sistema, l'aumento della qualit‡ puÚ ridurre la frequenza dei fotogrammi.
+Render Quality=Qualit√† render
+Selects the overall render quality. Depending on your system, increasing the quality may cause your frame rate to be lower than expected.=Seleziona la qualit√† del rendering generale.\nIn base al tuo sistema, l'aumento della qualit√† pu√≤ ridurre la frequenza dei fotogrammi.
 
-Shadow Quality=Qualit‡ ombre
-Selects the shadow quality. Depending on your system, increasing the quality may cause your frame rate to be lower than expected.=Seleziona la qualit‡ delle ombre.\nIn base al tuo sistema, l'aumento della qualit‡ puÚ ridurre la frequenza dei fotogrammi.
+Shadow Quality=Qualit√† ombre
+Selects the shadow quality. Depending on your system, increasing the quality may cause your frame rate to be lower than expected.=Seleziona la qualit√† delle ombre.\nIn base al tuo sistema, l'aumento della qualit√† pu√≤ ridurre la frequenza dei fotogrammi.
 
-Effects Quality=Qualit‡ effetti
-Selects effect quality. Depending on your system, increasing the quality may cause your frame rate to be lower than expected.=Seleziona la qualit‡ degli effetti.\nIn base al tuo sistema, l'aumento della qualit‡ puÚ ridurre la frequenza dei fotogrammi.
+Effects Quality=Qualit√† effetti
+Selects effect quality. Depending on your system, increasing the quality may cause your frame rate to be lower than expected.=Seleziona la qualit√† degli effetti.\nIn base al tuo sistema, l'aumento della qualit√† pu√≤ ridurre la frequenza dei fotogrammi.
 
-Texture Quality=Qualit‡ texture
-Selects texture quality. Depending on your system, increasing the quality may cause your frame rate to be lower than expected.=Seleziona la qualit‡ delle texture.\nIn base al tuo sistema, l'aumento della qualit‡ puÚ ridurre la frequenza dei fotogrammi.
+Texture Quality=Qualit√† texture
+Selects texture quality. Depending on your system, increasing the quality may cause your frame rate to be lower than expected.=Seleziona la qualit√† delle texture.\nIn base al tuo sistema, l'aumento della qualit√† pu√≤ ridurre la frequenza dei fotogrammi.
 
 Level of Detail=Livello dettagli
-Selects graphic quality for distant objects. Depending on your system, increasing the quality may cause your frame rate to be lower than expected.=Seleziona la qualit‡ grafica degli oggetti distanti.\nIn base al tuo sistema, l'aumento della qualit‡ puÚ ridurre la frequenza dei fotogrammi.
+Selects graphic quality for distant objects. Depending on your system, increasing the quality may cause your frame rate to be lower than expected.=Seleziona la qualit√† grafica degli oggetti distanti.\nIn base al tuo sistema, l'aumento della qualit√† pu√≤ ridurre la frequenza dei fotogrammi.
 
 Post-Processing Effects=Effetti post-elaborazione
-Selects the quality of visual effects and overall graphics. Depending on your system, increasing the quality may cause your frame rate to be lower than expected.=Seleziona la qualit‡ degli effetti visivi e della grafica generale.\nIn base al tuo sistema, l'aumento della qualit‡ puÚ ridurre la frequenza dei fotogrammi.
+Selects the quality of visual effects and overall graphics. Depending on your system, increasing the quality may cause your frame rate to be lower than expected.=Seleziona la qualit√† degli effetti visivi e della grafica generale.\nIn base al tuo sistema, l'aumento della qualit√† pu√≤ ridurre la frequenza dei fotogrammi.
 
 Party Following=Movimento di gruppo
-Shows party members following behind you when exploring the Metaverse. Depending on your system, this may cause your frame rate to be lower than expected.=Mostra i membri del gruppo che ti seguono mentre esplori il Metaverso.\nIn base al tuo sistema, l'aumento della qualit‡ puÚ ridurre la frequenza dei fotogrammi.
+Shows party members following behind you when exploring the Metaverse. Depending on your system, this may cause your frame rate to be lower than expected.=Mostra i membri del gruppo che ti seguono mentre esplori il Metaverso.\nIn base al tuo sistema, l'aumento della qualit√† pu√≤ ridurre la frequenza dei fotogrammi.
 
 Lens Flare=Lens flare
-Shows lens flares and enhances lighting. Depending on your system, this may cause your frame rate to be lower than expected.=Mostra le lens flare e migliora l'illuminazione.\nIn base al tuo sistema, l'aumento della qualit‡ puÚ ridurre la frequenza dei fotogrammi.
+Shows lens flares and enhances lighting. Depending on your system, this may cause your frame rate to be lower than expected.=Mostra le lens flare e migliora l'illuminazione.\nIn base al tuo sistema, l'aumento della qualit√† pu√≤ ridurre la frequenza dei fotogrammi.
 
 Ambient Lighting=Luci ambientali
-Enhances shading in the game. Depending on your system, this may cause your frame rate to be lower than expected.=Migliora l'ombreggiatura del gioco.\nIn base al tuo sistema, l'aumento della qualit‡ puÚ ridurre la frequenza dei fotogrammi.
+Enhances shading in the game. Depending on your system, this may cause your frame rate to be lower than expected.=Migliora l'ombreggiatura del gioco.\nIn base al tuo sistema, l'aumento della qualit√† pu√≤ ridurre la frequenza dei fotogrammi.
 
 Reflections=Riflessi
-Enhances reflections in water and mirrors. Depending on your system, this may cause your frame rate to be lower than expected.=Migliora i riflessi di acqua e specchi.\nIn base al tuo sistema, l'aumento della qualit‡ puÚ ridurre la frequenza dei fotogrammi.
+Enhances reflections in water and mirrors. Depending on your system, this may cause your frame rate to be lower than expected.=Migliora i riflessi di acqua e specchi.\nIn base al tuo sistema, l'aumento della qualit√† pu√≤ ridurre la frequenza dei fotogrammi.
 
 Bloom Effects=Bagliori
-Enhances light diffusion. Depending on your system, this may cause your frame rate to be lower than expected.=Migliora la diffusione della luce.\nIn base al tuo sistema, l'aumento della qualit‡ puÚ ridurre la frequenza dei fotogrammi.
+Enhances light diffusion. Depending on your system, this may cause your frame rate to be lower than expected.=Migliora la diffusione della luce.\nIn base al tuo sistema, l'aumento della qualit√† pu√≤ ridurre la frequenza dei fotogrammi.
 
 Fog Effects=Nebbia
-Enhances depth by blurring distant objects. Depending on your system, this may cause your frame rate to be lower than expected.=Migliora la profondit‡ sfocando gli oggetti distanti.\nIn base al tuo sistema, l'aumento della qualit‡ puÚ ridurre la frequenza dei fotogrammi.
+Enhances depth by blurring distant objects. Depending on your system, this may cause your frame rate to be lower than expected.=Migliora la profondit√† sfocando gli oggetti distanti.\nIn base al tuo sistema, l'aumento della qualit√† pu√≤ ridurre la frequenza dei fotogrammi.
 
 Volumetric Lighting=Illuminazione volumetrica
-Enhances rays of light. Depending on your system, this may cause your frame rate to be lower than expected.=Migliora i raggi di luce.\nIn base al tuo sistema, l'aumento della qualit‡ puÚ ridurre la frequenza dei fotogrammi.
+Enhances rays of light. Depending on your system, this may cause your frame rate to be lower than expected.=Migliora i raggi di luce.\nIn base al tuo sistema, l'aumento della qualit√† pu√≤ ridurre la frequenza dei fotogrammi.
 
 VSync=VSync
-Maintains graphics quality in fast-paced scenes by adjusting to display capabilities. Depending on your system, this may cause your frame rate to be lower than expected.=Mantiene la qualit‡ grafica nelle scene frenetiche regolando i fotogrammi sulla base della frequenza del monitor.\nIn base al tuo sistema, l'aumento della qualit‡ puÚ ridurre la frequenza dei fotogrammi.
-Turning on VSync will disable the frame rate limit. Do you want to continue?=L'attivazione del VSync disabiliter‡ il limite della frequenza dei fotogrammi. Vuoi continuare?
-If you turn off VSync, the frame rate will be automatically set to 30. Are you sure?=Se disattivi il VSync, il limite della frequenza dei fotogrammi verr‡ impostato automaticamente a 30. Vuoi continuare?
-If you turn off VSync, the frame rate will be automatically set to 60. Are you sure?=Se disattivi il VSync, il limite della frequenza dei fotogrammi verr‡ impostato automaticamente a 60. Vuoi continuare?
-If you turn off VSync, the frame rate will be automatically set to 120. Are you sure?=Se disattivi il VSync, il limite della frequenza dei fotogrammi verr‡ impostato automaticamente a 120. Vuoi continuare?
+Maintains graphics quality in fast-paced scenes by adjusting to display capabilities. Depending on your system, this may cause your frame rate to be lower than expected.=Mantiene la qualit√† grafica nelle scene frenetiche regolando i fotogrammi sulla base della frequenza del monitor.\nIn base al tuo sistema, l'aumento della qualit√† pu√≤ ridurre la frequenza dei fotogrammi.
+Turning on VSync will disable the frame rate limit. Do you want to continue?=L'attivazione del VSync disabiliter√† il limite della frequenza dei fotogrammi. Vuoi continuare?
+If you turn off VSync, the frame rate will be automatically set to 30. Are you sure?=Se disattivi il VSync, il limite della frequenza dei fotogrammi verr√† impostato automaticamente a 30. Vuoi continuare?
+If you turn off VSync, the frame rate will be automatically set to 60. Are you sure?=Se disattivi il VSync, il limite della frequenza dei fotogrammi verr√† impostato automaticamente a 60. Vuoi continuare?
+If you turn off VSync, the frame rate will be automatically set to 120. Are you sure?=Se disattivi il VSync, il limite della frequenza dei fotogrammi verr√† impostato automaticamente a 120. Vuoi continuare?
 
 Render Scale=Scala di rendering
-Changes the proportion of your resolution to display. Increasing render scale improves graphics settings. Depending on your system, this may cause your frame rate to be lower than expected.=Modifica la proporzione tra la risoluzione interna e quella visualizzata. Aumentare la scala di rendering migliora la qualit‡ grafica.\nIn base al tuo sistema, l'aumento della qualit‡ puÚ ridurre la frequenza dei fotogrammi.
+Changes the proportion of your resolution to display. Increasing render scale improves graphics settings. Depending on your system, this may cause your frame rate to be lower than expected.=Modifica la proporzione tra la risoluzione interna e quella visualizzata. Aumentare la scala di rendering migliora la qualit√† grafica.\nIn base al tuo sistema, l'aumento della qualit√† pu√≤ ridurre la frequenza dei fotogrammi.
 
 Anti-Aliasing=Anti-aliasing
-Allows you to make images smoother. Depending on your system, this may cause your frame rate to be lower than expected.=Migliora i bordi delle immagini.\nIn base al tuo sistema, l'aumento della qualit‡ puÚ ridurre la frequenza dei fotogrammi.
+Allows you to make images smoother. Depending on your system, this may cause your frame rate to be lower than expected.=Migliora i bordi delle immagini.\nIn base al tuo sistema, l'aumento della qualit√† pu√≤ ridurre la frequenza dei fotogrammi.
 
 FSR=FSR
 Automatically adjusts resolution and frame rate with FidelityFX Super Resolution (FSR) if supported by your system.=Regola automaticamente la risoluzione e la frequenza dei fotogrammi con FidelityFX Super Resolution (FSR) se supportato dal sistema.
 
 HDR=HDR
-Improves graphic quality by enhancing color brightness and contrast if your system supports HDR.=Migliora la qualit‡ grafica migliorando la luminosit‡ del colore e il contrasto se supportato dal sistema.
+Improves graphic quality by enhancing color brightness and contrast if your system supports HDR.=Migliora la qualit√† grafica migliorando la luminosit√† del colore e il contrasto se supportato dal sistema.
 
 The screen has been applied with the selected settings. Do you want to save these settings?\nIf you do not do anything, your settings will be reverted in 10 seconds.=Le nuove impostazioni dello schermo sono state applicate. Vuoi salvarle?\nSe non fai nulla, le impostazioni torneranno a quelle precedenti tra 10 secondi.
 The screen has been applied with the selected settings. Do you want to save these settings?\nIf you do not do anything, your settings will be reverted in 9 seconds.=Le nuove impostazioni dello schermo sono state applicate. Vuoi salvarle?\nSe non fai nulla, le impostazioni torneranno a quelle precedenti tra 9 secondi.
@@ -127,34 +127,34 @@ Adjust the volume for environmental sounds in-game.=Regola il volume dei suoni a
 Gameplay=Gioco
 Control Settings=Impostazioni di Gioco
 
-Camera Mode=Modalit‡ visuale
+Camera Mode=Modalit√† visuale
 Classic=Classica
 RPG=RPG
-Two camera modes are available for mouse and keyboard.\nClassic: Left-click on the mouse and drag to move the camera.\nRPG: Camera moves with the mouse. Press [ALT] to click to move the camera.=Sono disponibili due modalit‡ della visuale per mouse e tastiera.\nClassico: fare clic con il tasto sinistro del mouse e trascinare per spostare la visuale.\nRPG: la visuale si muove con il mouse. Premere [ALT] per fare clic per spostare la visuale.
+Two camera modes are available for mouse and keyboard.\nClassic: Left-click on the mouse and drag to move the camera.\nRPG: Camera moves with the mouse. Press [ALT] to click to move the camera.=Sono disponibili due modalit√† della visuale per mouse e tastiera.\nClassico: fare clic con il tasto sinistro del mouse e trascinare per spostare la visuale.\nRPG: la visuale si muove con il mouse. Premere [ALT] per fare clic per spostare la visuale.
 
-Classic Camera Sensitivity=Sensibilit‡ visuale classica
-Adjusts camera sensitivity when using a mouse and keyboard on classic mode.=Regola la sensibilit‡ della visuale da mouse e tastiera in modalit‡ classica.
+Classic Camera Sensitivity=Sensibilit√† visuale classica
+Adjusts camera sensitivity when using a mouse and keyboard on classic mode.=Regola la sensibilit√† della visuale da mouse e tastiera in modalit√† classica.
 
-Classic Camera Zoom Sensitivity=Sensibilit‡ zoom visuale classica
-Adjusts zoom sensitivity when using a mouse and keyboard on classic mode.=Regola la sensibilit‡ dello zoom da mouse e tastiera in modalit‡ classica.
+Classic Camera Zoom Sensitivity=Sensibilit√† zoom visuale classica
+Adjusts zoom sensitivity when using a mouse and keyboard on classic mode.=Regola la sensibilit√† dello zoom da mouse e tastiera in modalit√† classica.
 
-RPG Mode Camera Sensitivity=Sensibilit‡ visuale RPG
-Adjusts camera sensitivity when using a mouse and keyboard in RPG mode.=Regola la sensibilit‡ della visuale da mouse e tastiera in modalit‡ RPG.
+RPG Mode Camera Sensitivity=Sensibilit√† visuale RPG
+Adjusts camera sensitivity when using a mouse and keyboard in RPG mode.=Regola la sensibilit√† della visuale da mouse e tastiera in modalit√† RPG.
 
-RPG Mode Camera Zoom Sensitivity=Sensibilit‡ zoom visuale RPG
-Adjusts zoom sensitivity when using a mouse and keyboard in RPG mode.=Regola la sensibilit‡ dello zoom da mouse e tastiera in modalit‡ RPG.
+RPG Mode Camera Zoom Sensitivity=Sensibilit√† zoom visuale RPG
+Adjusts zoom sensitivity when using a mouse and keyboard in RPG mode.=Regola la sensibilit√† dello zoom da mouse e tastiera in modalit√† RPG.
 
-Gamepad Camera Sensitivity=Sensibilit‡ visuale controller
-Adjusts camera sensitivity on your gamepad.=Regola la sensibilit‡ della visuale da controller.
+Gamepad Camera Sensitivity=Sensibilit√† visuale controller
+Adjusts camera sensitivity on your gamepad.=Regola la sensibilit√† della visuale da controller.
 
-Gamepad Zoom Sensitivity=Sensibilit‡ zoom controller
-Adjusts zoom sensitivity on your gamepad.=Regola la sensibilit‡ dello zoom da controller.
+Gamepad Zoom Sensitivity=Sensibilit√† zoom controller
+Adjusts zoom sensitivity on your gamepad.=Regola la sensibilit√† dello zoom da controller.
 
-Gamepad Cursor Mode=Modalit‡ cursore controller
-You can control the cursor with the <color\=#FF423F>Keyboard and Gamepad</color>.\nCursor Controls for Keyboard:\n<color\=#FF423F>Arrow Keys</color> <size\=40>????</size>: Move Cursor\n<color\=#FF423F>Space Bar</color> <size\=40>?</size>: Confirm\n<color\=#FF423F>Ctrl Key</color> <size\=40>?</size>: Reset Cursor\nWhen the cursor is within a scrollable area\n<color\=#FF423F>Page Up and Down Keys</color> <size\=46>??</size>: Scroll=Puoi controllare il cursore con <color\=#FF423F>Tastiera e controller</color>. Controlli del cursore per la tastiera:\n<color\=#FF423F>Tasti freccia</color> <size\=40>????</size>: Muovi il cursore\n<color\=#FF423F>Barra spaziatrice</color> <size\=40>?</size>: Conferma\n<color\=#FF423F>Tasto CTRL</color> <size\=40>?</size>: Ripristina il cursore quando il cursore si trova all'interno di un'area scorrevole\n<color\=#FF423F>Tasti PagSu e PagGi˘</color> <size\=46>??</size>: Scorrimento
+Gamepad Cursor Mode=Modalit√† cursore controller
+You can control the cursor with the <color\=#FF423F>Keyboard and Gamepad</color>.\nCursor Controls for Keyboard:\n<color\=#FF423F>Arrow Keys</color> <size\=40>ÈæóÈ∫§Áà©È±ª</size>: Move Cursor\n<color\=#FF423F>Space Bar</color> <size\=40>Èûª</size>: Confirm\n<color\=#FF423F>Ctrl Key</color> <size\=40>·ã≠</size>: Reset Cursor\nWhen the cursor is within a scrollable area\n<color\=#FF423F>Page Up and Down Keys</color> <size\=46>·åà·à≠</size>: Scroll=Puoi controllare il cursore con <color\=#FF423F>Tastiera e controller</color>. Controlli del cursore per la tastiera:\n<color\=#FF423F>Tasti freccia</color> <size\=40>ÈæóÈ∫§Áà©È±ª</size>: Muovi il cursore\n<color\=#FF423F>Barra spaziatrice</color> <size\=40>Èûª</size>: Conferma\n<color\=#FF423F>Tasto CTRL</color> <size\=40>·ã≠</size>: Ripristina il cursore quando il cursore si trova all'interno di un'area scorrevole\n<color\=#FF423F>Tasti PagSu e PagGi√π</color> <size\=46>·åà·à≠</size>: Scorrimento
 
-Cursor Speed=Velocit‡ cursore
-Adjusts movement speed of cursor when using Gamepad Cursor Mode.=Regola la velocit‡ di movimento del cursore quando si utilizza la modalit‡ cursore del controller.
+Cursor Speed=Velocit√† cursore
+Adjusts movement speed of cursor when using Gamepad Cursor Mode.=Regola la velocit√† di movimento del cursore quando si utilizza la modalit√† cursore del controller.
 
 Auto-Adjust Camera=Visuale automatica
 Sets the camera and angle to automatically adjust to keep your character in clear view.=Imposta la visuale e l'angolo per regolare automaticamente per mantenere sempre il tuo personaggio ben visibile.
@@ -181,25 +181,25 @@ Show Chat During Battles=Mostra chat durante le battaglie
 Allows you to show the chat channel on the bottom left of the battle screen.=Ti permette di mostrare il canale di chat in basso a sinistra nella schermata di combattimento.
 
 Receive Chat Updates=Ricevi aggiornamenti della chat
-Keeps the most recent IMs displayed in the bottom-left corner of the main screen when enabled.=Se abilitato mantiene il messaggio pi˘ recente visualizzato nell'angolo in basso a sinistra della schermata principale.
+Keeps the most recent IMs displayed in the bottom-left corner of the main screen when enabled.=Se abilitato mantiene il messaggio pi√π recente visualizzato nell'angolo in basso a sinistra della schermata principale.
 
 Display Subtitles=Mostra sottotitoli
 Displays subtitles when playing story animations.=Visualizza i sottotitoli durante i filmati e le animazioni della storia.
 
 Pause Story in Background=Storia in pausa se in secondo piano
-Automatically pauses the story when the game is in the background.=Mette automaticamente in pausa la storia quando il gioco Ë in background.
+Automatically pauses the story when the game is in the background.=Mette automaticamente in pausa la storia quando il gioco √® in background.
 
 Battle Settings=Impostazioni di battaglia
 
 
 Change Personas in Auto-Battle=Cambia Personae in battaglia automatica
-Chooses suitable Persona from summonable Personas and swaps between them in auto-battle. If turned off, only skills from the Persona equipped when attacking will be used.=Scegli una persona adatta da personaggi evocati e swap tra di loro in auto-battaglia. Se spento, verranno utilizzate solo le abilit‡ della persona equipaggiata durante l'attacco.
+Chooses suitable Persona from summonable Personas and swaps between them in auto-battle. If turned off, only skills from the Persona equipped when attacking will be used.=Scegli una persona adatta da personaggi evocati e swap tra di loro in auto-battaglia. Se spento, verranno utilizzate solo le abilit√† della persona equipaggiata durante l'attacco.
 
 Highlights in Auto-Battle=Assolo nella battaglie automatiche
 Activates suitable Highlights in auto-battle. If turned off, Highlights won't be used in auto-battle.=Attiva gli Assoli in battaglia automatica. Se disattivato, non verranno utilizzati automaticamente.
 
-Support Phantom Thief Skills in Auto-Battle=<size\=30>Abilit‡ Ladri Fantasma di Supporto in battaglia automatica</size>
-Activates suitable Support Phantom Thief skills in auto-battle. If turned off, these skills won't be used in auto-battle.=Attiva determinate abilit‡ dei Ladri Fantasma di Supporto durante líauto-battaglia. Se disattivata, queste abilit‡ non verranno usate automaticamente.
+Support Phantom Thief Skills in Auto-Battle=<size\=30>Abilit√† Ladri Fantasma di Supporto in battaglia automatica</size>
+Activates suitable Support Phantom Thief skills in auto-battle. If turned off, these skills won't be used in auto-battle.=Attiva determinate abilit√† dei Ladri Fantasma di Supporto durante l‚Äôauto-battaglia. Se disattivata, queste abilit√† non verranno usate automaticamente.
 
 Auto-Select 1 More Target=Selezione automatica Ancora 1
 Auto-targets and activates a 1 MORE attack on suitable targets. When turned off, targets and attacks must be manually selected and activated.=Sceglie automaticamente il bersaglio e usa un attacco Ancora 1 sui bersagli adatti. Se disattivato, bersagli e attacchi dovreanno essere selezionati manualmente.
@@ -211,7 +211,7 @@ Skip Battle Animations=Salta animazioni in battaglia
 Allows you to skip certain battle animations.=Ti permette di saltare alcune animazioni durante la battaglia.
 
 Support Phantom Thieves Animations=Salta animazioni Ladri Fantasma di Supporto
-Allows you to skip Support Phantom Thief skill animations.=Ti di saltare le animazioni delle abilit‡ dei Ladri Fantasma di Supporto.
+Allows you to skip Support Phantom Thief skill animations.=Ti di saltare le animazioni delle abilit√† dei Ladri Fantasma di Supporto.
 
 Highlight Animations=Salta animazioni Assoli
 Allows you to skip Highlight animations.=Ti permette di saltare le animazioni degli Assoli.
@@ -226,7 +226,7 @@ Move Back=Muoviti all'indietro
 Move Left=Muoviti a sinistra
 Move Right=Muoviti a destra
 Explanation=Spiegazioni
-Swap To Running=Modalit‡ corsa
+Swap To Running=Modalit√† corsa
 
 City Life=Vita quotidiana
 City Life Action=Azione quotidiana
@@ -268,7 +268,7 @@ Change target=Cambia bersaglio
 Special Commands=Comandi speciali
 Switch=Cambia azione
 
-Activise=Attivit‡
+Activise=Attivit√†
 
 Baseball=Baseball
 Baseball Third Eye=Terzo occhio
@@ -294,7 +294,7 @@ Support=Supporto
 Account=Account
 
 Upload Log=Segnala Errore
-Sending an error report can help us identify feedback issues faster.\nIf you are on a mobile network, a small amount of data will be required.\nDo you want to send a report?=L'invio di un rapporto di errore puÚ aiutarci a identificare i problemi di feedback pi˘ velocemente. Se ti trovi su una rete mobile, sar‡ richiesta una piccola quantit‡ di dati. Vuoi inviare un rapporto?
+Sending an error report can help us identify feedback issues faster.\nIf you are on a mobile network, a small amount of data will be required.\nDo you want to send a report?=L'invio di un rapporto di errore pu√≤ aiutarci a identificare i problemi di feedback pi√π velocemente. Se ti trovi su una rete mobile, sar√† richiesta una piccola quantit√† di dati. Vuoi inviare un rapporto?
 
 Personal Data=Dati Personali
 

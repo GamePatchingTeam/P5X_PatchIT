@@ -1,6 +1,6 @@
-Blitz-san=Blitz-san
-Blitz-kun=Blitz-kun
-Blitz-chan=Blitz-chan
+Kamisiro-san=Kamishiro-san
+Kamishiro-kun=Kamishiro-kun
+Kamishiro-chan=Kamishiro-chan
 
 Woman Wearing Glasses=Donna con gli occhiali
 Kumi Katayama=Kumi Katayama
@@ -89,3 +89,6 @@ Calm Student=Studente calmo
 
 Slightly Scary-Looking Student=Studente leggermente spaventoso
 
+
+Mr. Nagara=Prof. Nagara
+Ms. Taniyama=Prof.ssa Taniyama

@@ -1,19 +1,19 @@
-All=<size\=30>Tutte</size>
+ÔªøAll=<size\=30>Tutte</size>
 Main=<size\=21>Storia</size>
 Side=<size\=26>Secondarie</size>
 Track=Traccia
 Quit Navigation=Esci dalla Navigazione
 
 Awakening of Desire=Risveglio del Desiderio
-Escape from the casino=?Scappa dal casinÚ?
-Mission complete. Let's escape from the casino quickly.=Missione completata. Scappa velocemente dal casinÚ.
+Escape from the casino=„ÄéScappa dal casin√≤„Äè
+Mission complete. Let's escape from the casino quickly.=Missione completata. Scappa velocemente dal casin√≤.
 Go to school=Vai a scuola
 
 Kokatsu Academy  Room 2-C=Kokatsu Academy  Aula 2-C
 Use the keyboard to enter a name.=Usa la tastiera per scrivere un nome.
 Attend class in room 2-C=Partecipa alla lezione nella stanza 2-C
 Go to the hallway=Vai in corridoio
-That was such a strange dream...\nAnyway, it's time to leave school.=» stato un sogno cosÏ strano...\nComunque, Ë ora di tornare a casa.
+That was such a strange dream...\nAnyway, it's time to leave school.=√à stato un sogno cos√¨ strano...\nComunque, √® ora di tornare a casa.
 Leave the classroom building=Lascia l'edificio scolastico
 Go to 1F=Vai al P1
 Kokatsu Academy  1F Hallway=Kokatsu Academy  Corridoio 1P
@@ -28,6 +28,6 @@ Change your shoes at the shoe lockers=Cambiati le scarpe negli armadietti
 Traces of Dreams=Tracce di sogni
 Shimo-Kitazawa  Kokatsu Academy=Shimo-Kitazawa Accademia Kokatsu
 Look for Motoha on the rooftop=Cerca Motoha sul tetto
-Motoha must be upset about Tomoko.\nI should go to the school rooftop and look for her.=Motoha dev'essere arrabbiata per quello che Ë successo a Tomoko.\nDovrei andare a cercarla sul tetto della scuola.
+Motoha must be upset about Tomoko.\nI should go to the school rooftop and look for her.=Motoha dev'essere arrabbiata per quello che √® successo a Tomoko.\nDovrei andare a cercarla sul tetto della scuola.
 Inogami Line=Linea Inogami
 Take the Inogami Line=Prendi la linea Inogami
