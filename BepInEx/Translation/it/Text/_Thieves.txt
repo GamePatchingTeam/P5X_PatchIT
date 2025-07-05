@@ -2,52 +2,52 @@
 Lv.=Lv.
 Attack=Attacco
 HP=HP
-
-Almighty Mult. +=Multe onnipotente. +
-Curse Mult. +=Curse Mult. +
-Bless Mult. +=Benedici mult. +
-Nuclear Mult. +=MULTRO NUCLEAR. +
-Psy Mult. +=Psy Mult. +
-Wind Mult. +=Vento mult. +
-Electric Mult. +=Multe elettrico. +
-Ice Mult. +=Ghiaccio mult. +
-Fire Mult. +=Fuoco mult. +
-Gun Mult. +=Pistola mult. +
-Physical Mult. +=Multe fisico. +
-Shield Received=Scudo ricevuto
-Shield=Scudo
-HP Recovery Taken=Recupero HP preso
 HP Recovery=Recupero HP
-Strong Attack Down=Forte attacco giù
-Pierce Resistance=Pierce Resistenza
-Weak Attack Down=Attacco debole
-Weakness Mult. +=Debolezza mult. +
-Damage Down=Danneggiare
-Attack Mult. +=Attacco mult. +
-Ailment Resist.=Resistenza di disturbo.
-Ailment Acc.=Ailment Acc.
-Down Points=Punti giù
-Pierce Rate=Pierce Tasso
+HP Recovery Taken=Recupero HP ricevuto
+SP=SP
 SP Recovery=Recupero SP
-Crit Mult.=Crit mult.
-Crit Rate=Tasso di critico
-Speed=Velocità
-SP=Sp
+SP Recovery Taken=Recupero SP ricevuto
+Shield=Scudo
+Shield Received=Scudo ricevuto
 Defense=Difesa
-Deal Gun damage to random foes. Fire 3 shots at once, and can fire until out of ammo.=Infliggere danni da armi ai nemici casuali. Scatta 3 colpi contemporaneamente e può sparare fino a quando non è fuori dalle munizioni.
-Deal Physical damage to 1 foe.=Infliggere danni fisici a 1 nemico.
-Sweeper=Spazzatrice
-Ann Takamaki=Ann Takamaki
+Speed=Velocità
+Crit Mult.=Molt. di crit
+Crit Rate=Tasso di crit
+Crit Rate: =Tasso di crit: 
+Pierce Rate=Tasso di perforazione
+
+Almighty Mult. +=Molt. divino +
+Curse Mult. +=Molt. maledizione +
+Bless Mult. +=Molt. sacro +
+Nuclear Mult. +=Molt. nucleare +
+Psy Mult. +=Molt. psichico +
+Wind Mult. +=Molt. vento+
+Electric Mult. +=Molt. elettrico +
+Ice Mult. +=Molt. ghiaccio +
+Fire Mult. +=Molt. fuoco +
+Gun Mult. +=Molt. da proiettile +
+Physical Mult. +=Molt. fisico +
+Weakness Mult. +=Molt. debolezza +
+Attack Mult. +=Molt. attacco +
+Pierce Resistance=Resistenza a perforazione
+Ailment Resist.=Resistenza alterazioni
+Strong Attack Down=Attacco potenziato giù
+Weak Attack Down=Attacco debole giù
+Damage Down=Danno giù
+Ailment Acc.=Acc. alterazioni
+Down Points=Punti atterramento
+
 Rounds: =Round: 
-Ranged Attack=Attacco a distanza
-Multiplier: =Moltiplicatore: 
 Damage=Danno
+Ranged Attack=Attacco a distanza
 Effects=Effetti
-Crit Rate: =Crit Tasso: 
+Multiplier: =Moltiplicatore: 
 Accuracy: =Precisione: 
 Basic Abilities=Abilità di base
-Deals with groups of foes through multi-target attacks.=Si occupa di gruppi di nemici attraverso attacchi multi-target.
+
 Role=Ruolo
+Sweeper=Assaltatore
+Deals with groups of foes through multi-target attacks.=Efficace contro gruppi di nemici tramite attacchi a bersaglio multiplo.
 
 Nagisa=Nagisa
 Nagisa Kamisiro=Nagisa Kamishiro
@@ -78,3 +78,9 @@ CV. Nana Mizuki=VA. Nana Mizuki
 Yaoling Li=Yaooling li
 Haruna Nishimori=Haruna Nishimori
 Motoha Arai=Motoha Arai
+
+
+
+
+Deal Gun damage to random foes. Fire 3 shots at once, and can fire until out of ammo.=Infligge danni da proiettili a dei nemici casuali. Spara 3 colpi contemporaneamente (puoi sparare fin quando non finisci le munizioni).
+Deal Physical damage to 1 foe.=Infligge danni fisici a un nemico.
