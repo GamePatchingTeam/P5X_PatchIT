@@ -2,8 +2,11 @@
 Traduzione Italiana del gioco **Persona 5: Phantom X**.
 
 **Ultima modifica:** 05/07/2025
+
 **Build:** 05/07/2025-Build1
+
 **Versione BepInEx:** 5.4.22
+
 **Compatibilità:** Persona 5 Phantom X (Global)
 
 ## 🔧 Funzionamento
@@ -83,8 +86,12 @@ dei suggerimenti qualora vogliate contribuire alla traduzione.
 ## 👥 Crediti
 
 Questo progetto è realizzato e mantenuto dal **GamePatchingTeam - 2025**
+
 **Project Leader**: Rytheex
+
 **Traduttori**: Rytheex
+
 **Grafica**: Rytheex
+
 Si ringrazia la community di **P5X Worldwide**, i creatori di BepInEx, XUnityAutoTranslator, TextureReplacer e delle mod di P5X per la versione Taiwan e Korea.
 
