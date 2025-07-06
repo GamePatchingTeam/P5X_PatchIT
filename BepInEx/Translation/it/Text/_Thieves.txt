@@ -57,6 +57,8 @@ Jánošík=Jánošík
 CV.Koki Uchiyama=VA. Koki Uchiyama
 
 Joker=Joker
+Ren=Ren
+Ren Amamiya=Ren Amamiya
 
 Ryuji=Ryuji
 Ryuji Sakamoto=Ryuji Sakamoto

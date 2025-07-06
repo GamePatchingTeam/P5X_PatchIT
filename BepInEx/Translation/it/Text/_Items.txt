@@ -5,6 +5,8 @@ Gold Ticket=Biglietto Dorato
 Platinum Ticket=Biglietto Platino
 Platinum Milicoin=Milimoneta Platino
 Milicoin Set=Set Milimoneta
+Salamander Coin=Moneta Salamandra
+Gecko Coin=Moneta Geco
 Wingbeat Coin=Moneta Battiali
 Contract Item=Oggetto per contratti
 Can be used in Phantom Idol and Newcomer Contracts to forge contracts with new Phantom Idols. Obtainable from shops and exchange shops.=Può essere utilizzato nei Contratti del Nuovo Arrivato e degli Idol Fantasma per forgiare contratti con nuovi Idol Fantasma. Ottenibile da negozi e negozi di scambio.
@@ -14,9 +16,7 @@ Experience gained from daily life activities and Metaverse exploration. Used for
 Pass Experience Credit=Crediti Esperienza Pass
 Used to level up your Phantom Pass.=Serve a fare salire di livello il tuo Pass Fantasma.
 
-Coffee Aid=Aiuto Caffè
-Stamina Replenishment=Rifornimento di resistenza
-Used to restore 60 Stamina.=Serve per ripristinare 60 di resistenza.
+
 MaraThon Energy=Energia MaraTona
 AP Replenishment=Rifornimento PA
 Used to restore 5 Action Points.=Serve per ripristinare 5 Punti Azione.
@@ -25,8 +25,12 @@ Training Sets=Set Allenamento
 Random Gift Set=Set Regalo Casuale
 Can be used to obtain random training materials.=Può essere usato per ottenere materiali d'allenamento casuali.
 
-
-
+Coffee Aid Set=Set di aiuti al caffè
+Stamina Replenishment=Rifornimento di resistenza
+Coffee Aid=Aiuto Caffè
+Used to restore 60 Stamina.=Serve per ripristinare 60 di resistenza.
+Coffee Candy=Caramelle al caffè
+Used to restore 30 Stamina.=Serve per ripristinare 30 resistenza.
 
 HOW TO OBTAIN
 Exchange at Companio Shop=Scambia presso il Negozio Companio
@@ -43,21 +47,24 @@ Take on Nightmare's Gateway=Attraversa il Cancello degli Incubi
 I can use the app at Station Square to enter Mementos.=Posso usare l'app a Station Square per entrare in ricordi.
 Palace Exploration Rewards=Ricompense esplorazione palazzo
 Realm of Repression Challenge=Sfida Regno della Repressione
-
+Purchase Marthym's Rewards Card=<size\=22>Acquista dalla Carta Fedeltà di Marthym</size>
 
 Material=Materiale
 
 MATERIALI POTENZIAMENTO
 Konpaku Gem=Gemma Konpaku
-Grants 500 EXP to a weapon.=Fornisce 500 EXP a un'arma.
-Thief Compendium Volume=Volume Compendium del ladro
+Used to train Phantom Thieves and Personas.=Servono per allenare Ladri Fantasma e Personae.
+Thief Compendium Volume=Volume Compendio del ladro
 Grants 1,000 EXP to an ally.=Fornisce 1.000 EXP a un alleato.
-Thief Compendium Tome=Tomo Compendium del ladro
-Anecdote Cube=Cubo aneddoto
-Silver Parts=Parti d'argento
-Gold Parts=Parti dorate
+Thief Compendium Tome=Tomo Compendio del ladro
+Anecdote Cube=Cubo Aneddoto
+Grants 500 EXP to one Persona.=Fornisce 500 EXP a una Persona.
+Silver Parts=Parti d'Argento
+Grants 500 EXP to a weapon.=Forniscono 500 EXP a un'arma.
+Gold Parts=Parti Dorate
 Skill Incense S=Incenso Abilità S
 Legend Cube=Cubo Leggenda
+
 
 Get Now=Ottieni ora 
 Unlocks at level     =Sblocca al livello     

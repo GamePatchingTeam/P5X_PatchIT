@@ -153,8 +153,6 @@ B<color\=#ff0000ff>u</color>rger Shop=B<color\=#ff0000ff>u</color>rger Shop
 G<color\=#ff0000ff>y</color>m=P<color\=#ff0000ff>a</color>lestra
 I can hear someone\npassionately shouting,\n"Listen to your muscles!"=Riesco a sentire qualcuno\nche grida appassionatamente:\n"Ascolta i tuoi muscoli!"
 
-
-
 ZOSHIGAYA
 
 S<color\=#ff0000ff>n</color>ack Bar=S<color\=#ff0000ff>n</color>ack bar
@@ -179,3 +177,6 @@ G<color\=#ff0000ff>a</color>rdening=G<color\=#ff0000ff>i</color>ardino
 If I had seeds, I could plant\nthings in the garden...=Se avessi dei semi, potrei\npiantare qualcosa in giardino...
 Z<color\=#ff0000ff>o</color>shigaya=Z<color\=#ff0000ff>o</color>shigaya
 G<color\=#ff0000ff>o</color> to your bedroom=V<color\=#ff0000ff>a</color>i in camera tua
+
+THIEVES DEN
+J<color\=#ff0000ff>o</color>ker=J<color\=#ff0000ff>o</color>ker

@@ -212,6 +212,7 @@ Mm... Thanks.=Mh... grazie.
 M<color\=#ff0000ff>a</color>n with Large Muscles=U<color\=#ff0000ff>o</color>mo muscoloso
 Hey there, my friend!=Ehi, amico!
 Protein Lovers is open 24 hours a day!\nSign up now for a new member discount!=Protein Lovers è aperto 24 ore al giorno!\nIscriviti ora per uno sconto riservato ai nuovi\nmembri!
+Hello.=Ciao.
 
 D<color\=#ff0000ff>e</color>pressed Man=U<color\=#ff0000ff>o</color>mo depresso
 E<color\=#ff0000ff>n</color>thusiastic Man=U<color\=#ff0000ff>o</color>mo entusiasta
@@ -227,6 +228,10 @@ Argh! I lost my spot in the ranking!=Argh! Mi hanno superato in classifica!
 You can get it back, right?=Puoi sempre recuperare, no?
 With all my classwork? I don't have the time!=Con tutti i compiti che abbiamo?\nNon ho tempo!
 Better try another game then, I guess.=Meglio provare un altro gioco allora.
+
+M<color\=#ff0000ff>e</color>rope=M<color\=#ff0000ff>e</color>rope
+Good day.=Buona giornata.
+
 
 ZOSHIGAYA
 

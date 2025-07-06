@@ -203,6 +203,7 @@ Currency=Valuta
 Shop=Compra
 Exchange=Scambio
 Craft=Crea
+Go=Vai
 
 Explorer=Esploratore
 Revelations=Rivelazioni
