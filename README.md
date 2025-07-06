@@ -3,7 +3,7 @@ Traduzione Italiana del gioco **Persona 5: Phantom X**.
 
 **Ultima modifica:** 06/07/2025
 
-**Build:** 06/07/2025-Build4
+**Build:** 06/07/2025-Build5
 
 **Versione BepInEx:** 5.4.22
 

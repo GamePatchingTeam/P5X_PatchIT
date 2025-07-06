@@ -26,7 +26,7 @@ Change your shoes at the shoe lockers=Cambiati le scarpe negli armadietti
 
 
 Traces of Dreams=Tracce di sogni
-Shimo-Kitazawa  Kokatsu Academy=Shimo-Kitazawa Accademia Kokatsu
+Shimo-Kitazawa  Kokatsu Academy=Shimo-Kitazawa  Accademia Kokatsu
 Look for Motoha on the rooftop=Cerca Motoha sul tetto
 Motoha must be upset about Tomoko.\nI should go to the school rooftop and look for her.=Motoha dev'essere arrabbiata per quello che è successo a Tomoko.\nDovrei andare a cercarla sul tetto della scuola.
 Inogami Line=Linea Inogami

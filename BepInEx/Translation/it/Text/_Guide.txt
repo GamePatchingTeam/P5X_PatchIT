@@ -32,3 +32,5 @@ Read "Encapsulated Mysteries" to boost the appearance rate of rare and super rar
 
 KIUCHI'S PALACE
 Select Goals to view\nthe <color\=#FF423F>Phantom Pass</color> screen.=Seleziona Obiettivi per visualizzare\nla schermata del <color\=#FF423F>Pass Fantasma</color>.
+Hey, where are you going?=Ehi, dove stai andando?
+You know we can't go through the front\nentrance. We need a different way in.=Sai che non possiamo entrare dall'ingresso\nprincipale. Dobbiamo trovare un'altra strada.
