@@ -2,3 +2,6 @@ Change the point of view with the mouse.=Cambia il punto di vista\nusandoil mous
 Drag the left mouse button to change the point of view.=Trascina con il tasto sinistro per cambiare il punto di vista.
 <color\=#FF423F>Alt key</color> displays cursor.=<color\=#FF423F>Tasto Alt</color> mostra il cursore.
 You can change your settings later in Menu > Settings > Gameplay.=Potrai modificare queste impostazioni in seguito,\ndal menu > Impostazioni > Gameplay.
+
+PALACE
+<color\=#FFD145>Feature Explanation</color>\nUnlock safe rooms, explore hidden locations on the map, solve puzzles and acquire Treasures, and Defeat Unique Shadows.\nThese actions will increase the exploration level of the Palace.\n\n<color\=#FFD145>Exploration Rewards</color>\nWhen the exploration level reaches a certain threshold, you can receive rewards.\nAt 50% exploration, you will receive a special 5★ weapon as a reward.=<color\=#FFD145>Spiegazione della caratteristica</color>\nSblocca le stanze sicure, esplora le posizioni nascoste sulla mappa, risolvi enigmi e acquisisci tesori e sconfiggi le ombre uniche. Queste azioni aumenteranno il livello di esplorazione del palazzo.\n\n<color\=#FFD145>Premi di esplorazione</color>\nQuando il livello di esplorazione raggiunge una certa soglia, è possibile ricevere premi. Con l'esplorazione del 50%, riceverai un'arma speciale 5 ★ come ricompensa.

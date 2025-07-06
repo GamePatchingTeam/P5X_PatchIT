@@ -31,6 +31,10 @@ Slide to rotate.=Scorri per ruotare.
 Read "Encapsulated Mysteries" to boost the appearance rate of rare and super rare capsules. This book can be obtained from Awards.=Leggi "Misteri incapsulati" per aumentare il tasso di ottenimento di capsule rare e super rare. Questo libro può essere ottenuto dai Premi.
 
 KIUCHI'S PALACE
+This area has not been discovered yet.=Questa zona non è stata ancora scoperta.
 Select Goals to view\nthe <color\=#FF423F>Phantom Pass</color> screen.=Seleziona Obiettivi per visualizzare\nla schermata del <color\=#FF423F>Pass Fantasma</color>.
 Hey, where are you going?=Ehi, dove stai andando?
 You know we can't go through the front\nentrance. We need a different way in.=Sai che non possiamo entrare dall'ingresso\nprincipale. Dobbiamo trovare un'altra strada.
+Use your Grappling Hook=Usa il tuo rampino
+Use your <color\=#FF423F>Grappling Hook</color>.=Usa il tuo <color\=#FF423F>rampino</color>.
+

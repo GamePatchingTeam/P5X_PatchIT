@@ -37,3 +37,6 @@ Use the mysterious app=Usa l'app misteriosa
 Go to the infiltration point=Vai al punto di infiltrazione
 Kiuchi's Palace  Main Stadium Entrance=Palazzo di Kiuchi  Ingresso stadio
 I'll use the grappling hook to get where I need to go.=Userò il rampino per arrivare all'ingresso.
+Proceed=Procedi
+Infiltrate the Palace=Infiltrati nel palazzo
+Enter the Palace interior=Entra all'interno del palazzo
