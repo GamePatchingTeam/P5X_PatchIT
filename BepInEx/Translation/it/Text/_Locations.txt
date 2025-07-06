@@ -24,3 +24,7 @@ Bedroom=Camera tua
 
 METAVERSE
 Palace Entrance=Ingresso del palazzo
+Path of Qimranut Area 1=Percorso dell'area di Qimranut 1
+
+KIUCHI'S PALACE
+Main Stadium Entrance=Ingresso dello stadio principale

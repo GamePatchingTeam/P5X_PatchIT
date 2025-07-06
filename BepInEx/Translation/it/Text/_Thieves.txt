@@ -1,5 +1,6 @@
 ﻿Lv=Lv
 Lv.=Lv.
+Status=Stato
 Attack=Attacco
 HP=HP
 HP Recovery=Recupero HP

@@ -159,7 +159,8 @@ Collected: =Raccolto:
 
 Network error. Please log in again.\n(Error code: 1045012)=Errore di rete. Accedi di nuovo.\n(Codice di errore: 1045012)
 No Story Log.=Niente da mostrare.	
-Tap screen to return.=Tocca lo schermo per tornare indietro.
+Tap screen to return.=Tocca lo schermo per chiudere.
+Tap screen to close.=Tocca lo schermo per chiudere.
 This will advance the story up to a predetermined plot point. Do you want to skip?\n<color\=#FF423F>(This message will only be displayed once per login.)</color>=Questo farà avanzare la storia fino a un punto di trama predeterminato. Vuoi continuare?\n<color\=#FF423F>(Questo messaggio verrà visualizzato solo una volta per accesso.)</color>
 
 Event=Evento
@@ -218,7 +219,6 @@ Side Story=Storia secondaria
 You haven't unlocked this episode yet.=Non hai ancora sbloccato questo episodio.
 Coming Soon=Prossimamente
 Level up to unlock Revelations.=Sali di livello per sbloccare le rivelazioni.
-
 Sightseer=Turista
 
 

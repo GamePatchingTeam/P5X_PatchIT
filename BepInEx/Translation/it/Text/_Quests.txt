@@ -33,4 +33,5 @@ Inogami Line=Linea Inogami
 Take the Inogami Line=Prendi la linea Inogami
 Shibuya  Station Square=Shibuya  Piazza della stazione
 Go to the Path of Qimranut=Vai sul percorso di Qimranut
-Path of Qimranut Area 1=Percorso dell'area di Qimranut 1
+Use the mysterious app=Usa l'app misteriosa
+Go to the infiltration point=Vai al punto di infiltrazione

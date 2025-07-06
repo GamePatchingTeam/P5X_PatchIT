@@ -6,7 +6,6 @@ Highlight=Assolo
 End Game=End Game
 Full Recovery=Pieno recupero
 
-
 MOVESET
 
 Agi=Agi

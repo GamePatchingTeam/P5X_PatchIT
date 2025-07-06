@@ -7,6 +7,7 @@ Claim=Reclama
 Held=<align\=center>Hai:</align>
 (Paid: 0)=(Pagato: 0)
 
+
 Store level 1=Livello 1 Negozio
 Grocery Store level 1=Livello 1 Negozio di alimentari
 Insufficient Shop Level=<size\=18>Liv. negozio\ninsufficiente</size>
@@ -16,7 +17,6 @@ Unlock=Sbloccare
 
 Featured=In primo piano
 Sale=In vendita
-Training Sets=Set Allenamento
 Held: =Ne hai: 
 Gold Set=Set Dorato
 Marthym's Rewards Card=Carta Fedeltà di Marthym
@@ -35,6 +35,9 @@ Meta Jewel x100=Meta Gioielli x100
 Unlocks at level 20.=Si sblocca al livello 20.
 Unlocks at level 30.=Si sblocca al livello 30.
 White Street Outfit=Completo White Street
+Casual=Casual
+A coordinated outfit. You can put it on at the closet in your bedroom.=Un completo coordinato. Puoi indossarlo dall'armadio nella tua camera da letto.
+Premium Pass + Rewards=Pass Premium + Ricompense
 This one catch your eye?=Questo attira la tua attenzione?
 Purchasable from Lv.20=Acquistabile da Lv.20
 
@@ -121,7 +124,7 @@ Phantom Thief Gift=<size\=15>Dono del Ladro Fantasma</size>
 Limited 4★ Weapon Case=Cassa di armi limitate 4★ 
 Additional Present=Regalo aggiuntivo
 First=Prima volta
-Money=Soldi
+Money=Denaro
 Purchase Complete=Acquisto completato
 Quantity: =Quantità: 
 Used Items: =Articoli usati: 

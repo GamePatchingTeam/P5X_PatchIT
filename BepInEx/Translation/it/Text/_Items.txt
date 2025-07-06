@@ -4,20 +4,52 @@ Meta Jewels\nCan be used for Contracts, Arms Deals, and recovering stamina.=Meta
 Gold Ticket=Biglietto Dorato
 Platinum Ticket=Biglietto Platino
 Platinum Milicoin=Milimoneta Platino
-Milicoin Set=Milimoneta Set
+Milicoin Set=Set Milimoneta
 Wingbeat Coin=Moneta Battiali
+Contract Item=Oggetto per contratti
+Can be used in Phantom Idol and Newcomer Contracts to forge contracts with new Phantom Idols. Obtainable from shops and exchange shops.=Può essere utilizzato nei Contratti del Nuovo Arrivato e degli Idol Fantasma per forgiare contratti con nuovi Idol Fantasma. Ottenibile da negozi e negozi di scambio.
 
 Wonder EXP Credit=Crediti EXP Wonder
 Experience gained from daily life activities and Metaverse exploration. Used for raising your level.=Esperienza acquisita dalle attività della vita quotidiana e dalle esplorazioni nel Metaverso. Serve per aumentare il proprio livello.
+Pass Experience Credit=Crediti Esperienza Pass
+Used to level up your Phantom Pass.=Serve a fare salire di livello il tuo Pass Fantasma.
 
 Coffee Aid=Aiuto Caffè
-Used to restore 60 Stamina.=Serve per ripristinare 60 di resistenza.
 Stamina Replenishment=Rifornimento di resistenza
+Used to restore 60 Stamina.=Serve per ripristinare 60 di resistenza.
+MaraThon Energy=Energia MaraTona
+AP Replenishment=Rifornimento PA
+Used to restore 5 Action Points.=Serve per ripristinare 5 Punti Azione.
+Gift Set=Set Regalo
+Training Sets=Set Allenamento
+Random Gift Set=Set Regalo Casuale
+Can be used to obtain random training materials.=Può essere usato per ottenere materiali d'allenamento casuali.
+
+
+
+
+HOW TO OBTAIN
+Exchange at Companio Shop=Scambia presso il Negozio Companio
+Exchange Star Crystals=Scambia con i Cristalli Stellari
+Purchase at Marthym's Shop=Acquista presso il negozio di Marthym
+Pursuit of Honor Challenge=Sfida Ricerca dell'Onore
+Ticket Level Rewards=Premio livello dei biglietti
+Pursuit of Parts Challenge=Sfida Ricerca delle Parti
+Obtainable from Daily Hoot-n-Loot. Can be exchanged for rewards in the shop.=Ottienibile da Daily Hoot-N-Root. Può essere scambiato con premi nel negozio.
+Clear Phantom Pass Missions=Completa missioni nel Pass Fantasma
+Pursuit of Persona Challenge=Sfida Ricerca della Persona
+Trade with Clear Cognigems=Scambia con Cognigemme Pure
+Take on Nightmare's Gateway=Attraversa il Cancello degli Incubi
+I can use the app at Station Square to enter Mementos.=Posso usare l'app a Station Square per entrare in ricordi.
+Palace Exploration Rewards=Ricompense esplorazione palazzo
+Realm of Repression Challenge=Sfida Regno della Repressione
+
 
 Material=Materiale
 
 MATERIALI POTENZIAMENTO
 Konpaku Gem=Gemma Konpaku
+Grants 500 EXP to a weapon.=Fornisce 500 EXP a un'arma.
 Thief Compendium Volume=Volume Compendium del ladro
 Grants 1,000 EXP to an ally.=Fornisce 1.000 EXP a un alleato.
 Thief Compendium Tome=Tomo Compendium del ladro
@@ -25,6 +57,7 @@ Anecdote Cube=Cubo aneddoto
 Silver Parts=Parti d'argento
 Gold Parts=Parti dorate
 Skill Incense S=Incenso Abilità S
+Legend Cube=Cubo Leggenda
 
 Get Now=Ottieni ora 
 Unlocks at level     =Sblocca al livello     
@@ -319,3 +352,58 @@ Base Synergy +14, with an extra +14 for preferred gifts, with an extra +28 for f
 Base Synergy +24, with an extra +24 for preferred gifts, with an extra +48 for first-time preferred gifts.=Sinergia di base +24 con un +24 extra per regali preferiti, con un ulteriore +48 per i regali preferiti fatti per la prima volta.
 Base Synergy +22, with an extra +22 for preferred gifts, with an extra +44 for first-time preferred gifts.=Sinergia di base +22, con un +22 extra per regali preferiti, con un ulteriore +44 per i regali preferiti fatti per la prima volta.
 Base Synergy +40, with an extra +40 for preferred gifts, with an extra +80 for first-time preferred gifts.=Sinergia di base +40, con un +40 extra per regali preferiti, con un ulteriore +80 per i regali preferiti fatti per la prima volta.
+
+
+WEAPONS
+
+Ephemerality=Effimera
+Queen of Winter=Regina dell'inverno
+Babel's Verdict=Il verdetto di Babele
+Venus Sunrise=Venus Sunrise
+Karmic Cycle=Ciclo karmico
+Baptism by Fire=Battesimo di fuoco
+Dream and Nightmare=Sogno e incubo
+Retro Disco Style=Stile da discoteca retrò
+Final Buster=Buster finale
+Permafrost=Permafrost
+Quasar=Quasar
+Fallen Angel Wing=Ala d'angelo caduta
+Sweet Pickaxe=Dolce piccone
+Infinite Moment=Momento infinito
+Rosethorn=Rosetorno
+Revenge Axe=Venge Ax
+Golden Legacy=Golden Legacy
+
+Grand Presser=Grande Schiacciatore
+Shamshir=Shamshir
+Mystery Weapon Kit "FO"=Kit Armi Misterioso "FO"
+Mystery Weapon Kit "BU"=Kit Armi Misterioso "BU"
+Mystery Weapon Kit "MA"=Kit Armi Misterioso "MA"
+Machete=Machete
+Death Stinger=Stinger Mortale
+Edelweiss=Stella Alpina
+Justice Lance=Lancia della Giustizia
+Knight's Reward=Ricompensa del Cavaliere
+Heavy Metal Pain=Dolore Heavy Metal
+Scarlet Scepter=Scettro Scarlatto
+Shadow Crowns=Corone d'Ombra
+Demon's Bite=Morso del Demone
+Crime and Punishment=Crimine e Punizione
+Lava Flame=Fiamma di Lava
+Submarine Sonar=Sonar del Sottomarino
+Emerald Charmer=Incantatrice Smeraldo
+Sunstaff=Bastone Solare
+Chirpy Pickaxe=Piccone Cinguettante
+Masquerade Ribbon=Nastro da Mascherata
+
+
+GIFT SETS
+
+Harmony=Armonia
+Acceptance=Accettazione
+Faith=Fede
+Departure=Partenza
+Trust=Fiducia
+Growth=Crescita
+Awareness=Consapevolezza
+Meditation=Meditazione
