@@ -50,6 +50,60 @@ Mapsi=Mapsi
 Mapsio=Mapsio
 Mapsiodyne=Mapsiodyne
 
+Dia=Dia
+Media=Media
+Diarama=Diarama
+Mediarama=Mediarama
+Diarahan=Diarahan
+Mediarahan=Mediarahan
+
+Patra=Patra
+Me Patra=Me Patra
+Re Patra=Re Patra
+Pen Patra=Pen Patra
+Charmdi=Charmdi
+Enradi=Enradi
+Strandi=Strandi
+Mutudi=Mutudi
+Closedi=Closedi
+Petradi=Petradi
+Paraladi=Paraladi
+Cotl-Di=Cotl-Di
+Kotoludi=Kotoludi
+Bomdi=Bomdi
+Achedi=Achedi
+Recarm=Recarm
+Samarecarm=Samarecarm
+Recarmdora=Recarmdora
+Recarmdra=Recarmdra
+Amrita=Amrita
+
+Tarukaja=Tarukaja
+Matarukaja=Matarukaja
+Makakaja=Makakaja
+Mamakakaja=Mamakakaja
+Rakukaja=Rakukaja
+Marakukaja=Marakukaja
+Samakaja=Samakaja
+Masamakaja=Masamakaja
+Sukukaja=Sukukaja
+Masukukaja=Masukukaja
+Dekunda=Dekunda
+Tarunda=Tarunda
+Matarunda=Matarunda
+Makanda=Makanda
+Mamakanda=Mamakanda
+Rakunda=Rakunda
+Marakunda=Marakunda
+Sukunda=Sukunda
+Masukunda=Masukunda
+Dekaja=Dekaja
+Tetraja=Tetraja
+Tetrakarn=Tetrakarn
+Makarakarn=Makarakarn
+
+Rebellion=Ribellione
+Revolution=Rivoluzione
 
 JOKER
 W<color\=#000000>i</color>ll of Rebellion=W<color\=#000000>i</color>ll of Rebellion

@@ -35,3 +35,5 @@ Shibuya  Station Square=Shibuya  Piazza della stazione
 Go to the Path of Qimranut=Vai sul percorso di Qimranut
 Use the mysterious app=Usa l'app misteriosa
 Go to the infiltration point=Vai al punto di infiltrazione
+Kiuchi's Palace  Main Stadium Entrance=Palazzo di Kiuchi  Ingresso stadio
+I'll use the grappling hook to get where I need to go.=Userò il rampino per arrivare all'ingresso.

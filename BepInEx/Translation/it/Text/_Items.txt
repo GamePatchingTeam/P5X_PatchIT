@@ -212,8 +212,10 @@ Can be used in the Metaverse.\nRestores 9.6% of max HP to party. (When used.)=Pu
 Yakisoba Pan=Yakisoba Pan
 Jam Bread=Pane e marmellata
 Can be used in the Metaverse.\nRestores 14.4% of max HP to party. (When used.)=Può essere utilizzato nel metaverso. Ripristina il 14,4% degli HP massimi del gruppo.
+Usage Effect: Restores 14.4% of max HP to party.=Effetto d'uso: ripristina il 14.4% degli HP massimi del gruppo.
 Melon Pan=Melon Pan
 Can be used in the Metaverse.\nRestores 19.2% of max HP to party. (When used.)=Può essere utilizzato nel metaverso. Ripristina il 19,2% degli HP massimi del gruppo.
+Usage Effect: Restores 19.2% of max HP to party.=Effetto d'uso: ripristina il 19,2% degli HP massimi del gruppo.
 
 ZOSHIGAYA
 Zoshigaya Mart=Mercato di Zoshigaya
@@ -414,3 +416,13 @@ Trust=Fiducia
 Growth=Crescita
 Awareness=Consapevolezza
 Meditation=Meditazione
+
+
+METAVERSE ITEMS
+
+Calming Aroma=Aroma calmante
+Usage Effect: Lowers the security level within the Palace used in to 0%.=Effetto d'uso: azzera il livello di sicurezza del palazzo in cui viene usato.
+Hypno Mist=Nebbia ipnotica
+Lust Treasure Detector=Rilevatore Tesori Lussuria
+
+
