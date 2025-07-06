@@ -89,6 +89,7 @@ Calm Student=Studente calmo
 
 Slightly Scary-Looking Student=Studente leggermente spaventoso
 
+Takeyuki Kiuchi=Takeyuki Kiuchi
 
 Mr. Nagara=Prof. Nagara
 Ms. Taniyama=Prof.ssa Taniyama

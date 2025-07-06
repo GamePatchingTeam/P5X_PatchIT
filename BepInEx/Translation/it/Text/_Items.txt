@@ -7,6 +7,13 @@ Platinum Milicoin=Milimoneta Platino
 Milicoin Set=Milimoneta Set
 Wingbeat Coin=Moneta Battiali
 
+Wonder EXP Credit=Crediti EXP Wonder
+Experience gained from daily life activities and Metaverse exploration. Used for raising your level.=Esperienza acquisita dalle attività della vita quotidiana e dalle esplorazioni nel Metaverso. Serve per aumentare il proprio livello.
+
+Coffee Aid=Aiuto Caffè
+Used to restore 60 Stamina.=Serve per ripristinare 60 di resistenza.
+Stamina Replenishment=Rifornimento di resistenza
+
 Material=Materiale
 
 MATERIALI POTENZIAMENTO

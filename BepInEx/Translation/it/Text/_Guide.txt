@@ -11,7 +11,9 @@ Select your <color\=#FF423F>target</color>.=Seleziona il tuo <color\=#FF423F>ber
 Press the <color\=#FF423F>left</color> <size\=56>ብ</size> to show the cursor.=Premi il tasto <size\=56>ብ</size> <color\=#FF423F>sinistro</color> per mostrare il cursore.
 <color\=#FF423F>Track</color> the current mission.=<color\=#FF423F>Traccia</color> la missione attuale.
 
-G<color\=#ff0000ff>o</color> to the hallway=V<color\=#ff0000ff>a</color>i in corridoio
+Open the <color\=#FF423F>Metaverse Navigator</color>.=Apri il <color\=#FF423F>Navigatore del Metaverso</color>.
+Explore <color\=#FF423F>Mementos</color>.=Esplora i <color\=#FF423F>Memento</color>.
+Press <color\=#FF423F>Go</color>.=Premi <color\=#FF423F>Vai</color>.
 
 SHIBUYA
 

@@ -52059,3 +52059,4 @@ Time Left: 31 d 24 h 57 min=Tempo rimanente: 31 d 24 h 57 min
 Time Left: 31 d 24 h 58 min=Tempo rimanente: 31 d 24 h 58 min
 Time Left: 31 d 24 h 59 min=Tempo rimanente: 31 d 24 h 59 min
 Time Left: 31 d 24 h 60 min=Tempo rimanente: 31 d 24 h 60 min
+Event Ends in: =L'evento termina fra: 

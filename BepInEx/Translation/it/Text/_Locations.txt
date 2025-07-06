@@ -21,3 +21,6 @@ Arcade=Gigolo di Shibuya
 HOME
 Living Room=Soggiorno
 Bedroom=Camera tua
+
+METAVERSE
+Palace Entrance=Ingresso del palazzo

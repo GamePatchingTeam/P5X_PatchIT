@@ -85,5 +85,10 @@ A resort area that's\nhome to Destinyland.=Una località turistica che ospita De
 Asakusa=Asakusa
 Read All about Skytree to unlock Asakusa.=Leggi "Tutto sulla Skytree" per sbloccare Asakusa.
 
+Mementos=Memento
+Area=Area
+Path of Qimranut=Dedalo di Qimranut
+Chamber of Recollections=Camera dei ricordi
+
 
 

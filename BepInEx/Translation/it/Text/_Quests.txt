@@ -31,3 +31,6 @@ Look for Motoha on the rooftop=Cerca Motoha sul tetto
 Motoha must be upset about Tomoko.\nI should go to the school rooftop and look for her.=Motoha dev'essere arrabbiata per quello che è successo a Tomoko.\nDovrei andare a cercarla sul tetto della scuola.
 Inogami Line=Linea Inogami
 Take the Inogami Line=Prendi la linea Inogami
+Shibuya  Station Square=Shibuya  Piazza della stazione
+Go to the Path of Qimranut=Vai sul percorso di Qimranut
+Path of Qimranut Area 1=Percorso dell'area di Qimranut 1

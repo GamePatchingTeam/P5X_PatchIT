@@ -7,6 +7,7 @@ They have a bunch of\ndifferent drinks here.=Ci sono un sacco di\nbevande divers
 
 SHIMO KITAZAWA
 
+G<color\=#ff0000ff>o</color> to the hallway=V<color\=#ff0000ff>a</color>i in corridoio
 R<color\=#ff0000ff>o</color>ad=S<color\=#ff0000ff>t</color>rada
 There's a sign that warns\nagainst diagonal crossing.=C’è un cartello che vieta di attraversare in diagonale.
 S<color\=#ff0000ff>c</color>hool Gate=C<color\=#ff0000ff>a</color>ncello principale

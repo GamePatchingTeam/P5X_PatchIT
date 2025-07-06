@@ -4,6 +4,7 @@ Multi-Target=Bersaglio multiplo
 Highlight=Assolo
 5 Turns=5 turni
 End Game=End Game
+Full Recovery=Pieno recupero
 
 
 MOVESET
