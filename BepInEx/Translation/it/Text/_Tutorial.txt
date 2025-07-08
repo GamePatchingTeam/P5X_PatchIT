@@ -49,6 +49,14 @@ Get close to a Shadow and attack it to initiate a battle.=Avvicinati a un'ombra 
 Treasure Chests=Forzieri del tesoro
 As you explore Mementos and Palaces, you will come across <color\=#FF423F>treasure chests</color>.\nOpen them to earn valuable rewards.=Mentre esplori Memento e palazzi, ti imbatterai in dei <color\=#FF423F>forzieri del tesoro</color>. Aprili per guadagnare dei premi preziosi.
 
+Taking Cover=Nascondersi
+When you see an icon appear near an object, it means that it can be used as a <color\=#FF423F>cover point</color>.=Quando vedi un'icona apparire vicino a un oggetto, significa che può essere usato come a <color\=#FF423F>punto di copertura</color>.
+While in cover, <color\=#FF423F>enemies will not be able to find you</color>.\nHowever, you cannot hide if you are already being chased by enemies.=Mentre sei nascosto, <color\=#FF423F>i nemici non saranno in grado di trovarti</color>. Tuttavia, non puoi nasconderti mentre vieni inseguito dai nemici.
+If there is another cover point nearby, you can jump to it.=Se c'è un altro punto di copertura nelle vicinanze, puoi saltare verso quest'ultimo.
+Select Cancel to stop hiding behind cover.=Seleziona Annulla per smettere di nasconderti dietro la copertura.
+When an enemy comes near, you can ambush them.=Quando un nemico si avvicina, puoi tendergli un'imboscata.
+Ambushing from cover <color\=#FF423F>guarantees you will get the first strike in battle</color>.=Tendere un'imboscata dalla copertura <color\=#FF423F>garantisce che otterrai il primo colpo in battaglia</color>.
+
 
 SYSTEM
 Marking Destinations=Tracciamento destinazione

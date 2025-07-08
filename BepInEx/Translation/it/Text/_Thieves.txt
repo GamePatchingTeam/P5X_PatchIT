@@ -1,8 +1,14 @@
 ﻿Lv=Lv
 Lv.=Lv.
+LV.=LV.
+Max Level Reached=Livello max raggiunto
+Maximum level reached.=Livello massimo raggiunto.
+
 Status=Stato
 Attack=Attacco
+Atk Boost=Boost Att
 HP=HP
+HP Boost=Boost HP
 HP Recovery=Recupero HP
 HP Recovery Taken=Recupero HP ricevuto
 SP=SP
@@ -11,11 +17,30 @@ SP Recovery Taken=Recupero SP ricevuto
 Shield=Scudo
 Shield Received=Scudo ricevuto
 Defense=Difesa
+Def Boost=Boost Dif
 Speed=Velocità
 Crit Mult.=Molt. di crit
 Crit Rate=Tasso di crit
 Crit Rate: =Tasso di crit: 
 Pierce Rate=Tasso di perforazione
+Good Save=Ottimo salvataggio
+
+Level Up Materials=Materiali di livello
+Recommended Party =Gruppo Consigliato
+Recommended Party 1=Gruppo Consigliato 1
+Recommended Party 2=Gruppo Consigliato 2
+Party Characteristics=Caratteristiche del gruppo
+No materials selected.=Nessun materiale selezionato.
+Set Effect=Imposta Effetto
+Next Hidden Ability: Wonder Lv. 1=Abilità nascosta successiva: Wonder LV. 1
+Hidden Ability=Abilità nascosta
+Hidden Ability Materials=<size\=18>Materiali abilità nascosta</size>
+Reach Hidden Ability level 1 to further level up Phantom Thief.=Raggiungi il livello di abilità nascosto 1 per livellare ulteriormente il ladro fantasma.
+Max Awakening Reached=Risveglio Max Raggiunto
+Awakening=Risveglio
+Awakening Effect=Effetto risveglio
+Awareness=<size\=16>Consapevolezza</size>
+Awareness Materials=<size\=18>Materiali consapevolezza</size>
 
 Almighty Mult. +=Molt. divino +
 Curse Mult. +=Molt. maledizione +
@@ -45,6 +70,9 @@ Effects=Effetti
 Multiplier: =Moltiplicatore: 
 Accuracy: =Precisione: 
 Basic Abilities=Abilità di base
+
+LEVELING
+<color\=#FF423F>Excess experience from leveling up will be converted into level up materials.</color>\nDo you want to proceed?=<color\=#FF423F>L'esperienza in eccesso dall'aumento di livello sarà convertita in materiali di potenziamento.</color>\nVuoi procedere?
 
 Role=Ruolo
 Sweeper=Assaltatore
@@ -90,5 +118,17 @@ Leo=Leo
 Leo Kamiyama=Leo Kamiyama
 Leon=Leon
 Erytheia=Erytheia
-CV. Mariya Ise=Cv. Mariya Ise
+CV. Mariya Ise=VA. Mariya Ise
+
+
+Tomoko=Tomoko
+Tomoko Noge=Tomoko Noge
+Prosymna=Prosymna
+CV. Satomi Akesaka=VA. Satomi Akesaka
+Esprit de Corps=Esprit de Corps
+Tomoko is a Strategist who specializes in enhancing her allies' Attack. In addition to putting enemies to sleep and rendering them unable to act, she can also increase the enemy's Damage Taken, making her useful in plenty of situations.=Tomoko è uno stratega specializzato nel miglioramento dell'attacco dei suoi alleati. Oltre a mettere i nemici a dormire e renderli incapaci di agire, può anche aumentare il danno del nemico, rendendola utile in molte situazioni.
+When Tomoko spends <link\="s|131"><u>Greenleaf</u></link> stacks, restore HP to the ally with the lowest HP by 15% of Tomoko's Attack.=Quando Tomoko spende <link\="s|131"><u>Greenleaf</u></link> Stacks, ripristina HP all'alleato con il HP più basso del 15% dell'attacco di Tomoko.
+The effect of Self-Renewal now grants 1 <link\="s|131"><u>Greenleaf</u></link> stack every turn.=L'effetto dell'auto-rinnovamento ora garantisce 1 <link\="s|131"><u>Greenleaf</u></link> impilare ogni turno.
+Shift Change=Cambio di cambiamento
+Increase the skill levels of Psyche Melody and Cheering You On by 2.=Aumenta i livelli di abilità della melodia psiche e ti incoraggiano per 2.
 

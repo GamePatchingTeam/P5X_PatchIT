@@ -324,3 +324,22 @@ Careful, there's a Shadow ahead.=Attento, c'è un'ombra.
 You'll find that being the one to initiate a\nbattle is to your advantage.=Scoprirai quanto può essere vantaggioso\niniziare per primo una battaglia.
 Try to catch Shadows off guard and get\nthe first strike!=Cerca di cogliere le Ombre di sorpresa\ne sferra il primo colpo!
 Start by targeting their weak points!=Inizia prendendo di mira i loro punti deboli!
+
+Welcome to Takeyuki Kiuchi's Baseball\nExhibition! Marvel at an incredible career!=Benvenuti alla mostra di baseball di Takeyuki Kiuchi! Ammirate la sua carriera leggendaria!
+There's some kind of monitor here.\nLet's check it out.=C'è una sorta di monitor qui. Dai un'occhiata.
+Little league players dream of Koshien, and\nKiuchi-sama's performance there was\noutstanding!=I giocatori della Little League sognano il Koshien,\ne il Grande Kiuchi ci ha regalato una prestazione straordinaria!
+In this room you can see the baseball gear\nKiuchi-sama treasured throughout high school.=In questa stanza potete vedere l'attrezzatura da baseball che il Grande Kiuchi ha usato durante\ngli anni del liceo.
+Kiuchi-sama was truly an exceptionally hard\nworker through all his physical training...=Il Grande Kiuchi si è sempre allenato con una dedizione straordinaria...\nUn vero esempio di impegno fisico!
+He never neglected a day of practice!\nNow, how about a quiz?=Non ha mai saltato un allenamento!\nOra, che ne dici di un quiz?
+Of all this gear, which do you think\nKiuchi-sama replaced most often?=Tra quest'attrezzatura, quale pensi che sia la cosa che il Grande Kiuchi ha sostituito più spesso?
+It seems we can't progress without answering\nthis question correctly.=Sembra che non potremo proseguire se prima non rispondiamo correttamente a questa domanda.
+The most frequently replaced gear... That\nwould be whichever wore out fastest, no?=La cosa sostituita più frequentemente... sarebbe\nqualunque cosa si consumasse velocemente, no?
+Why don't we take a look through\nthe displays?=Perché non diamo un'occhiata agli espositori?
+
+This looks like a good spot.=Sembra un buon punto.
+Hide and strike while the enemy is unaware!\nThat's how a phantom thief should fight.=Nasconditi e colpisci il nemico quando abbassa\nla guardia! Ecco come dovrebbe combattere un\nLadro Fantasma.
+Now, let's conceal ourselves.=Ora nascondiamoci.
+Use your environment to hide in enemy\nterritory! That's the way of a Phantom Thief.=Usa l'ambiente circostante per nasconderti nel territorio nemico!\nQuesto è il metodo dei Ladri Fantasma.
+Hoohoo, already putting it into practice!\nThat's our Wonder.=Hoohoo, lo stai già mettendo in pratica eh!\nQuesto è il nostro Wonder.
+Aha! That room is...=Aha! Quella stanza è...
+Wonder, take out that Shadow. If this goes well, we'll have a safe place to rest inside the Palace.=Wonder, metti fuori gioco quell'ombra.\nSe tutto va bene, avremo un posto sicuro\ndove riposare all'interno del palazzo.

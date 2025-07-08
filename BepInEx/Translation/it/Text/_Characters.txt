@@ -90,6 +90,8 @@ Calm Student=Studente calmo
 Slightly Scary-Looking Student=Studente leggermente spaventoso
 
 Takeyuki Kiuchi=Takeyuki Kiuchi
+Announcement=Annuncio
+Voice on Screen=Voce a schermo
 
 Mr. Nagara=Prof. Nagara
 Ms. Taniyama=Prof.ssa Taniyama

@@ -78,16 +78,59 @@ Who would do\nsuch a thing?\nThat's terrible.=Chi farebbe mai una\ncosa del gene
 An accident? I hope\neveryone's okay...=Un incidente? Spero\nche nessuno si\nsia fatto male...
 
 GACHA MACHINE
-We have quite a selection. You're free to pick what you like.=Abbiamo una vasta scelta. Sei libero di scegliere quello che ti piace.
+We have quite a selection. You're free to pick what you like.=Abjbiamo una vasta scelta. Sei libero di scegliere quj che ti piace.
 They all are very interesting.\nWhy not try them out?=Sono tutti molto interessanti.\nPerché non li proviamo?
 What's wrong?\nDid you not want that one?=Cosa c'è che non va?\nNon era quello che volevi?
 This is a new one. Luck's on your side today.=Questo è nuovo! La fortuna\nè dalla tua parte oggi.
 Ooh. Never seen this before.=Ooohh! Questo non l'avevo mai visto.
 
+KIUCHI'S PALACE
+I wanna be\na starter...=Voglio essere\ntitolare...
+I've gotta work hard,\nand make it onto\nthe starting lineup...=Devo impegnarmi\ne conquistare un posto\ntra i titolari...
+Someone's there...\nam I seeing things?=C'è qualcuno là...\nsarà una mia impressione?
+Got to focus...=Devo restare concentrato...
+I'm feeling energized!\nHaha!=Mi sento carico! Ahah!
+It's quiet today...=Oggi è tutto tranquillo...
+The enemy... Where\ndid they go?=I nemici... dove\nsono andati?
+We must protect\nthis place...=Dobbiamo proteggere\nquesto posto...
+I wanna be like\nKiuchi-sama...=Voglio essere come\nil Grande Kiuchi...
+I'm so bored...=Che noia...
 
 LUFEL
 Stay alert!=Stai in guardia!
 Let's take it.=Prendiamolo.
+Looks like you got it right. Shall we\ncontinue?=Sembra che ci abbia preso.\nAndiamo avanti?
+It's locked...?=È bloccato...?
 
 LEON
 Heroes assemble! Let's move out!=Eroi uniti! In marcia!
+Hero senses activate! There\nseems to be treasure nearby.=Hero Senses si attiva! Sembra che ci sia un tesoro nelle vicinanze.
+Dang, what the heck!?\nIt won't open!=Accidenti, che diamine!? Non si apre!
+
+MONT
+Oh, this seems pretty good.=Oh, questo sembra abbastanza buono.
+It doesn't look like we can get through here.=Non sembra che possiamo superare qui.
+It's a treasure chest. Let's open it!=È un forziere del tesoro. Apriamolo!
+Shadows ahead. Proceed with caution.=C'è un'ombra più avanti.\nProcedi con cautela.
+
+MOKO
+It won't open...=Non si apre...
+
+FLEURET
+It won't open... We shouldn't\ntry forcing it either.=Non si apre... non ha nemmeno\nsenso provare a forzarla.
+
+KEY
+It doesn't seem like we can open it...=Non credo che potremo aprirla...
+
+SEPIA
+Doesn't seem it'll open so easily...=Non sembra che si aprirà tanto facilmente...
+
+MONA
+Hrm, this door won't open...=Mmmh, questa porta non si aprirà...
+We have the upper hand.\nDon't miss this chance!=Siamo in <color=#FF423F>vantaggio</color>!\nNon sprechiamo l'occasione!
+Hmm? Something caught my eye...=Mh? Qualcosa ha attirato\nla mia attenzione...
+
+PANTHER
+This door doesn't look like it opens.=Questa porta non sembra volersi aprire.
+There's a Shadow. Be careful!=C'è un'ombra. Stai attento!
+Finders keepers!=Chi trova tiene!

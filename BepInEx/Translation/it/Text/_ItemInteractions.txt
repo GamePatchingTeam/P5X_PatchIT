@@ -184,3 +184,12 @@ J<color\=#ff0000ff>o</color>ker=J<color\=#ff0000ff>o</color>ker
 METAVERSE
 Open Door=Apri
 Treasure Chest=Forziere del tesoro
+
+
+KIUCHI'S PALACE
+Control Monitor=Monitor di controllo
+Exhibit=Espositore
+I'm not so sure this is it. I can't imagine\nit would wear out very quickly...=Non sono così sicuro che sia questo.\nNon credo si consumi molto velocemente...
+Perhaps we could open this door by solving\nthe puzzle we saw earlier...=Forse potremmo aprire questa porta risolvendo il puzzle che abbiamo visto prima...
+Some baseball shoes are\non display...=Ci sono delle scarpe\nda baseball esposte...
+Card Reader=Lettore di schede

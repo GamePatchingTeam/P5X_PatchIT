@@ -1,0 +1,5 @@
+Party=Gruppo
+You haven't saved this team formation. Do you want to save it?=Non hai salvato la formazione di questa squadra.\nVuoi salvarla?
+
+PERSONA CHANGE
+Unlocks after conditions are met.=Si sblocca una volta soddisfatte le condizioni.

@@ -64,6 +64,9 @@ Purchase Marthym's Rewards Card=<size\=22>Acquista dalla Carta Fedeltà di Marth
 
 Material=Materiale
 
+Stamina=Resistenza
+Stamina\nEnergy needed to explore the Metaverse. Restores over time at a set speed.\nMax stamina reached.=Energia necessaria per esplorare il Metaverso. Si ripristina nel tempo a una velocità prestabilita.\nResistenza massima raggiunta.
+
 MATERIALI POTENZIAMENTO
 Konpaku Gem=Gemma Konpaku
 Used to train Phantom Thieves and Personas.=Servono per allenare Ladri Fantasma e Personae.
@@ -436,7 +439,6 @@ Faith=Fede
 Departure=Partenza
 Trust=Fiducia
 Growth=Crescita
-Awareness=Consapevolezza
 Meditation=Meditazione
 
 

@@ -47,3 +47,7 @@ Lufel and I will investigate Kiuchi's Palace together.=Io e Lufel perlustreremo 
 Proceed carefully=Procedi con cautela
 Keep exploring=Continua a esplorare
 We'll need to get past plenty of obstacles before we can take the Treasure.\nWe should proceed with caution.=Dovremo superare molti ostacoli prima di poter prendere il tesoro.\nMeglio procedere con cautela.
+Check the monitor=Controlla il monitor
+There's some kind of monitor here.\nLet's check it out.=C'è una sorta di monitor qui. Diamo un'occhiata.
+Investigate the suspicious place=Indaga sul luogo sospetto
+Open the door=Apri la porta
