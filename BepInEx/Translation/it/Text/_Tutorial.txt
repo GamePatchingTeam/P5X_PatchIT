@@ -13,12 +13,12 @@ City Life=Vita in Città
 Search=Ricerca
 
 BATTLES
+All-Out Attacks=Assalti
 
 
-
-Dungeon
-
-
+DUNGEON
+Using the Grappling Hook=Usando il rampino
+You can use the grappling hook to access certain locations in a Palace where you'll find hidden pathways or treasure chests.\nA <color\=#FF423F>grappling hook icon</color> will appear in areas where you can use it.=Puoi usare il rampino per accedere a determinate posizioni in un palazzo in cui troverai percorsi nascosti o forzieri. Un' <color\=#FF423F>icona del rampino</color> apparirà nelle aree in cui puoi utilizzarlo.
 
 SYSTEM
 Marking Destinations=Tracciamento destinazione
