@@ -1,3 +1,6 @@
+Protagonist's Level=Livello del protagonista
+Cannot change party.=Non puoi cambiare gruppo.
+
 Grappling Hook=Rampino
 Using the Grappling Hook=Usando il rampino
 Rewards=Premi

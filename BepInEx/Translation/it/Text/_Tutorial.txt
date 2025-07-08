@@ -1,7 +1,53 @@
-Change the point of view with the mouse.=Cambia il punto di vista\nusandoil mouse.
-Drag the left mouse button to change the point of view.=Trascina con il tasto sinistro per cambiare il punto di vista.
-<color\=#FF423F>Alt key</color> displays cursor.=<color\=#FF423F>Tasto Alt</color> mostra il cursore.
-You can change your settings later in Menu > Settings > Gameplay.=Potrai modificare queste impostazioni in seguito,\ndal menu > Impostazioni > Gameplay.
 
-PALACE
-<color\=#FFD145>Feature Explanation</color>\nUnlock safe rooms, explore hidden locations on the map, solve puzzles and acquire Treasures, and Defeat Unique Shadows.\nThese actions will increase the exploration level of the Palace.\n\n<color\=#FFD145>Exploration Rewards</color>\nWhen the exploration level reaches a certain threshold, you can receive rewards.\nAt 50% exploration, you will receive a special 5★ weapon as a reward.=<color\=#FFD145>Spiegazione della caratteristica</color>\nSblocca le stanze sicure, esplora le posizioni nascoste sulla mappa, risolvi enigmi e acquisisci tesori e sconfiggi le ombre uniche. Queste azioni aumenteranno il livello di esplorazione del palazzo.\n\n<color\=#FFD145>Premi di esplorazione</color>\nQuando il livello di esplorazione raggiunge una certa soglia, è possibile ricevere premi. Con l'esplorazione del 50%, riceverai un'arma speciale 5 ★ come ricompensa.
+
+
+<size\=54>Select</size> a <size\=71>tutorial</size> to <size\=54>view</size>.=<size\=43>Seleziona un </size><size\=60>tutorial </size><size\=43>per leggerlo</size>.
+Unlocked tutorials: <color\=#FF423F>15</color>=Tutorial sbloccati: <color\=#FF423F>15</color>
+
+All=<size\=30>Tutto</size>
+Battle=Battaglia
+Dungeon=Dungeon
+System=Sistema
+City Life=Vita in Città
+
+Search=Ricerca
+
+BATTLES
+
+
+
+Dungeon
+
+
+
+SYSTEM
+Marking Destinations=Tracciamento destinazione
+If you are ever confused about what to do or where to go next, look to the upper right corner of the screen to view various hints.\nAlso, you can select Track Mission from the Mission screen to show the distance to your goal.=Se dovessi essere confuso su cosa fare o dove andare, prova a dare un'occhiata all'angolo in alto a destra dello schermo per vedere dei suggerimenti.\nInoltre, puoi selezionare "Traccia" dalla schermata della missione per mostrare la distanza dal tuo obiettivo.
+
+Contracts=Contratti
+<color\=#FF423F>Contracts</color> can be made with Gold Tickets, Platinum Tickets, Meta Jewels, or Cognition Crystals.\nFor more details, check the <color\=#FF423F>Info</color> for each Contract.=I <color\=#FF423F>Contratti</color> possono essere firmati con Biglietti Dorati, Biglietti Platino, Meta Gioielli o Cristalli Cognitivi.\nPer maggiori dettagli, controlla le <color\=#FF423F>Informazioni</color> per ogni contratto.
+
+Party: Phantom Thieves=Gruppo: Ladri Fantasma
+Party Formation=Formazione del gruppo
+In the <color\=#FF423F>Party</color> menu, you can choose which Phantom Thieves will participate in exploration and battle, as well as check their equipped weapons and Persona details.=Nel menu <color\=#FF423F>Gruppo</color>, puoi scegliere quali Ladri Fantasma parteciperanno all’esplorazione e alla battaglia, oltre a controllare le armi equipaggiate e i dettagli della Persona.
+Party Harmony=Armonia del gruppo
+<color\=#FF423F>Flames of Desire</color> effects are activated based on the main attributes of your party members.\nDuet: 2 of the same attribute.\nEnsemble: 3 of the same attribute.\nConcerto: All members have different attributes.=Gli effetti di <color\=#FF423F>Fiamme del desiderio</color> si attivano in base agli attributi principali dei membri del gruppo.\nDuetto: 2 con lo stesso attributo.\nEnsemble: 3 con lo stesso attributo.\nConcerto: tutti i membri hanno attributi diversi.
+Party List=Elenco gruppi
+You can create multiple party presets and select them from the <color\=#FF423F>Party List</color>.=È possibile creare più gruppi e selezionarli dal menu <color\=#FF423F>Elenco gruppo</color>.
+
+Party: Personas=Gruppo: Personae
+Party Persona=Personae del gruppo
+Wonder can equip multiple different Personas.\nChoose them carefully according to the attributes and roles of your other teammates.=Wonder può equipaggiare più Personae diverse. Scegli attentamente in base agli attributi e ai ruoli degli altri compagni di squadra.
+
+Wheel Menu=Ruota circolare
+You can easily play using various input methods.\nIn RPG mode, you can use a gamepad or a keyboard and mouse. =È possibile giocare usando vari metodi di input.\nIn modalità RPG, è possibile utilizzare un gamepad o una tastiera e un mouse. 
+
+
+CITY LIFE
+Workbench=Banco da lavoro
+Closet=Guardaroba
+
+
+
+
+

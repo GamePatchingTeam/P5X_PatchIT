@@ -84,5 +84,10 @@ What's wrong?\nDid you not want that one?=Cosa c'è che non va?\nNon era quello 
 This is a new one. Luck's on your side today.=Questo è nuovo! La fortuna\nè dalla tua parte oggi.
 Ooh. Never seen this before.=Ooohh! Questo non l'avevo mai visto.
 
-KIUCHI'S PALACE
-Stay alert!=Resta in guardia!
+
+LUFEL
+Stay alert!=Stai in guardia!
+
+
+LEON
+Heroes assemble! Let's move out!=Eroi uniti! In marcia!

@@ -1,4 +1,4 @@
-﻿All=<size\=30>Tutte</size>
+﻿All=<size\=30>Tutto</size>
 Main=<size\=21>Storia</size>
 Side=<size\=26>Secondarie</size>
 Track=Traccia
@@ -25,6 +25,7 @@ Change your shoes at the shoe lockers=Cambiati le scarpe negli armadietti
 
 
 
+TRACES OF DREAMS
 Traces of Dreams=Tracce di sogni
 Shimo-Kitazawa  Kokatsu Academy=Shimo-Kitazawa  Accademia Kokatsu
 Look for Motoha on the rooftop=Cerca Motoha sul tetto
@@ -40,3 +41,7 @@ I'll use the grappling hook to get where I need to go.=Userò il rampino per arr
 Proceed=Procedi
 Infiltrate the Palace=Infiltrati nel palazzo
 Enter the Palace interior=Entra all'interno del palazzo
+Progress further=Avanza ulteriormente
+Kiuchi's Palace  Exhibition Hall=Palazzo di Kiuchi  Sala Espositiva
+Lufel and I will investigate Kiuchi's Palace together.=Io e Lufel perlustreremo insieme il palazzo di Kiuchi.
+

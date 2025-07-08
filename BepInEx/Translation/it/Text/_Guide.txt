@@ -1,5 +1,7 @@
 ﻿Please follow the instructions.=Segui le istruzioni.
 Progress in the main story to unlock this feature.=Vai avanti nella storia principale per sbloccare questa funzione.
+
+
 Adjust Camera=Regola la fotocamera
 Move with <size\=56>虋囻韽丷</size>=Muoviti con <size\=56>虋囻韽丷</size>
 <color\=#FF423F>Jump</color> to the next platform.=<color\=#FF423F>Salta</color> sulla piattaforma successiva.
@@ -7,6 +9,10 @@ Speed up conversations with Fast Forward.=Accelera le conversazioni con Avanti V
 Select <color\=#FF423F>Persona</color>.=Seleziona <color\=#FF423F>Persona</color>.
 Select <color\=#FF423F>Action</color>.=Seleziona <color\=#FF423F>Azione</color>.
 Select your <color\=#FF423F>target</color>.=Seleziona il tuo <color\=#FF423F>bersaglio</color>.
+Change the point of view with the mouse.=Cambia il punto di vista\nusandoil mouse.
+Drag the left mouse button to change the point of view.=Trascina con il tasto sinistro per cambiare il punto di vista.
+<color\=#FF423F>Alt key</color> displays cursor.=<color\=#FF423F>Tasto Alt</color> mostra il cursore.
+You can change your settings later in Menu > Settings > Gameplay.=Potrai modificare queste impostazioni in seguito,\ndal menu > Impostazioni > Gameplay.
 
 Press the <color\=#FF423F>left</color> <size\=56>ብ</size> to show the cursor.=Premi il tasto <size\=56>ብ</size> <color\=#FF423F>sinistro</color> per mostrare il cursore.
 <color\=#FF423F>Track</color> the current mission.=<color\=#FF423F>Traccia</color> la missione attuale.
@@ -19,6 +25,7 @@ SHIBUYA
 
 Traffic rules must be strictly adhered to.=Le regole del traffico vanno rispettate rigorosamente.
 
+
 GACHA MACHINE
 
 Tap the capsule machine to obtain a capsule.=Tocca il distributore per ottenere una capsula.
@@ -30,6 +37,10 @@ Tap screen to open.=Tocca per aprire.
 Slide to rotate.=Scorri per ruotare.
 Read "Encapsulated Mysteries" to boost the appearance rate of rare and super rare capsules. This book can be obtained from Awards.=Leggi "Misteri incapsulati" per aumentare il tasso di ottenimento di capsule rare e super rare. Questo libro può essere ottenuto dai Premi.
 
+
+Metaverse
+Cannot be used in the Metaverse.=Non può essere usato nel Metaverso.
+
 KIUCHI'S PALACE
 This area has not been discovered yet.=Questa zona non è stata ancora scoperta.
 Select Goals to view\nthe <color\=#FF423F>Phantom Pass</color> screen.=Seleziona Obiettivi per visualizzare\nla schermata del <color\=#FF423F>Pass Fantasma</color>.
@@ -37,4 +48,4 @@ Hey, where are you going?=Ehi, dove stai andando?
 You know we can't go through the front\nentrance. We need a different way in.=Sai che non possiamo entrare dall'ingresso\nprincipale. Dobbiamo trovare un'altra strada.
 Use your Grappling Hook=Usa il tuo rampino
 Use your <color\=#FF423F>Grappling Hook</color>.=Usa il tuo <color\=#FF423F>rampino</color>.
-
+<color\=#FFD145>Feature Explanation</color>\nUnlock safe rooms, explore hidden locations on the map, solve puzzles and acquire Treasures, and Defeat Unique Shadows.\nThese actions will increase the exploration level of the Palace.\n\n<color\=#FFD145>Exploration Rewards</color>\nWhen the exploration level reaches a certain threshold, you can receive rewards.\nAt 50% exploration, you will receive a special 5★ weapon as a reward.=<color\=#FFD145>Spiegazione della caratteristica</color>\nSblocca le stanze sicure, esplora le posizioni nascoste sulla mappa, risolvi enigmi e acquisisci tesori e sconfiggi le ombre uniche. Queste azioni aumenteranno il livello di esplorazione del palazzo.\n\n<color\=#FFD145>Premi di esplorazione</color>\nQuando il livello di esplorazione raggiunge una certa soglia, è possibile ricevere premi. Con l'esplorazione del 50%, riceverai un'arma speciale 5 ★ come ricompensa.

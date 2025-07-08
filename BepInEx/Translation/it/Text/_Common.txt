@@ -181,7 +181,6 @@ SKILL=ABILITÀ
 INFO=INFORMAZIONI
 Level=Livello
 Tutorials=Tutorial
-Contracts=Contratti
 ID:=ID:
 
 Requirements Not Met=Requisiti Non Soddisfatti
@@ -204,6 +203,7 @@ Shop=Compra
 Exchange=Scambio
 Craft=Crea
 Go=Vai
+In Progress=In corso
 
 Explorer=Esploratore
 Revelations=Rivelazioni

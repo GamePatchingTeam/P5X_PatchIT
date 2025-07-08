@@ -122,3 +122,14 @@ Arsène's Chains=Catene di Arsène
 Curse dmg to all foes. Increase dmg on Extra Action. Increase dmg when foe has debuff.=DMG da Maledizione a tutti i nemici. Aumenta il DMG da Staffetta e quando il nemico ha un malus.
 
 
+
+
+???
+Deal Gun damage to random foes. Fire 3 shots at once, and can fire until out of ammo.=Infligge danni da proiettili a dei nemici casuali. Spara 3 colpi contemporaneamente (puoi sparare fin quando non finisci le munizioni).
+Deal Physical damage to 1 foe.=Infligge danni fisici a un nemico.
+
+
+
+SETS
+No active set effects.=Nessun effetto set attivo.
+

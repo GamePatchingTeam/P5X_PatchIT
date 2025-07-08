@@ -91,6 +91,7 @@ Do you want to leave the Palace and return to the city?=Vuoi lasciare il palazzo
 This area has not been discovered yet.=Questa zona non è stata ancora scoperta.
 
 Kiuchi's Palace=Palazzo di Kiuchi
+Exhibition Hall=Sala Espositiva
 
 Path of Qimranut=Dedalo di Qimranut
 Chamber of Recollections=Camera dei ricordi
