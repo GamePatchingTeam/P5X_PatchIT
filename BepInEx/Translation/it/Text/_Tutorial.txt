@@ -13,12 +13,36 @@ City Life=Vita in Città
 Search=Ricerca
 
 BATTLES
+
+Guarding=In guardia
+When you <color\=#FF423F>Guard</color>, you not only decrease damage taken, but also recover Down Points and SP.=Quando usi la <color\=#FF423F>Guardia</color>, non solo diminuisci i danni subiti, ma recuperi anche Punti Abbattimento e SP.
+Turn Order=Ordine dei turni
+The <color\=#FF423F>Turn Bar</color> shows the order in which allies and enemies will take action.\nThe character on the left will act first.=La <color\=#FF423F>Barra Turni</color> mostra l'ordine in cui gli alleati e i nemici agiranno.\nIl personaggio a sinistra agirà per primo.
+Press and hold the character or the character's icon to view their detailed analysis.=Tieni premuto il personaggio o l'icona del personaggio per visualizzarne un'analisi dettagliata.
+Attribute Affinities=Affinità agli elementi
+Every Persona and Shadow has its own attribute affinities.=Tutte le Ombre e le Personae hanno delle affinità a vari elementi.
+?: Affinity is unknown since you have not attacked it.\nWeakness: Incurs high amounts of damage and can be knocked down.=?: L'affinità è sconosciuta poiché non l'hai attaccato il bersaglio con quello specifico elemento.\nDebolezza: comporta elevate quantità di danno e può provocare un abbattimento.
+Resistance: Will not incur much damage.\nNull: Will not incur damage.\nRepel: Repels damage.\nAbsorb: Absorbs damage.=Resistenza: subisce meno danni del normale.\nNull: non subisce danni.\nRespinge: respinge il danno all'attaccante.\nAssorbe: assorbe i danni e li trasforma in cure.
+Weaknesses and 1 More=Debolezze e Ancora 1
+Skills have various <color\=#FF423F>elemental attributes</color>, and enemies can be <color\=#FF423F>weak</color> to certain elements. If you attack an enemy's weakness, you will deal more damage and knock them down.=Le abilità hanno vari <color\=#FF423F>attributi elementali</color> e i nemici possono essere <color\=#FF423F>deboli</color> a determinati elementi. Se attacchi la debolezza di un nemico, infliggerai più danni e li abbatterai.
+You will be able to take another action after knocking an enemy down. This is called a <color\=#FF423F>1 More</color>.\n1 More attacks have a time limit, and will <color\=#FF423F>automatically activate after that time has passed</color>.=Sarai in grado di eseguire un'altra azione dopo aver abbattuto un nemico. Questo si chiama a <color\=#FF423F>Ancora 1</color>. Gli attacchi Ancora 1 hanno un limite di tempo e <color\=#FF423F>si attiveranno automaticamente una volta finito il tempo disponibile</color>.
+If you then knock down another enemy, you will gain another 1 More. This can continue as long as you continue to knock down enemies.=Se poi abbatti un altro nemico, guadagnerai un altro Ancora 1. Questo può continuare finché continui ad abbattere i nemici.
+Highlight=Assolo
+A <color\=#FF423F>Highlight</color> is a powerful special skill that can be used by Wonder and his allies. However, it cannot cause critical hits.=Un <color\=#FF423F>Assolo</color> è una potente abilità speciale che può essere usata da Wonder e dai suoi alleati. Tuttavia, non può causare colpi critici.
+Highlights can be used when the <color\=#FF423F>Highlight Gauge</color> is full. The Highlight Gauge fills with each action you take, but you can fill it even more when you attack a foe with its weakness.=Puoi utilizzare gli Assoli quando riempi la <color\=#FF423F>Barra Assolo</color>. La Barra Assolo si riempie con ogni azione che esegui, ma puoi riempirla ancora più velocemente quando attacchi un nemico con la sua debolezza.
+After a character uses a Highlight, you must wait <color\=#FF423F>4 turns</color> before the same character can use their Highlight again.=Dopo che un personaggio usa un Assolo, devi aspettare <color\=#FF423F>4 turni</color> prima che lo stesso personaggio possa usarlo di nuovo.
 All-Out Attacks=Assalti
-
-
+If you knock down all the enemies, your team can unleash an <color\=#FF423F>All-Out Attack</color>.=Se abbatti tutti i nemici, la tua squadra può scatenare un <color\=#FF423F>Assalto</color>.
+All-Out Attacks deal heavy damage to all foes. However, you cannot use them if only one ally is able to act.=Gli Assalti infliggono ingenti danni a tutti i nemici. Tuttavia, non puoi usarli se solo un alleato è in grado di agire.
+Photosensitivity Warning=Avviso di fotosensibilità
+When playing battles at double or triple speed, light stimulus and flashing may be intensified during All-Out Attack cut-ins.\n<color\=#FF423F>This may cause temporary muscle spasms or loss of consciousness when looking at the screen.\nIf you are sensitive to flashing lights, please refrain from using double or triple speed.</color>\n<color\=#FFFC40>If you experience any negative symptoms, stop playing the game at once and consult a doctor.</color>=Quando giochi le battaglie a velocità raddoppiata o triplicata, gli effetti di luce e i lampeggiamenti possono essere intensificati durante gli Assalti.\n<color\=#FF423F>Ciò può causare spasmi muscolari temporanei o perdita di coscienza quando si guarda lo schermo. Se sei sensibile alle luci lampeggianti, ti preghiamo di astenerti dall'uso della velocità doppia o tripla.</color>\n<color\=#FFFC40>Se avverti dei sintomi negativi, smetti subito di giocare e consulta un medico.</color>
 DUNGEON
-Using the Grappling Hook=Usando il rampino
+Using the Grappling Hook=Usare il rampino
 You can use the grappling hook to access certain locations in a Palace where you'll find hidden pathways or treasure chests.\nA <color\=#FF423F>grappling hook icon</color> will appear in areas where you can use it.=Puoi usare il rampino per accedere a determinate posizioni in un palazzo in cui troverai percorsi nascosti o forzieri. Un' <color\=#FF423F>icona del rampino</color> apparirà nelle aree in cui puoi utilizzarlo.
+
+Shadows=Ombre
+As you explore the Metaverse, you will encounter <color\=#FF423F>Shadows</color>.=Mentre esplori il Metaverso, incontrerai delle\n<color\=#FF423F>Ombre</color>.
+Get close to a Shadow and attack it to initiate a battle.=Avvicinati a un'ombra e attaccala per iniziare una battaglia.
 
 SYSTEM
 Marking Destinations=Tracciamento destinazione
@@ -31,22 +55,28 @@ Party: Phantom Thieves=Gruppo: Ladri Fantasma
 Party Formation=Formazione del gruppo
 In the <color\=#FF423F>Party</color> menu, you can choose which Phantom Thieves will participate in exploration and battle, as well as check their equipped weapons and Persona details.=Nel menu <color\=#FF423F>Gruppo</color>, puoi scegliere quali Ladri Fantasma parteciperanno all’esplorazione e alla battaglia, oltre a controllare le armi equipaggiate e i dettagli della Persona.
 Party Harmony=Armonia del gruppo
-<color\=#FF423F>Flames of Desire</color> effects are activated based on the main attributes of your party members.\nDuet: 2 of the same attribute.\nEnsemble: 3 of the same attribute.\nConcerto: All members have different attributes.=Gli effetti di <color\=#FF423F>Fiamme del desiderio</color> si attivano in base agli attributi principali dei membri del gruppo.\nDuetto: 2 con lo stesso attributo.\nEnsemble: 3 con lo stesso attributo.\nConcerto: tutti i membri hanno attributi diversi.
+<color\=#FF423F>Flames of Desire</color> effects are activated based on the main attributes of your party members.\nDuet: 2 of the same attribute.\nEnsemble: 3 of the same attribute.\nConcerto: All members have different attributes.=Gli effetti di <color\=#FF423F>Fiamme del desiderio</color> si attivano in base agli elementi principali dei membri del gruppo.\nDuetto: 2 con lo stesso elemento.\nEnsemble: 3 con lo stesso elemento.\nConcerto: tutti i membri hanno elementi diversi.
 Party List=Elenco gruppi
 You can create multiple party presets and select them from the <color\=#FF423F>Party List</color>.=È possibile creare più gruppi e selezionarli dal menu <color\=#FF423F>Elenco gruppo</color>.
 
 Party: Personas=Gruppo: Personae
 Party Persona=Personae del gruppo
-Wonder can equip multiple different Personas.\nChoose them carefully according to the attributes and roles of your other teammates.=Wonder può equipaggiare più Personae diverse. Scegli attentamente in base agli attributi e ai ruoli degli altri compagni di squadra.
+Wonder can equip multiple different Personas.\nChoose them carefully according to the attributes and roles of your other teammates.=Wonder può equipaggiare più Personae diverse. Scegli attentamente in base agli elementi e ai ruoli degli altri compagni di squadra.
 
 Wheel Menu=Ruota circolare
-You can easily play using various input methods.\nIn RPG mode, you can use a gamepad or a keyboard and mouse. =È possibile giocare usando vari metodi di input.\nIn modalità RPG, è possibile utilizzare un gamepad o una tastiera e un mouse. 
+You can easily play using various input methods.\nIn RPG mode, you can use a gamepad or a keyboard and mouse. =È possibile giocare utilizzando vari metodi di input.\nIn modalità RPG, è possibile utilizzare un gamepad o una tastiera e un mouse. 
 
 
 CITY LIFE
-Workbench=Banco da lavoro
-Closet=Guardaroba
+Synergy=Sinergia
+When you form a bond with someone whose desires resonate with your own, the resulting connection is known as <color\=#FF423F>Synergy</color>.\nComplete certain missions with your accomplices to deepen your Synergy bonds with them.=Quando crei un legame con qualcuno i cui desideri risuonano con i tuoi, la connessione risultante è nota come <color\=#FF423F>Sinergia</color>. Completa alcune missioni con i tuoi confidenti per rafforzare i tuoi legami sinergici con loro.
+Spend time with your accomplices to increase your <color\=#FF423F>Synergy rank</color> with them.\nIf you give them a gift while hanging out, your relationship may deepen even further.=Trascorri del tempo con i tuoi confidenti per aumentare il loro <color\=#FF423F>Rango sinergia</color>.\nSe gli fai un regalo mentre uscite, il vostro legame potrebbe rafforzarsi ulteriormente.
 
+Workbench=Tavolo da lavoro
+If you have the required materials, you can create all sorts of items at the <color\=#FF423F>Workbench</color>.\nYour social stats will improve the first time you craft each item.=Se hai i materiali richiesti, puoi creare ogni tipo di oggetto sul <color\=#FF423F>Tavolo da lavoro</color>.\nLe tue statistiche sociali miglioreranno la prima volta che crei ogni oggetto.
+
+Closet=Guardaroba
+At the <color\=#FF423F>Closet</color>, you can choose different outfits to wear. Casual Clothes are worn around the city, and Loungewear is worn at home.=Dal <color\=#FF423F>Guardaroba</color>, puoi scegliere diversi abiti da indossare. Puoi indossare i vestiti casual quando esci di casa e gli abiti da casa invece quando resti dentro.
 
 
 

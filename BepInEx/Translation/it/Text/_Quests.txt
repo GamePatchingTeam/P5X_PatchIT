@@ -44,4 +44,6 @@ Enter the Palace interior=Entra all'interno del palazzo
 Progress further=Avanza ulteriormente
 Kiuchi's Palace  Exhibition Hall=Palazzo di Kiuchi  Sala Espositiva
 Lufel and I will investigate Kiuchi's Palace together.=Io e Lufel perlustreremo insieme il palazzo di Kiuchi.
-
+Proceed carefully=Procedi con cautela
+Keep exploring=Continua a esplorare
+We'll need to get past plenty of obstacles before we can take the Treasure.\nWe should proceed with caution.=Dovremo superare molti ostacoli prima di poter prendere il tesoro.\nMeglio procedere con cautela.

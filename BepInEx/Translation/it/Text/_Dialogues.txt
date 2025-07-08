@@ -304,10 +304,8 @@ So that's the job?=Quindi questo è tutto?
 That's right. It's about time I filled you\nin. Let's talk.=Esattamente. È giunto il momento di spiegarti tutto.\nAscolta.
 A Palace's Treasure is...=Il tesoro di un palazzo è...
 ...an item that symbolizes the root cause of its ruler's warped desire.=...un oggetto che simboleggia la causa principale del desiderio distorto del suo sovrano.
-
 An item?=Un oggetto?
 The root cause?=La causa principale?
-
 Why did Kiuchi become the Subway Slammer? This item points to the origin of that behavior.=Perché Kiuchi è diventato il Flagello della Metro? Quest'oggetto indica l'origine di quel comportamento.
 It is a symbol of warped desire, and constitutes the very core of what gives the Palace its form.=È un simbolo del suo desiderio distorto e\ncostituisce il nucleo stesso di ciò che dà al\npalazzo la sua forma.
 If we manage to steal it, we can induce a change of heart in Kiuchi.=Se riusciamo a rubarlo, possiamo innescare in Kiuchi un risveglio del cuore.
@@ -322,5 +320,7 @@ They will obey his desire and stop at nothing to destroy us for the sake of thei
 If you feel underprepared, we could always return to the real world and stock up on whatever items we need.=Se non ti senti pronto, possiamo sempre\ntornare al mondo reale e fare scorta di\nqualsiasi oggetto che ci possa servire.
 Now then, Wonder, let's begin!=Detto questo Wonder, iniziamo!
 
-
-
+Careful, there's a Shadow ahead.=Attento, c'è un'ombra.
+You'll find that being the one to initiate a\nbattle is to your advantage.=Scoprirai quanto può essere vantaggioso\niniziare per primo una battaglia.
+Try to catch Shadows off guard and get\nthe first strike!=Cerca di cogliere le Ombre di sorpresa\ne sferra il primo colpo!
+Start by targeting their weak points!=Inizia prendendo di mira i loro punti deboli!

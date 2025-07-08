@@ -48,4 +48,15 @@ Hey, where are you going?=Ehi, dove stai andando?
 You know we can't go through the front\nentrance. We need a different way in.=Sai che non possiamo entrare dall'ingresso\nprincipale. Dobbiamo trovare un'altra strada.
 Use your Grappling Hook=Usa il tuo rampino
 Use your <color\=#FF423F>Grappling Hook</color>.=Usa il tuo <color\=#FF423F>rampino</color>.
-<color\=#FFD145>Feature Explanation</color>\nUnlock safe rooms, explore hidden locations on the map, solve puzzles and acquire Treasures, and Defeat Unique Shadows.\nThese actions will increase the exploration level of the Palace.\n\n<color\=#FFD145>Exploration Rewards</color>\nWhen the exploration level reaches a certain threshold, you can receive rewards.\nAt 50% exploration, you will receive a special 5★ weapon as a reward.=<color\=#FFD145>Spiegazione della caratteristica</color>\nSblocca le stanze sicure, esplora le posizioni nascoste sulla mappa, risolvi enigmi e acquisisci tesori e sconfiggi le ombre uniche. Queste azioni aumenteranno il livello di esplorazione del palazzo.\n\n<color\=#FFD145>Premi di esplorazione</color>\nQuando il livello di esplorazione raggiunge una certa soglia, è possibile ricevere premi. Con l'esplorazione del 50%, riceverai un'arma speciale 5 ★ come ricompensa.
+<color\=#FF423F>Attack</color> the enemy first.=<color\=#FF423F>Attacca</color> per primo il nemico.<color\=#FFD145>Feature Explanation</color>\nUnlock safe rooms, explore hidden locations on the map, solve puzzles and acquire Treasures, and Defeat Unique Shadows.\nThese actions will increase the exploration level of the Palace.\n\n<color\=#FFD145>Exploration Rewards</color>\nWhen the exploration level reaches a certain threshold, you can receive rewards.\nAt 50% exploration, you will receive a special 5★ weapon as a reward.=<color\=#FFD145>Spiegazione della caratteristica</color>\nSblocca le stanze sicure, esplora le posizioni nascoste sulla mappa, risolvi enigmi e acquisisci tesori e sconfiggi le ombre uniche. Queste azioni aumenteranno il livello di esplorazione del palazzo.\n\n<color\=#FFD145>Premi di esplorazione</color>\nQuando il livello di esplorazione raggiunge una certa soglia, è possibile ricevere premi. Con l'esplorazione del 50%, riceverai un'arma speciale 5 ★ come ricompensa.
+
+
+
+BATTLE
+This skill is unlocked at level 2.=Questa abilità si sblocca al livello 2.
+This skill is unlocked at level 4.=Questa abilità si sblocca al livello 4.
+
+All <color\=#FF423F>attacks</color> have a damage attribute.=Tutti gli <color\=#FF423F>attacchi</color> hanno un attributo di danno.
+When you see <color\=#FF423F>WEAK</color>, you can hit the enemy's weakness.=Quando vedi <color\=#FF423F>DEBOLE</color>, puoi colpire la debolezza del nemico.
+Use a 1 More to <color\=#FF423F>knock down</color> the other enemy.=Usa un Ancora 1 per <color\=#FF423F>abbattere</color> l'altro nemico.
+

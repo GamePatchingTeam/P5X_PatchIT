@@ -59,6 +59,7 @@ CV.Koki Uchiyama=VA. Koki Uchiyama
 Ren=Ren
 Ren Amamiya=Ren Amamiya
 Joker=Joker
+Arsène=Arsène
 
 Ryuji=Ryuji
 Ryuji Sakamoto=Ryuji Sakamoto

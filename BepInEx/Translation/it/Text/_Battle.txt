@@ -2,9 +2,16 @@
 Single-Target=Bersaglio singolo
 Multi-Target=Bersaglio multiplo
 Highlight=Assolo
+1 MORE=ANCORA 1
 5 Turns=5 turni
 End Game=End Game
 Full Recovery=Pieno recupero
+
+AILMENTS
+
+B<color\=#000000>u</color>rn=U<color\=#000000>s</color>tione
+S<color\=#000000>h</color>ock=E<color\=#000000>l</color>ettrificato
+S<color\=#000000>h</color>ock=A<color\=#000000>b</color>battimento
 
 MOVESET
 
@@ -106,10 +113,8 @@ Rebellion=Ribellione
 Revolution=Rivoluzione
 
 JOKER
+
 W<color\=#000000>i</color>ll of Rebellion=W<color\=#000000>i</color>ll of Rebellion
-
-Arsène=Arsène
-
 Curse dmg to all foes. Gain 1 Will of Rebellion.=DMG da Maledizione a tutti i nemici. Ottieni 1 volontà di ribellione.
 
 Trickster's Plunder=Saccheggio del Trickster
@@ -122,6 +127,12 @@ Arsène's Chains=Catene di Arsène
 Curse dmg to all foes. Increase dmg on Extra Action. Increase dmg when foe has debuff.=DMG da Maledizione a tutti i nemici. Aumenta il DMG da Staffetta e quando il nemico ha un malus.
 
 
+WONDER
+
+Tatra Shot=Colpo Tatra
+Bullet Time=Mezzogiorno di Piombo
+Seize the Day=Cogli l'Attimo
+Gun dmg to 1 foe. Inflict Marked on foe.=DAN da proiettile a 1 nemico. Infligge Abbattimento al nemico.
 
 
 ???

@@ -6,6 +6,9 @@ Be aware of scammers and risks from playing pirated versions of the game. Don't 
 
 
 Logging in=Accesso in corso
+Logging in.=Accesso in corso.
+Logging in..=Accesso in corso..
+Logging in...=Accesso in corso...
 Loading...=Caricamento...
 
 Verify files? This may take a few minutes.=Verificare i file? Potrebbe richiedere qualche minuto.
