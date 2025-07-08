@@ -85,6 +85,8 @@ A resort area that's\nhome to Destinyland.=Una località turistica che ospita De
 Asakusa=Asakusa
 Read All about Skytree to unlock Asakusa.=Leggi "Tutto sulla Skytree" per sbloccare Asakusa.
 
+Thieves Den=Covo dei Ladri
+
 Mementos=Memento
 Area=Area
 Do you want to leave the Palace and return to the city?=Vuoi lasciare il palazzo e tornare in città?

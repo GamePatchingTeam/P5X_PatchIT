@@ -182,4 +182,5 @@ THIEVES DEN
 J<color\=#ff0000ff>o</color>ker=J<color\=#ff0000ff>o</color>ker
 
 METAVERSE
+Open Door=Apri
 Treasure Chest=Forziere del tesoro
