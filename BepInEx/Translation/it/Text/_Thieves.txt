@@ -36,7 +36,7 @@ Strong Attack Down=Attacco potenziato giù
 Weak Attack Down=Attacco debole giù
 Damage Down=Danno giù
 Ailment Acc.=Acc. alterazioni
-Down Points=Punti atterramento
+Down Points=Punti Abbattimento
 
 Rounds: =Round: 
 Damage=Danno

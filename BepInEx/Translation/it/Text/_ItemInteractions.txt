@@ -180,3 +180,6 @@ G<color\=#ff0000ff>o</color> to your bedroom=V<color\=#ff0000ff>a</color>i in ca
 
 THIEVES DEN
 J<color\=#ff0000ff>o</color>ker=J<color\=#ff0000ff>o</color>ker
+
+METAVERSE
+Treasure Chest=Forziere del tesoro

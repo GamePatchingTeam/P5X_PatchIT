@@ -36,6 +36,8 @@ If you knock down all the enemies, your team can unleash an <color\=#FF423F>All-
 All-Out Attacks deal heavy damage to all foes. However, you cannot use them if only one ally is able to act.=Gli Assalti infliggono ingenti danni a tutti i nemici. Tuttavia, non puoi usarli se solo un alleato è in grado di agire.
 Photosensitivity Warning=Avviso di fotosensibilità
 When playing battles at double or triple speed, light stimulus and flashing may be intensified during All-Out Attack cut-ins.\n<color\=#FF423F>This may cause temporary muscle spasms or loss of consciousness when looking at the screen.\nIf you are sensitive to flashing lights, please refrain from using double or triple speed.</color>\n<color\=#FFFC40>If you experience any negative symptoms, stop playing the game at once and consult a doctor.</color>=Quando giochi le battaglie a velocità raddoppiata o triplicata, gli effetti di luce e i lampeggiamenti possono essere intensificati durante gli Assalti.\n<color\=#FF423F>Ciò può causare spasmi muscolari temporanei o perdita di coscienza quando si guarda lo schermo. Se sei sensibile alle luci lampeggianti, ti preghiamo di astenerti dall'uso della velocità doppia o tripla.</color>\n<color\=#FFFC40>Se avverti dei sintomi negativi, smetti subito di giocare e consulta un medico.</color>
+
+
 DUNGEON
 Using the Grappling Hook=Usare il rampino
 You can use the grappling hook to access certain locations in a Palace where you'll find hidden pathways or treasure chests.\nA <color\=#FF423F>grappling hook icon</color> will appear in areas where you can use it.=Puoi usare il rampino per accedere a determinate posizioni in un palazzo in cui troverai percorsi nascosti o forzieri. Un' <color\=#FF423F>icona del rampino</color> apparirà nelle aree in cui puoi utilizzarlo.
@@ -43,6 +45,10 @@ You can use the grappling hook to access certain locations in a Palace where you
 Shadows=Ombre
 As you explore the Metaverse, you will encounter <color\=#FF423F>Shadows</color>.=Mentre esplori il Metaverso, incontrerai delle\n<color\=#FF423F>Ombre</color>.
 Get close to a Shadow and attack it to initiate a battle.=Avvicinati a un'ombra e attaccala per iniziare una battaglia.
+
+Treasure Chests=Forzieri del tesoro
+As you explore Mementos and Palaces, you will come across <color\=#FF423F>treasure chests</color>.\nOpen them to earn valuable rewards.=Mentre esplori Memento e palazzi, ti imbatterai in dei <color\=#FF423F>forzieri del tesoro</color>. Aprili per guadagnare dei premi preziosi.
+
 
 SYSTEM
 Marking Destinations=Tracciamento destinazione

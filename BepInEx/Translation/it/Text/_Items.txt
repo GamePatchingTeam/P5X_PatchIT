@@ -67,11 +67,17 @@ Material=Materiale
 MATERIALI POTENZIAMENTO
 Konpaku Gem=Gemma Konpaku
 Used to train Phantom Thieves and Personas.=Servono per allenare Ladri Fantasma e Personae.
-Thief Compendium Volume=Volume Compendio del ladro
+
+
+
+Thief Compendium Scrap=Frammento Compendio del Ladro
+Thief Compendium Volume=Volume Compendio del Ladro
 Grants 1,000 EXP to an ally.=Fornisce 1.000 EXP a un alleato.
-Thief Compendium Tome=Tomo Compendio del ladro
+Thief Compendium Tome=Tomo Compendio del Ladro
+Memory Cube=Cubo Ricordo
 Anecdote Cube=Cubo Aneddoto
 Grants 500 EXP to one Persona.=Fornisce 500 EXP a una Persona.
+Metal Parts=Parti Metalliche
 Silver Parts=Parti d'Argento
 Grants 500 EXP to a weapon.=Forniscono 500 EXP a un'arma.
 Gold Parts=Parti Dorate
