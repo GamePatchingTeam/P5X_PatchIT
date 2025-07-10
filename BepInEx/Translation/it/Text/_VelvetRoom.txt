@@ -1,0 +1,16 @@
+What do you desire?=Cosa desideri?
+Tunnel Expansion=Espansione tunnel
+File Management=Gestione archivio
+VIP Service=Servizio VIP
+
+TRAIN PERSONA
+This Persona has reached its current maximum enhancement level.=Questa persona ha raggiunto il suo attuale livello di miglioramento massimo.
+<color\=#FF423F>Excess experience from enhancement will be converted into enhancement materials.</color>\nDo you want to enhance?=<color\=#FF423F>L'esperienza in eccesso verrà convertita in materiali di miglioramento.</color> Vuoi migliorare?
+Enhancement Materials=<size\=19>Materiali di potenziamento</size>
+Enhance=Migliora
+Unlock Skills=Sblocca abilità
+
+
+
+JANOSIK
+Bullet Time Seize the Day Attack Boost I Life Aid I=Mezzogiorno di Piombo, Cogli l'Attimo, Boost Attacco I, Supporto Vitale I

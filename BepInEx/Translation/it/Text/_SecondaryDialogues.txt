@@ -95,42 +95,69 @@ The enemy... Where\ndid they go?=I nemici... dove\nsono andati?
 We must protect\nthis place...=Dobbiamo proteggere\nquesto posto...
 I wanna be like\nKiuchi-sama...=Voglio essere come\nil Grande Kiuchi...
 I'm so bored...=Che noia...
+Did someone sneak in?=Abbiamo compagnia?
+Are they Kiuchi-sama's\nbackup?=Sono il backup del Grande Kiuchi?
 
 LUFEL
 Stay alert!=Stai in guardia!
 Let's take it.=Prendiamolo.
 Looks like you got it right. Shall we\ncontinue?=Sembra che ci abbia preso.\nAndiamo avanti?
 It's locked...?=È bloccato...?
+Locked...=Bloccato...
+No harm in taking a break...=Non fa mai male riposarsi ogni tanto...
+Your Highlight is ready.\nNow, who will take the stage?=Il tuo Assolo è pronto.\nOra, chi salirà sul palco?
+We have the upper hand.\nDon't miss this chance!=Siamo in vantaggio.\nApprofittiamone!
+I'll end it thus!=È la fine per voi!
+That went well! Keep it up, Wonder!=Ha funzionato! Continua così, Wonder!
 
 LEON
 Heroes assemble! Let's move out!=Eroi uniti! In marcia!
 Hero senses activate! There\nseems to be treasure nearby.=Hero Senses si attiva! Sembra che ci sia un tesoro nelle vicinanze.
 Dang, what the heck!?\nIt won't open!=Accidenti, che diamine!? Non si apre!
+Even heroes need to take a detour sometimes...\nLet's go find the key.=Anche gli eroi devono fare una deviazione a volte... Andiamo a cercare la chiave.
+No enemy readings over there. Want to\ncheck it out?=Nessun segnale nemico laggiù.\nVuoi dare un'occhiata?
 
 MONT
 Oh, this seems pretty good.=Oh, questo sembra abbastanza buono.
-It doesn't look like we can get through here.=Non sembra che possiamo superare qui.
+It doesn't look like we can get through here.=Pare che non possiamo entrare qui.
+This door is locked.\nCan we get in from the other side?=Questa porta è chiusa. Magari\npossiamo aprirla dall'altra parte?
 It's a treasure chest. Let's open it!=È un forziere del tesoro. Apriamolo!
 Shadows ahead. Proceed with caution.=C'è un'ombra più avanti.\nProcedi con cautela.
+There's a safe room.\nLet's take a little rest.=C'è una safe room. Riposiamoci un po'.
 
 MOKO
 It won't open...=Non si apre...
+It's locked...=È bloccato...
+There's a safe room. Want to take a break?=C'è una safe room. Vuoi fare una pausa?
 
 FLEURET
 It won't open... We shouldn't\ntry forcing it either.=Non si apre... non ha nemmeno\nsenso provare a forzarla.
+It seems to be locked.=Sembra essere bloccato.
+There's a safe room over there.=C'è una safe room laggiù.
 
 KEY
 It doesn't seem like we can open it...=Non credo che potremo aprirla...
+It's locked...=È bloccato...
+You can't neglect your rest.=Non dovresti trascurare il riposo.
 
 SEPIA
 Doesn't seem it'll open so easily...=Non sembra che si aprirà tanto facilmente...
+The door is locked.=La porta è chiusa a chiave.
+Let's rest before we get too tired.=Riposiamoci un po' se non vogliamo\ncrollare per la stanchezza.
 
 MONA
 Hrm, this door won't open...=Mmmh, questa porta non si aprirà...
+Huh? This door's locked\nfrom the other side...=Eh? Questa porta è chiusa\ndall'altra parte...
 We have the upper hand.\nDon't miss this chance!=Siamo in <color=#FF423F>vantaggio</color>!\nNon sprechiamo l'occasione!
 Hmm? Something caught my eye...=Mh? Qualcosa ha attirato\nla mia attenzione...
+Hrm! Shadow spotted!=Mh! Ombra individuata!
+As expected.=Come previsto.
+Ooh, a new safe room.=Ohh, una nuova safe room.
+All right, let's start today's job!=Forza, diamoci da fare oggi!
 
 PANTHER
 This door doesn't look like it opens.=Questa porta non sembra volersi aprire.
+It's locked. Let's\ncome back later.=È bloccata. Torniamo\npiù tardi.
 There's a Shadow. Be careful!=C'è un'ombra. Stai attento!
 Finders keepers!=Chi trova tiene!
+This is a nice spot for a safe room!=È proprio un bel posto per riposarci!

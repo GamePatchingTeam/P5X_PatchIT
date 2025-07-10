@@ -94,6 +94,7 @@ This area has not been discovered yet.=Questa zona non è stata ancora scoperta.
 
 Kiuchi's Palace=Palazzo di Kiuchi
 Exhibition Hall=Sala Espositiva
+You can now quick travel to the\n<color\=#FF423F>Exhibition Hall 1F: East Exhibition Room</color>.=Ora puoi viaggiare velocemente alla\n<color\=#FF423F>Sala Espositiva P1: Stanza Est</color>.
 
 Path of Qimranut=Dedalo di Qimranut
 Chamber of Recollections=Camera dei ricordi

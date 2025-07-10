@@ -57,6 +57,19 @@ Select Cancel to stop hiding behind cover.=Seleziona Annulla per smettere di nas
 When an enemy comes near, you can ambush them.=Quando un nemico si avvicina, puoi tendergli un'imboscata.
 Ambushing from cover <color\=#FF423F>guarantees you will get the first strike in battle</color>.=Tendere un'imboscata dalla copertura <color\=#FF423F>garantisce che otterrai il primo colpo in battaglia</color>.
 
+Safe Rooms=Safe Room
+After arriving at a <color\=#FF423F>Safe Room</color>, you can use Quick Travel.\nOn the Map screen, select a Safe Room you have already visited to travel there instantly.=Quando entri in una <color\=#FF423F>Safe Room</color>, puoi usare lo spostamento rapido. Nella schermata Mappa, seleziona una Safe Room che hai già visitato raggiungerla all'istante.
+When you enter a Safe Room, <color\=#FF423F>all allies will be fully healed</color>, and the Palace's <color\=#FF423F>Security Level will be reset</color>.=Quando entri in una stanza sicura, <color\=#FF423F>tutti gli alleati saranno completamente guariti</color>e il <color\=#FF423F>livello di sicurezza del palazzo verrà ripristinato</color>.
+In a Safe Room, you can train your Phantom Thieves and Personas, as well as change your party.=Nelle Safe Room, puoi allenare Ladri Fantasma e Personae, oltre a cambiare il tuo gruppo.
+
+Third Eye=Terzo occhio
+Using <color\=#FF423F>Third Eye</color> within a Palace can reveal various hidden items and hints.\nIf you're not sure how to proceed, give it a try.=Utilizzare il <color\=#FF423F>Terzo Occhio</color> all'interno di un Palazzo può rivelare oggetti nascosti e indizi.\nSe non sai come procedere, prova a usarlo.
+
+Search Objects=Cerca gli oggetti
+Use your Third Eye in a Palace to find <color\=#FF423F>search objects</color> which may contain hidden items.=Usa il <color\=#FF423F>Terzo Occhio</color> in un Palazzo per individuare degli <color\=#FF423F>oggetti luccicanti</color> che potrebbero contenere oggetti nascosti.
+
+Collectibles=Collezionabili
+By <color\=#FF423F>striking search objects</color> on the field, you may be able to find items.=Distruggendo gli <color\=#FF423F>oggetti luccicanti</color> sul campo, potresti trovare degli oggetti.
 
 SYSTEM
 Marking Destinations=Tracciamento destinazione

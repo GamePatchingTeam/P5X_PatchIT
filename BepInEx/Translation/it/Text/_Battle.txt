@@ -112,6 +112,9 @@ Makarakarn=Makarakarn
 Rebellion=Ribellione
 Revolution=Rivoluzione
 
+BATTLE STATUS
+Fire damage greatly increased!=Danni da fuoco aumentati di molto!
+Highl<color\=#000000>i</color>ght F<color\=#000000>i</color>re Damage Up=Danni da F<color\=#000000>u</color>oco Ass<color\=#000000>o</color>lo Su
 JOKER
 
 W<color\=#000000>i</color>ll of Rebellion=W<color\=#000000>i</color>ll of Rebellion
@@ -128,15 +131,19 @@ Curse dmg to all foes. Increase dmg on Extra Action. Increase dmg when foe has d
 
 
 WONDER
+Gun dmg to 1 foe (234.0%% Atk).=DAN da proiettile a 1 nemico (234,0% ATT).
 
-Tatra Shot=Colpo Tatra
-Bullet Time=Mezzogiorno di Piombo
-Seize the Day=Cogli l'Attimo
-Gun dmg to 1 foe. Inflict Marked on foe.=DAN da proiettile a 1 nemico. Infligge Abbattimento al nemico.
+MONA
+Wind dmg to 1 foe (149.4% Atk) and restore 1 KO'd ally's HP by 20%.=DAN da vento a 1 nemico (149,4% ATT) e rianima un alleato ripristinando i suoi HP del 20%
 
+PANTHER
+Fire dmg to all foes (128.0% of Atk).\nIncrease Fire dmg by 51.2% (1 turn).=DAN da fuoco a tutti i nemici (128,0% ATT).\nAumenta i DAN da fuoco del 51,2% per 1 turno.
+
+MONT
+Deal Ice dmg to 1 foe (192.0% of Atk). Increase dmg based on foe's missing HP. When foe's HP is below 20%, increase by up to 30%.=Infligge DAN da ghiaccio a 1 nemico (192,0% ATT). Aumenta i DAN in base agli HP mancanti del nemico. Quando gli HP del nemico sono inferiori al 20%, i DAN aumentano fino al 30%.
 
 ???
-Deal Gun damage to random foes. Fire 3 shots at once, and can fire until out of ammo.=Infligge danni da proiettili a dei nemici casuali. Spara 3 colpi contemporaneamente (puoi sparare fin quando non finisci le munizioni).
+Deal Gun damage to random foes. Fire 3 shots at once, and can fire until out of ammo.=Infligge danni da proiettile a dei nemici casuali. Spara 3 colpi contemporaneamente (puoi sparare fin quando non finisci le munizioni).
 Deal Physical damage to 1 foe.=Infligge danni fisici a un nemico.
 
 

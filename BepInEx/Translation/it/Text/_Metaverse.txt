@@ -2,6 +2,7 @@ Protagonist's Level=Livello del protagonista
 Cannot change party.=Non puoi cambiare gruppo.
 
 Grappling Hook=Rampino
+Third Eye=Terzo occhio
 Rewards=Premi
 Rewards: =Premi: 
 Palace Progress=Progressi del palazzo

@@ -155,9 +155,11 @@ Purchase Limit: 100=Limite di acquisto: 100
 Have=<align\=center>Hai</align>
 Locked=Bloccato
 
-Collected: =Raccolto: 
 
+Collected: =Raccolto: 
 Network error. Please log in again.\n(Error code: 1045012)=Errore di rete. Accedi di nuovo.\n(Codice di errore: 1045012)
+Maintenance is underway. Please check the official site for more details.=Manutenzione è in corso. Si prega di controllare il sito ufficiale per maggiori dettagli.
+Game update found. Please restart.=Sono stati trovati aggiornamenti. Si prega di riavviare.
 No Story Log.=Niente da mostrare.	
 Tap screen to return.=Tocca lo schermo per chiudere.
 Tap screen to close.=Tocca lo schermo per chiudere.
@@ -180,6 +182,7 @@ CHOOSE=SCEGLI
 HIGHLIGHT=ASSOLO
 SKILL=ABILITÀ
 INFO=INFORMAZIONI
+LEVEL=LIVELLO
 Level=Livello
 Tutorials=Tutorial
 ID:=ID:

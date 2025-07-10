@@ -25,7 +25,7 @@ Crit Rate: =Tasso di crit:
 Pierce Rate=Tasso di perforazione
 Good Save=Ottimo salvataggio
 
-Level Up Materials=Materiali di livello
+Level Up Materials=Materiali
 Recommended Party =Gruppo Consigliato
 Recommended Party 1=Gruppo Consigliato 1
 Recommended Party 2=Gruppo Consigliato 2
@@ -72,7 +72,7 @@ Accuracy: =Precisione:
 Basic Abilities=Abilità di base
 
 LEVELING
-<color\=#FF423F>Excess experience from leveling up will be converted into level up materials.</color>\nDo you want to proceed?=<color\=#FF423F>L'esperienza in eccesso dall'aumento di livello sarà convertita in materiali di potenziamento.</color>\nVuoi procedere?
+<color\=#FF423F>Excess experience from leveling up will be converted into level up materials.</color>\nDo you want to proceed?=<color\=#FF423F>L'esperienza in eccesso sarà convertita in materiali di potenziamento.</color>\nVuoi procedere?
 
 Role=Ruolo
 Sweeper=Assaltatore
@@ -132,3 +132,5 @@ The effect of Self-Renewal now grants 1 <link\="s|131"><u>Greenleaf</u></link> s
 Shift Change=Cambio di cambiamento
 Increase the skill levels of Psyche Melody and Cheering You On by 2.=Aumenta i livelli di abilità della melodia psiche e ti incoraggiano per 2.
 
+Kiyoshi Kurotani=Kiyoshi Kurotani
+Toshiya Sumi=Toshiya Sumi

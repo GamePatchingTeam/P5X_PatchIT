@@ -6,7 +6,7 @@ Metaverse=Metaverso
 
 SCHOOL
 Kokatsu Academy=Accademia Kokatsu
-1F Hallway=Corridoio 1P
+1F Hallway=Corridoio P1
 2F Hallway=Corridoio 2P
 3F Hallway=Corridoio 3P
 Rooftop=Tetto
@@ -28,4 +28,4 @@ Path of Qimranut Area 1=Percorso dell'area di Qimranut 1
 
 KIUCHI'S PALACE
 Main Stadium Entrance=Ingresso stadio
-Exhibition Hall 1F=Sala Espositiva 1P
+Exhibition Hall 1F=Sala Espositiva P1

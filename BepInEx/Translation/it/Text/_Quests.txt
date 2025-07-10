@@ -2,7 +2,8 @@
 Main=<size\=21>Storia</size>
 Side=<size\=26>Secondarie</size>
 Track=Traccia
-Quit Navigation=Esci dalla Navigazione
+Quit Navigation=Esci dalla navigazione
+Quit Tracking=Smetti di tracciare
 
 Awakening of Desire=Risveglio del Desiderio
 Escape from the casino=『Scappa dal casinò』
@@ -16,7 +17,7 @@ Go to the hallway=Vai in corridoio
 That was such a strange dream...\nAnyway, it's time to leave school.=È stato un sogno così strano...\nComunque, è ora di tornare a casa.
 Leave the classroom building=Lascia l'edificio scolastico
 Go to 1F=Vai al P1
-Kokatsu Academy  1F Hallway=Kokatsu Academy  Corridoio 1P
+Kokatsu Academy  1F Hallway=Kokatsu Academy  Corridoio P1
 First, I should leave school.=Innanzitutto, dovrei lasciare la scuola.
 Change your shoes at the shoe lockers=Cambiati le scarpe negli armadietti
 
@@ -48,6 +49,11 @@ Proceed carefully=Procedi con cautela
 Keep exploring=Continua a esplorare
 We'll need to get past plenty of obstacles before we can take the Treasure.\nWe should proceed with caution.=Dovremo superare molti ostacoli prima di poter prendere il tesoro.\nMeglio procedere con cautela.
 Check the monitor=Controlla il monitor
-There's some kind of monitor here.\nLet's check it out.=C'è una sorta di monitor qui. Diamo un'occhiata.
+There's some kind of monitor here.\nLet's check it out.=C'è una sorta di monitor qui.\nDiamo un'occhiata.
 Investigate the suspicious place=Indaga sul luogo sospetto
 Open the door=Apri la porta
+Explore even further=Esplora ulteriormente
+Open the safe room=Entra nella safe room
+Enter the safe room=Entra nella safe room
+Investigate the safe room=Investiga sulla safe room
+Enter the Velvet Room=Entra nella Stanza di Velluto

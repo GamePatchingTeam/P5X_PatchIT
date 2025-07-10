@@ -50,7 +50,11 @@ Use your Grappling Hook=Usa il tuo rampino
 Use your <color\=#FF423F>Grappling Hook</color>.=Usa il tuo <color\=#FF423F>rampino</color>.
 <color\=#FF423F>Attack</color> the enemy first.=<color\=#FF423F>Attacca</color> per primo il nemico.<color\=#FFD145>Feature Explanation</color>\nUnlock safe rooms, explore hidden locations on the map, solve puzzles and acquire Treasures, and Defeat Unique Shadows.\nThese actions will increase the exploration level of the Palace.\n\n<color\=#FFD145>Exploration Rewards</color>\nWhen the exploration level reaches a certain threshold, you can receive rewards.\nAt 50% exploration, you will receive a special 5★ weapon as a reward.=<color\=#FFD145>Spiegazione della caratteristica</color>\nSblocca le stanze sicure, esplora le posizioni nascoste sulla mappa, risolvi enigmi e acquisisci tesori e sconfiggi le ombre uniche. Queste azioni aumenteranno il livello di esplorazione del palazzo.\n\n<color\=#FFD145>Premi di esplorazione</color>\nQuando il livello di esplorazione raggiunge una certa soglia, è possibile ricevere premi. Con l'esplorazione del 50%, riceverai un'arma speciale 5 ★ come ricompensa.
 <color\=#FF423F>Hide</color> behind cover.=<color\=#FF423F>Nasconditi</color> dietro un riparo.
-
+Select <color\=#FF423F>Go to the Velvet Room</color>.=Seleziona <color\=#FF423F>Vai nella stanza di velluto</color>.
+Select <color\=#FF423F>Persona Training</color>.=Seleziona <color\=#FF423F>Allena Persona</color>.
+Select <color\=#FF423F>Enhance</color>.=Seleziona <color\=#FF423F>Migliora</color>.
+Press here to bring up <color\=#FF423F>enhancement materials</color>.=Premi qui per usare i <color\=#FF423F>Materiali di potenziamento</color>.
+<color\=#FF423F>Hold down</color> to select multiple.=<color\=#FF423F>Tieni premuto</color> per selezionarne di più.
 
 BATTLE
 This skill is unlocked at level 2.=Questa abilità si sblocca al livello 2.
@@ -61,3 +65,5 @@ When you see <color\=#FF423F>WEAK</color>, you can hit the enemy's weakness.=Qua
 Use a 1 More to <color\=#FF423F>knock down</color> the other enemy.=Usa un Ancora 1 per <color\=#FF423F>abbattere</color> l'altro nemico.
 You can press <color\=#FF423F>Fast Forward</color> to adjust the battle speed.=Puoi premere <color\=#FF423F>Avanti veloce</color> per regolare la velocità di battaglia.
 Select <color\=#FF423F>Auto</color> to have battle commands chosen for you.=Seleziona <color\=#FF423F>Auto</color> per far combattere la tua squadra in autonomia.
+Select <color\=#FF423F>Go to the Velvet Room</color>.=Seleziona <color\=#FF423F>Vai nella Stanza di Velluto</color>.
+Use your <color\=#FF423F>Third Eye</color>.=Usa il <color\=#FF423F>Tqerzo occhio</color>.

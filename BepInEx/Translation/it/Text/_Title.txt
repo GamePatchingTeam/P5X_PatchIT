@@ -1,4 +1,6 @@
-﻿© Perfect World Adapted from Persona 5 © ATLUS. © SEGA.\nSpecial Thanks: Fontworks Inc. and SHOWASHOTAI Co., Ltd.\nClient Version: 1.0.0 Game Version: 1.0.0 Resource No.: P454.E6080.C1291311.L1285651=© Perfect World Adattato da Persona 5 © Atlus. © Sega.\nRingraziamenti speciali: Fontworks Inc. e Showashotai Co., Ltd.\nVersione Client: 1.0.0 Versione di Gioco: 1.0.0 N. Risorsa N.: P256.E6080.C1271797.L1272814
+﻿© Perfect World Adapted from Persona 5 © ATLUS. © SEGA.\nSpecial Thanks: Fontworks Inc. and SHOWASHOTAI Co., Ltd.\nClient Version: 1.0.11 Game Version: 1.1.0 Resource No.: P325.E1963.C1312582.L1311746=© Perfect World Adattato da Persona 5 © Atlus. © Sega.\nRingraziamenti speciali: Fontworks Inc. e Showashotai Co., Ltd.\nVersione Client: 1.0.11 Versione di Gioco: 1.1.0 N. Risorsa N.: P325.E1963.C1312582.L1311746
+
+
 This game is intended for players age 16 and up.=Questo gioco è destinato ai giocatori di età pari o superiore a 16 anni.
 Reminder to Play Responsibly=Avviso per un gioco responsabile
 This game is intended for mature audiences.=Questo gioco è destinato ad un pubblico maturo.
@@ -9,6 +11,9 @@ Logging in=Accesso in corso
 Logging in.=Accesso in corso.
 Logging in..=Accesso in corso..
 Logging in...=Accesso in corso...
+Logging in....=Accesso in corso....
+Logging in.....=Accesso in corso.....
+Logging in......=Accesso in corso......
 Loading...=Caricamento...
 
 Verify files? This may take a few minutes.=Verificare i file? Potrebbe richiedere qualche minuto.

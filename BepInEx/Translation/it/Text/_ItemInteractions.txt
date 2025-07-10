@@ -184,7 +184,7 @@ J<color\=#ff0000ff>o</color>ker=J<color\=#ff0000ff>o</color>ker
 METAVERSE
 Open Door=Apri
 Treasure Chest=Forziere del tesoro
-
+S<color\=#ff0000ff>a</color>fe Room=S<color\=#ff0000ff>a</color>fe Room
 
 KIUCHI'S PALACE
 Control Monitor=Monitor di controllo
@@ -193,3 +193,8 @@ I'm not so sure this is it. I can't imagine\nit would wear out very quickly...=N
 Perhaps we could open this door by solving\nthe puzzle we saw earlier...=Forse potremmo aprire questa porta risolvendo il puzzle che abbiamo visto prima...
 Some baseball shoes are\non display...=Ci sono delle scarpe\nda baseball esposte...
 Card Reader=Lettore di schede
+Only <color\=#FF423F>C-Tier Fan Card</color> holders may pass.=Sono ammessi soltanto i possessori della\n<color\=#FF423F>Fan Card C</color>.
+A baseball glove\nand uniform...=Un guanto da baseball\ne un'uniforme...
+This doesn't look like a pitcher's emblem.\nLet's try something else.=Questo non sembra "l'emblema di un lanciatore".\nProviamo qualcos'altro.
+A baseball glove is on\ndisplay here...=C'è un guantone da\nbaseball esposto qui...
+A baseball glove...=Un guantone da\nbaseball...

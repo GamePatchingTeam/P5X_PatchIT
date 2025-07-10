@@ -92,6 +92,7 @@ Slightly Scary-Looking Student=Studente leggermente spaventoso
 Takeyuki Kiuchi=Takeyuki Kiuchi
 Announcement=Annuncio
 Voice on Screen=Voce a schermo
+Mechanical Voice=Voce robotica
 
 Mr. Nagara=Prof. Nagara
 Ms. Taniyama=Prof.ssa Taniyama
