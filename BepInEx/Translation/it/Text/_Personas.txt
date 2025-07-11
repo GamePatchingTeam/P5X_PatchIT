@@ -4,6 +4,9 @@ Face your inner desires and strengthen the Persona that has awakened within you.
 Pixie=Pixie
 Jack-o'-Lantern=Jack-O'-Lantern
 Mandrake=Mandragora
+Bicorn=Bicorno
+Berith=Berith
+Succubus=Succube
 Inugami=Inugami
 Sudama=Sudama
 Suzaku=Suzaku
@@ -28,20 +31,44 @@ You can raise a Persona's skill level by allocating schema points.=Puoi aumentar
 JANOSIK
 
 Tatra Shot=Colpo Tatra
-Deal Gun damage equal to <color\=#FFFC40>111.8%</color> of Attack to 1 foe. 75% chance to inflict Marked for 2 turns.\nMarked: Decrease Defense by <color\=#FFFC40>16.3%</color>.\n<b><size\=28><color\=#024068>The firing pin strikes the bullet, igniting its gunpowder for a deadly blow that deals ailment damage. Increase damage when a foe has Marked.</color></size></b>=Infligge danni da proiettile pari al <color\=#FFFC40>111.8%</color> dell'attacco a 1 nemico. Ha il 75% di probabilità d'infliggere Abbattimento per 2 turni.\nAbbattimento: diminuisce la difesa del <color\=#FFFC40>16.3%</color>.\n<b><size\=28><color\=#024068>Il percussore colpisce il proiettile, innescando la polvere da sparo per sferrare un colpo letale che infligge danni da alterazione di stato. I danni aumentano se il nemico è Abbattuto.</color></size></b>
-Gun dmg to 1 foe. Inflict Marked on foe.=DAN da proiettile a 1 nemico. Infligge Abbattimento al nemico.
+Deal Gun damage equal to <color\=#FFFC40>111.8%</color> of Attack to 1 foe. 75% chance to inflict Marked for 2 turns.\nMarked: Decrease Defense by <color\=#FFFC40>16.3%</color>.\n<b><size\=28><color\=#024068>The firing pin strikes the bullet, igniting its gunpowder for a deadly blow that deals ailment damage. Increase damage when a foe has Marked.</color></size></b>=Infligge danni da proiettile pari al <color\=#FFFC40>111.8%</color> dell'attacco a 1 nemico. Ha il 75% di probabilità d'infliggere Vulnerabile per 2 turni.\nVulnerabile: diminuisce la difesa del <color\=#FFFC40>16.3%</color>.\n<b><size\=28><color\=#024068>Il percussore colpisce il proiettile, innescando la polvere da sparo per sferrare un colpo letale che infligge danni da alterazione di stato. I danni aumentano se il nemico è Vulnerabile.</color></size></b>
+Gun dmg to 1 foe. Inflict Marked on foe.=DAN da proiettile a 1 nemico. Infligge Vulnerabile al nemico.
+Gun dmg to 1 foe (111.8% Atk). Inflict Marked on foe.=DAN da proiettile a 1 nemico (111,8% ATT). Infligge Vulnerabile al nemico.
+
 Thief Tactics=Tattiche del Ladro
 Highlight：Deal Gun damage to 1 foe equal to <color\=#fffc40>234.0%</color> of Attack.\n1 MORE：Deal Gun damage to 1 foe.=Assolo: infligge danni da proiettile a 1 nemico pari al <color\=#fffc40>234.0%</color> dell'attacco.\nANCORA 1: infligge danni da proiettile a 1 nemico.
 
 Bullet Time=Mezzogiorno di Piombo
-Deal Gun damage equal to <color\=#FFFC40>12.9%</color> of Attack to all foes 3 times. If a foe is Marked, increase damage dealt by <color\=#FFFC40>16.5%</color> and critical damage by <color\=#FFFC40>19.8%</color>.=Infligge danni da proiettile pari al <color\=#FFFC40>12.9%</color> dell'attacco, a tutti i nemici per 3 volte. Se un nemico è Atterrato, aumenta il danno inflitto del <color\=#FFFC40>16.5%</color> e i danni critici del <color\=#FFFC40>19.8%</color>.
-Deal Gun damage equal to <color\=#FFFC40>12.9%</color> of Attack to all foes 3 times. If a foe is Marked, increase damage dealt by <color\=#FFFC40>16.5%</color> and critical damage by <color\=#FFFC40>19.8%</color>.\n<b><size\=28><color\=#024068>The shepherd's axes seem to stop in midair, and time freezes as enemies are pierced by a hail of bullets. Deals continuous damage to all enemies.</color></size></b>=Infligge danni da proiettile pari al <color\=#FFFC40>12.9%</color> dell'attacco, a tutti i nemici per 3 volte. Se un nemico è Atterrato, aumenta il danno inflitto del <color\=#FFFC40>16.5%</color> e i danni critici del <color\=#FFFC40>19.8%</color>.\n<b><size\=28><color\=#024068>Gli asce del pastore sembrano fermarsi a mezz'aria e il tempo si congela mentre i nemici sono trafitti da una grandinata di proiettili. Infligge danni continui a tutti i nemici.</color></size></b>
+Deal Gun damage equal to <color\=#FFFC40>12.9%</color> of Attack to all foes 3 times. If a foe is Marked, increase damage dealt by <color\=#FFFC40>16.5%</color> and critical damage by <color\=#FFFC40>19.8%</color>.=Infligge danni da proiettile pari al <color\=#FFFC40>12.9%</color> dell'attacco, a tutti i nemici per 3 volte. Se un nemico è Vulnerabile, aumenta il danno inflitto del <color\=#FFFC40>16.5%</color> e i danni critici del <color\=#FFFC40>19.8%</color>.
+Deal Gun damage equal to <color\=#FFFC40>12.9%</color> of Attack to all foes 3 times. If a foe is Marked, increase damage dealt by <color\=#FFFC40>16.5%</color> and critical damage by <color\=#FFFC40>19.8%</color>.\n<b><size\=28><color\=#024068>The shepherd's axes seem to stop in midair, and time freezes as enemies are pierced by a hail of bullets. Deals continuous damage to all enemies.</color></size></b>=Infligge danni da proiettile pari al <color\=#FFFC40>12.9%</color> dell'attacco, a tutti i nemici per 3 volte. Se un nemico è Vulnerabile, aumenta il danno inflitto del <color\=#FFFC40>16.5%</color> e i danni critici del <color\=#FFFC40>19.8%</color>.\n<b><size\=28><color\=#024068>Le asce del pastore sembrano fermarsi a mezz'aria e il tempo si congela mentre i nemici sono trafitti da una grandinata di proiettili. Infligge danni continui a tutti i nemici.</color></size></b>
+Gun dmg to all foes (12.9% Atk, 3 hits). If foe is Marked, increase dmg 16.5% and crit dmg 19.8%.=DAN da proiettile a tutti i nemici (12,9% ATT, 3 colpi).\nSe il nemico è Vulnerabile, aumenta i DAN del 16,5% e i DAN CRIT del 19,8%.
+
 Seize the Day=Cogli l'Attimo
 Deal Bless damage to all foes equal to <color\=#FFFC40>43.3%</color> of Attack. Restore HP of the ally with the lowest remaining HP, equal to <color\=#FFFC40>8.7%</color> of Attack + <color\=#FFFC40>28</color>.=Infligge danni sacri a tutti i nemici pari al <color\=#FFFC40>43.3%</color> dell'attacco. Ripristina gli HP dell'alleato con gli HP più bassi, pari ad un <color\=#FFFC40>8.7%</color> dell'attacco + <color\=#FFFC40>28</color>.
+Bless dmg to all foes (43.3% Atk). Restore 8.7% HP of ally with lowest HP.=DAN sacri a tutti i nemici (43,3% ATT). Ripristina l'8,7% degli HP dell'alleato con gli HP più bassi.
 
 Attack Boost I=Boost Attacco I.
 Increase Attack by 5.8%.=Aumenta l'attacco del 5,8%.
 
 Life Aid I=Supporto Vitale I
 Restore 2.5% of max HP and SP after winning a battle.=Ripristina il 2,5% degli HP ed SP massimi dopo aver vinto una battaglia.
+
+
+ZORRO
+
+Missile Whirlwind=Turbine di Missili
+Wind dmg to 1 foe (96.0% Atk). Inflict Windswept (2 turns). Chance to gain 1 Chivalry. (Chance is equal to critical rate.)=DAN da vento a 1 nemico (96,0% ATT). Infligge Sferzato per 2 turni. Possibilità di guadagnare 1 di Onore. (La possibilità è uguale al Tasso di CRIT.)
+Healing Breeze=Brezza Curativa
+Restore party's HP by 26.2% of Morgana's Atk + 164, and remove 1 elemental ailment.\nWhen removing elemental ailment, gain 1 Chivalry.=Ripristina gli HP del gruppo del 26,2% dell'ATK di Morgana + 164 e rimuovere 1 malus elementale. Quando rimosso il malus, ottiene 1 di Onore.
+Gentle Fist=Pugno Delicato
+Decrease this skill's accuracy by 20%, increase crit rate by 30%, and deal Phys dmg to 1 foe equal to 84.5% of Atk. On a critical hit, gain 1 Chivalry stack.=Riduce l'accuratezza di questa abilità del 20%, aumenta il Tasso di CRIT del 30% e infligge DAN fisici a 1 nemico pari all'84,5% di ATT. In un colpo critico, guadagna 1 accumulo di Onore.
+
+
+CARMEN
+
+Crimson Rose=Rosa Cremisi
+Fire dmg to all foes (62.1% of Atk), increase Ann's Atk by 20% (2 turns).\nWhen Ann has La Vie en Rose, decrease foes' Atk by 8% of Ann's Atk and increase Ann's Atk by same amount (2 turns).=<size\=19>DAN da fuoco a tutti i nemici (62,1% di ATT), aumenta l'ATT di Ann del 20% per 2 turni. Quando Ann è nello stato di La Vie en Rose, diminuisce l'ATT dei nemici dell'8% dell'ATT di Ann e aumenta l'ATT di Ann della stessa quantità per 2 turni.</size>
+Trifire=Trifiamma
+Fire dmg to 1 foe (88.0% Atk), 75% chance to inflict Burn.\nWhen Ann has La Vie en Rose and foe's HP is below 50%, deal bonus dmg (30% of skill dmg).=<size\=20.9>DAN da fuoco a 1 nemico (88,0% di ATT), 75% di probabilità di infliggere bruciatura. Quando Ann è nello stato di La Vie en Rose e gli HP del nemico sono inferiori al 50%, ottiene un bonus DAN (30% di DAN da Abilità).</size>
+Falling Sun=Sole Calante
 

@@ -448,7 +448,7 @@ No usable items.=Nessun oggetto utilizzabile.
 Calming Aroma=Aroma calmante
 Usage Effect: Lowers the security level within the Palace used in to 0%.=Effetto d'uso: azzera il livello di sicurezza del palazzo in cui viene usato.
 Hypno Mist=Nebbia ipnotica
-Usage Effect: Can put the Shadows in the area used to sleep.=Effetto d'uso: può far addormentare le ombre nell'area.
+Usage Effect: Can put the Shadows in the area used to sleep.=Effetto d'uso: può far addormentare le Ombre nell'area.
 Lust Treasure Detector=Rilevatore Tesori Lussuria
 Usage Effect: Displays destroyable objects in the area used on the map.=Effetto d'uso: mostra sulla mappa gli oggetti distruttibili dell'area.
 

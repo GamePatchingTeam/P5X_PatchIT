@@ -93,6 +93,12 @@ Takeyuki Kiuchi=Takeyuki Kiuchi
 Announcement=Annuncio
 Voice on Screen=Voce a schermo
 Mechanical Voice=Voce robotica
+Haughty Man=Uomo altezzoso
+Mysterious Announcement=Annuncio misterioso
+Male Voice=Voce maschile
+Interviewer=Intervistatore
+Team Manager=Manager della squadra
+Head Coach=Capo allenatore
 
 Mr. Nagara=Prof. Nagara
 Ms. Taniyama=Prof.ssa Taniyama

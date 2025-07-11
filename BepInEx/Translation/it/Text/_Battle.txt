@@ -1,6 +1,8 @@
 ﻿COMMON
 Single-Target=Bersaglio singolo
 Multi-Target=Bersaglio multiplo
+Single-Heal=Cura singola
+Multi-Heal=Cura multipla
 Highlight=Assolo
 1 MORE=ANCORA 1
 5 Turns=5 turni
@@ -115,6 +117,7 @@ Revolution=Rivoluzione
 BATTLE STATUS
 Fire damage greatly increased!=Danni da fuoco aumentati di molto!
 Highl<color\=#000000>i</color>ght F<color\=#000000>i</color>re Damage Up=Danni da F<color\=#000000>u</color>oco Ass<color\=#000000>o</color>lo Su
+
 JOKER
 
 W<color\=#000000>i</color>ll of Rebellion=W<color\=#000000>i</color>ll of Rebellion

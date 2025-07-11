@@ -4,6 +4,7 @@ LV.=LV.
 Max Level Reached=Livello max raggiunto
 Maximum level reached.=Livello massimo raggiunto.
 
+Stats=Statistiche
 Status=Stato
 Attack=Attacco
 Atk Boost=Boost Att

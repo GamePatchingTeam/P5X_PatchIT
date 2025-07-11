@@ -85,6 +85,8 @@ This is a new one. Luck's on your side today.=Questo è nuovo! La fortuna\nè da
 Ooh. Never seen this before.=Ooohh! Questo non l'avevo mai visto.
 
 KIUCHI'S PALACE
+Let's rest for a bit...=Riposiamo per un po'...
+
 I wanna be\na starter...=Voglio essere\ntitolare...
 I've gotta work hard,\nand make it onto\nthe starting lineup...=Devo impegnarmi\ne conquistare un posto\ntra i titolari...
 Someone's there...\nam I seeing things?=C'è qualcuno là...\nsarà una mia impressione?
@@ -96,6 +98,7 @@ We must protect\nthis place...=Dobbiamo proteggere\nquesto posto...
 I wanna be like\nKiuchi-sama...=Voglio essere come\nil Grande Kiuchi...
 I'm so bored...=Che noia...
 Did someone sneak in?=Abbiamo compagnia?
+Someone's there...\nAm I seeing things?=C'è qualcuno lì...\nAvrò le allucinazioni?
 Are they Kiuchi-sama's\nbackup?=Sono il backup del Grande Kiuchi?
 
 LUFEL
@@ -109,6 +112,12 @@ Your Highlight is ready.\nNow, who will take the stage?=Il tuo Assolo è pronto.
 We have the upper hand.\nDon't miss this chance!=Siamo in vantaggio.\nApprofittiamone!
 I'll end it thus!=È la fine per voi!
 That went well! Keep it up, Wonder!=Ha funzionato! Continua così, Wonder!
+Well done. Shall we go?=Ben fatto. Andiamo?
+A most commendable strike.=Uno colpo davvero lodevole.
+Time for a Highlight!\nLet's finish this!=È l'ora di un Assolo!\nFiniamola qui!
+This might have something valuable.=Qui dentro potrebbe esserci\nqualcosa di prezioso.
+Nice takedown!=Bel colpo!
+Accept the consequence\nof your resistance!=Accetta le conseguenze\ndella tua resistenza!
 
 LEON
 Heroes assemble! Let's move out!=Eroi uniti! In marcia!
@@ -116,34 +125,40 @@ Hero senses activate! There\nseems to be treasure nearby.=Hero Senses si attiva!
 Dang, what the heck!?\nIt won't open!=Accidenti, che diamine!? Non si apre!
 Even heroes need to take a detour sometimes...\nLet's go find the key.=Anche gli eroi devono fare una deviazione a volte... Andiamo a cercare la chiave.
 No enemy readings over there. Want to\ncheck it out?=Nessun segnale nemico laggiù.\nVuoi dare un'occhiata?
+Hero senses activate! There\nseems to be treasure nearby.=Sensi da eroe, attivazione! Sembra che\nci sia un tesoro nelle vicinanze.
 
 MONT
 Oh, this seems pretty good.=Oh, questo sembra abbastanza buono.
 It doesn't look like we can get through here.=Pare che non possiamo entrare qui.
 This door is locked.\nCan we get in from the other side?=Questa porta è chiusa. Magari\npossiamo aprirla dall'altra parte?
 It's a treasure chest. Let's open it!=È un forziere del tesoro. Apriamolo!
-Shadows ahead. Proceed with caution.=C'è un'ombra più avanti.\nProcedi con cautela.
+Shadows ahead. Proceed with caution.=C'è un'Ombra più avanti.\nProcedi con cautela.
 There's a safe room.\nLet's take a little rest.=C'è una safe room. Riposiamoci un po'.
 
 MOKO
 It won't open...=Non si apre...
 It's locked...=È bloccato...
 There's a safe room. Want to take a break?=C'è una safe room. Vuoi fare una pausa?
+Look! I bet it's something good!=Guarda! Scommetto che sia\nqualcosa di prezioso!
+Now that's worth celebrating!=Ecco qualcosa che vale\nla pena festeggiare!
 
 FLEURET
 It won't open... We shouldn't\ntry forcing it either.=Non si apre... non ha nemmeno\nsenso provare a forzarla.
 It seems to be locked.=Sembra essere bloccato.
 There's a safe room over there.=C'è una safe room laggiù.
+What's that...?=Cos'è quello...?
 
 KEY
 It doesn't seem like we can open it...=Non credo che potremo aprirla...
 It's locked...=È bloccato...
 You can't neglect your rest.=Non dovresti trascurare il riposo.
+Hm? Is that the unmistakable aura of a rare item?=Mh? È l'inconfondibile aura\ndi un oggetto raro?
 
 SEPIA
 Doesn't seem it'll open so easily...=Non sembra che si aprirà tanto facilmente...
 The door is locked.=La porta è chiusa a chiave.
 Let's rest before we get too tired.=Riposiamoci un po' se non vogliamo\ncrollare per la stanchezza.
+Treasure chests are so exciting, aren't they?=I forzieri del tesoro hanno un\ncerto fascino, non è vero?
 
 MONA
 Hrm, this door won't open...=Mmmh, questa porta non si aprirà...
@@ -154,10 +169,15 @@ Hrm! Shadow spotted!=Mh! Ombra individuata!
 As expected.=Come previsto.
 Ooh, a new safe room.=Ohh, una nuova safe room.
 All right, let's start today's job!=Forza, diamoci da fare oggi!
+Now, let's see what we got...=Ora, vediamo cos'abbiamo qui...
+Mewhehe! I love Treasure!=Mewhehe! Amo i Tesori!
 
 PANTHER
 This door doesn't look like it opens.=Questa porta non sembra volersi aprire.
 It's locked. Let's\ncome back later.=È bloccata. Torniamo\npiù tardi.
-There's a Shadow. Be careful!=C'è un'ombra. Stai attento!
+There's a Shadow. Be careful!=C'è un'Ombra. Stai attento!
 Finders keepers!=Chi trova tiene!
 This is a nice spot for a safe room!=È proprio un bel posto per riposarci!
+*giggle* What's inside?=*risatina* Cosa c'è dentro?
+Hey, let's take a break here.=Ehi, riposiamoci un po' qui.
+*giggle* I'm itching for action. Let's do this!=*risatina* Non vedo l'ora di mettermi in azione. Andiamo!

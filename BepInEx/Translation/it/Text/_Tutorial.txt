@@ -44,7 +44,7 @@ You can use the grappling hook to access certain locations in a Palace where you
 
 Shadows=Ombre
 As you explore the Metaverse, you will encounter <color\=#FF423F>Shadows</color>.=Mentre esplori il Metaverso, incontrerai delle\n<color\=#FF423F>Ombre</color>.
-Get close to a Shadow and attack it to initiate a battle.=Avvicinati a un'ombra e attaccala per iniziare una battaglia.
+Get close to a Shadow and attack it to initiate a battle.=Avvicinati a un'Ombra e attaccala per iniziare una battaglia.
 
 Treasure Chests=Forzieri del tesoro
 As you explore Mementos and Palaces, you will come across <color\=#FF423F>treasure chests</color>.\nOpen them to earn valuable rewards.=Mentre esplori Memento e palazzi, ti imbatterai in dei <color\=#FF423F>forzieri del tesoro</color>. Aprili per guadagnare dei premi preziosi.

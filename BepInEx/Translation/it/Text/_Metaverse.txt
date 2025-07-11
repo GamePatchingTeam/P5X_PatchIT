@@ -10,3 +10,5 @@ Palace Progress at =Progressi del palazzo a
 MANSION HOUSE=PALAZZO
 Unlocks at Palace Progress XXX=Sblocca al progresso del palazzo XXX
 Unlock Items=Sblocca articoli
+
+Wandering Shadow=Ombra errante

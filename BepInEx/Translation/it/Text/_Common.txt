@@ -233,7 +233,7 @@ Mail=Posta
 No mail available.=La posta è vuota.
 Claim All=Reclama tutto
 Delete All Claimed=Elimina reclamati
-
+The mail has been deleted.=La posta è stata eliminata.
 
 OTHER
 Item/Talk Actions=Azioni Oggetti/Dialoghi
