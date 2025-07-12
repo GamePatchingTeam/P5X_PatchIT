@@ -94,8 +94,11 @@ This area has not been discovered yet.=Questa zona non è stata ancora scoperta.
 
 Kiuchi's Palace=Palazzo di Kiuchi
 Exhibition Hall=Sala Espositiva
+Exhibition Hall 1F=Sala Espositiva P1
+Exhibition Hall 2F=Sala Espositiva P2
 You can now quick travel to the\n<color\=#FF423F>Exhibition Hall 1F: East Exhibition Room</color>.=Ora puoi viaggiare velocemente alla\n<color\=#FF423F>Sala Espositiva P1: Stanza Est</color>.
 You can now quick travel to the\n<color\=#FF423F>Exhibition Hall 1F: Central Exhibition Room East Gate</color>.=Ora puoi viaggiare velocemente alla\n<color\=#FF423F>Sala Espositiva P1: Stanza Centrale,\nPorta Est</color>.
+You can now quick travel to the\n<color\=#FF423F>Exhibition Hall 2F: Batting Practice Field</color>.=Ora puoi viaggiare velocemente alla\n<color\=#FF423F>Sala Espositiva P2: Campo di Battuta</color>.
 
 Path of Qimranut=Dedalo di Qimranut
 Chamber of Recollections=Camera dei ricordi

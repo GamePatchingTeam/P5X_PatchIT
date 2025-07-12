@@ -7,6 +7,7 @@ Mandrake=Mandragora
 Bicorn=Bicorno
 Berith=Berith
 Succubus=Succube
+Incubus=Incubo
 Inugami=Inugami
 Sudama=Sudama
 Suzaku=Suzaku

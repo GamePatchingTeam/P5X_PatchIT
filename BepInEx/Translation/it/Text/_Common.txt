@@ -164,6 +164,8 @@ No Story Log.=Niente da mostrare.
 Tap screen to return.=Tocca lo schermo per chiudere.
 Tap screen to close.=Tocca lo schermo per chiudere.
 This will advance the story up to a predetermined plot point. Do you want to skip?\n<color\=#FF423F>(This message will only be displayed once per login.)</color>=Questo farà avanzare la storia fino a un punto di trama predeterminato. Vuoi continuare?\n<color\=#FF423F>(Questo messaggio verrà visualizzato solo una volta per accesso.)</color>
+Unable to use Fast Forward for this story.=Impossibile usare l'Avanti Veloce per questo dialogo.
+Unable to use Autoplay for this story.=Impossibile usare l'Avanti Automatico per questo dialogo.
 
 Event=Evento
 Guide=Guida

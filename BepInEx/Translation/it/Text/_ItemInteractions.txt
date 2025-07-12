@@ -199,3 +199,6 @@ This doesn't look like a pitcher's emblem.\nLet's try something else.=Questo non
 A baseball glove is on\ndisplay here...=C'è un guantone da\nbaseball esposto qui...
 A baseball glove...=Un guantone da\nbaseball...
 Wait, we should search the area for clues.=Aspetta, dovremmo cercare qualche indizio\nqui intorno.
+We were very nearly spotted just now!=Per un soffio non ci hanno scoperti!
+This route is thick with Shadows.\nLet's find another way.=Questo posto pullula di Ombre.\nTroviamo un'altra strada.
+Advance even further=Avanza ulteriormente

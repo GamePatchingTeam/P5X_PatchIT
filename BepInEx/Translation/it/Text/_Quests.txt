@@ -64,3 +64,7 @@ Go to the Central Hall=Vai alla sala centrale
 We're getting closer to the Treasure.\nLet's head further inside.=Ci stiamo avvicinando al tesoro.\nProseguiamo.
 Investigate the area=Esamina l’area
 We should look around and see if we can find something.=Dovremmo dare un’occhiata in giro e vedere se troviamo qualcosa.
+Find Motoha=Trova Motoha
+Motoha was captured.\nWe need to hurry and help her.=Motoha è stata catturata.\nDobbiamo sbrigarci e aiutarla.
+I have a feeling we're in for a tough fight past the door...\nI should make sure I'm prepared.=Ho una strana sensazione su cosa ci aspetta oltre quella porta...\nDovrei assicurarmi di essere preparato.
+We're getting close to the goal.\nBetter proceed carefully.=Ci stiamo avvicinando all'obiettivo.\nMeglio procedere con cautela.

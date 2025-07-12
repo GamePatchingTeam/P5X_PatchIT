@@ -110,7 +110,7 @@ Locked...=Bloccato...
 No harm in taking a break...=Non fa mai male riposarsi ogni tanto...
 Your Highlight is ready.\nNow, who will take the stage?=Il tuo Assolo è pronto.\nOra, chi salirà sul palco?
 We have the upper hand.\nDon't miss this chance!=Siamo in vantaggio.\nApprofittiamone!
-I'll end it thus!=È la fine per voi!
+I'll end it thus!=È la vostra fine!
 That went well! Keep it up, Wonder!=Ha funzionato! Continua così, Wonder!
 Well done. Shall we go?=Ben fatto. Andiamo?
 A most commendable strike.=Uno colpo davvero lodevole.
@@ -134,6 +134,8 @@ This door is locked.\nCan we get in from the other side?=Questa porta è chiusa.
 It's a treasure chest. Let's open it!=È un forziere del tesoro. Apriamolo!
 Shadows ahead. Proceed with caution.=C'è un'Ombra più avanti.\nProcedi con cautela.
 There's a safe room.\nLet's take a little rest.=C'è una safe room. Riposiamoci un po'.
+Is everyone ready?\nLet's go.=Siete tutti pronti?\nAndiamo.
+What should we do next?=Cosa dovremmo fare ora?
 
 MOKO
 It won't open...=Non si apre...

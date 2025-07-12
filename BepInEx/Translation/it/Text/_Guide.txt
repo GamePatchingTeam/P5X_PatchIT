@@ -66,4 +66,4 @@ Use a 1 More to <color\=#FF423F>knock down</color> the other enemy.=Usa un Ancor
 You can press <color\=#FF423F>Fast Forward</color> to adjust the battle speed.=Puoi premere <color\=#FF423F>Avanti veloce</color> per regolare la velocità di battaglia.
 Select <color\=#FF423F>Auto</color> to have battle commands chosen for you.=Seleziona <color\=#FF423F>Auto</color> per far combattere la tua squadra in autonomia.
 Select <color\=#FF423F>Go to the Velvet Room</color>.=Seleziona <color\=#FF423F>Vai nella Stanza di Velluto</color>.
-Use your <color\=#FF423F>Third Eye</color>.=Usa il <color\=#FF423F>Tqerzo occhio</color>.
+Use your <color\=#FF423F>Third Eye</color>.=Usa il <color\=#FF423F>Terzo occhio</color>.
