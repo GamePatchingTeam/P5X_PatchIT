@@ -101,5 +101,6 @@ Team Manager=Manager della squadra
 Head Coach=Capo allenatore
 Shadow=Ombra
 Takeyuki Kiuchi?=Takeyuki Kiuchi?
+Shadow Kiuchi=Ombra di Kiuchi
 Mr. Nagara=Prof. Nagara
 Ms. Taniyama=Prof.ssa Taniyama

@@ -118,6 +118,9 @@ Time for a Highlight!\nLet's finish this!=È l'ora di un Assolo!\nFiniamola qui!
 This might have something valuable.=Qui dentro potrebbe esserci\nqualcosa di prezioso.
 Nice takedown!=Bel colpo!
 Accept the consequence\nof your resistance!=Accetta le conseguenze\ndella tua resistenza!
+Knocked down!?\nHow dare you?=È a terra?!\nCome osi?
+Observe.=Ammira.
+You're back...\nLet's ready our counterattack.=Sei di nuovo in piedi!\nPrepariamoci a contrattaccare.
 
 LEON
 Heroes assemble! Let's move out!=Eroi uniti! In marcia!

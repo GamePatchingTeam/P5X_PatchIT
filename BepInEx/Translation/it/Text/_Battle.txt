@@ -132,6 +132,10 @@ Curse dmg to 1 foe. If 1 foe is present, gain 2 Will of Rebellion.=DMG da Maledi
 Arsène's Chains=Catene di Arsène
 Curse dmg to all foes. Increase dmg on Extra Action. Increase dmg when foe has debuff.=DMG da Maledizione a tutti i nemici. Aumenta il DMG da Staffetta e quando il nemico ha un malus.
 
+Curse dmg to 1 foe (92.0% of Atk).\nIf 1 foe is present, gain 2 Will of Rebellion.=Curse DMG a 1 nemico (92,0% di ATK). Se è presente 1 nemico, guadagna 2 volontà di ribellione.
+Curse dmg to all foes (78.2% of Atk). 20% chance to inflict Curse. Gain 1 Will of Rebellion.=Curse DMG a tutti i nemici (78,2% di ATK). Il 20% di probabilità di infliggere maledizione. Guadagnare 1 volontà di ribellione.
+Curse dmg to all foes (69.9% of Atk).\nIncrease dmg by 25% on Extra Action.\nIncrease dmg by 25% more when foe has debuff.=Curse DMG a tutti i nemici (69,9% di ATK). Aumenta DMG del 25% sull'azione extra. Aumenta DMG del 25% in più quando il nemico ha il debuff.
+
 
 WONDER
 Gun dmg to 1 foe (234.0%% Atk).=DAN da proiettile a 1 nemico (234,0% ATT).
