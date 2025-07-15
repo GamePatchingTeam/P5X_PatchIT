@@ -85,6 +85,11 @@ Wonder=Wonder
 Jánošík=Jánošík
 CV.Koki Uchiyama=VA. Koki Uchiyama
 
+Motoha=Motoha
+Motoha Arai=Motoha Arai
+
+Awilda=Awilda
+
 Ren=Ren
 Ren Amamiya=Ren Amamiya
 Joker=Joker
