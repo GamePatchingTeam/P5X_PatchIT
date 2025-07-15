@@ -55,6 +55,18 @@ Life Aid I=Supporto Vitale I
 Restore 2.5% of max HP and SP after winning a battle.=Ripristina il 2,5% degli HP ed SP massimi dopo aver vinto una battaglia.
 
 
+AWILDA
+Wrathful Thunder=Tuono Furioso
+Elec dmg to random foes (50.3% of Atk, 4 hits).\nFrom second attack, prioritize targeting different foes and decrease dmg by 10% for repeated hits on same foe.\nInflict Shock on main target.=Infligge DAN elettrico a nemici casuali (50,3% ATT, 4 colpi). Dal secondo colpo in poi, dà priorità a bersagli diversi e riduce il danno del 10% se colpisce lo stesso nemico più volte. Infligge Paralisi al bersaglio principale.
+
+Blitz Mine=Mina Blitz
+Elec dmg to 1 foe (103.0% of Atk). Increase party's Elec dmg by 7.7% (2 turns).=Infligge DAN elettrico a 1 nemico (103,0% ATT). Aumenta il danno elettrico inflitto dal gruppo del 7,7% per 2 turni.
+
+Elec dmg to all foes (52.0% of Atk).\nIf foe is Shocked, activate Technical and deal bonus Elec dmg (28.0% of Atk).=Infligge DAN elettrico a tutti i nemici (52,0% ATT). Se il nemico è sotto effetto di Paralisi, attiva il Danno Tecnico e infligge un danno bonus elettrico (28,0% ATT).
+Electroshark=Elettrosqualo
+
+
+
 ZORRO
 
 Missile Whirlwind=Turbine di Missili

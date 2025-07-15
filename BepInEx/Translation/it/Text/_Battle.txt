@@ -117,6 +117,7 @@ Revolution=Rivoluzione
 BATTLE STATUS
 Fire damage greatly increased!=Danni da fuoco aumentati di molto!
 Highl<color\=#000000>i</color>ght F<color\=#000000>i</color>re Damage Up=Danni da F<color\=#000000>u</color>oco Ass<color\=#000000>o</color>lo Su
+E<color\=#000000>l</color>ec Damage Up=Danni E<color\=#000000>l</color>ettrici Su
 
 JOKER
 
@@ -157,4 +158,11 @@ Deal Physical damage to 1 foe.=Infligge danni fisici a un nemico.
 
 SETS
 No active set effects.=Nessun effetto set attivo.
+
+MINIBOSSES
+	KIUCHI'S PALACE
+	Security Chief=Capo della sicurezza
+	Security Guard=Guardia di sicurezza
+	<color\=#FF423F>Security Chief</color> called for backup...=<color\=#FF423F>Capo della sicurezza</color> ha chiamato dei rinforzi...
+
 
