@@ -5,9 +5,19 @@ Single-Heal=Cura singola
 Multi-Heal=Cura multipla
 Highlight=Assolo
 1 MORE=ANCORA 1
-5 Turns=5 turni
 End Game=End Game
 Full Recovery=Pieno recupero
+
+1 Turns=1 turno
+2 Turns=2 turni
+3 Turns=3 turni
+4 Turns=4 turni
+5 Turns=5 turni
+6 Turns=6 turni
+7 Turns=7 turni
+8 Turns=8 turni
+9 Turns=9 turni
+10 Turns=10 turni
 
 AILMENTS
 
@@ -114,10 +124,35 @@ Makarakarn=Makarakarn
 Rebellion=Ribellione
 Revolution=Rivoluzione
 
+Lunge=Affondo
+Memory Blow=Colpo di memoria
+
+
 BATTLE STATUS
 Fire damage greatly increased!=Danni da fuoco aumentati di molto!
 Highl<color\=#000000>i</color>ght F<color\=#000000>i</color>re Damage Up=Danni da F<color\=#000000>u</color>oco Ass<color\=#000000>o</color>lo Su
+
+E<color\=#000000>l</color>ec Damage Taken Up=Danni E<color\=#000000>l</color>ettrici Subiti Su
 E<color\=#000000>l</color>ec Damage Up=Danni E<color\=#000000>l</color>ettrici Su
+
+Shock=Paralisi
+S<color\=#000000>h</color>ock=P<color\=#000000>a</color>ralisi
+Increase critical taken rate by 10%.=Aumenta la probabilità di subire colpi critici del 10%.
+
+Mark=Vulnerabile
+M<color\=#000000>a</color>rk=V<color\=#000000>u</color>lnerabile
+Decrease Def by 16.3%.=Diminuisce la DIF del 16,3%.
+
+Windswept=Sferzato
+W<color\=#000000>i</color>ndswept=S<color\=#000000>f</color>erzato
+Decrease Def by 12%.=Diminuisce la DIF del 12%.
+
+
+
+
+
+
+
 
 JOKER
 
@@ -140,6 +175,9 @@ Curse dmg to all foes (69.9% of Atk).\nIncrease dmg by 25% on Extra Action.\nInc
 
 WONDER
 Gun dmg to 1 foe (234.0%% Atk).=DAN da proiettile a 1 nemico (234,0% ATT).
+
+CLOSER
+Elec dmg to all foes (106.5% of Atk).\nInflict Shock on main target and increase Elec dmg by 10% (2 turns).=DAN elettrici a tutti i nemici (106,5% ATT). Infligge Paralisi al bersaglio principale e aumenta i DAN elettrici del 10% per 2 turni.
 
 MONA
 Wind dmg to 1 foe (149.4% Atk) and restore 1 KO'd ally's HP by 20%.=DAN da vento a 1 nemico (149,4% ATT) e rianima un alleato ripristinando i suoi HP del 20%
