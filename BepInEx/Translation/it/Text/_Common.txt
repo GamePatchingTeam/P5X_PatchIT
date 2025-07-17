@@ -183,6 +183,7 @@ OFF=SPENTO
 CHOOSE=SCEGLI
 HIGHLIGHT=ASSOLO
 SKILL=ABILITÀ
+ACTIVITY=ATTIVITÀ
 INFO=INFORMAZIONI
 LEVEL=LIVELLO
 Level=Livello
@@ -208,6 +209,7 @@ Currency=Valuta
 Shop=Compra
 Exchange=Scambio
 Craft=Crea
+Overclock=Migliora
 Go=Vai
 In Progress=In corso
 

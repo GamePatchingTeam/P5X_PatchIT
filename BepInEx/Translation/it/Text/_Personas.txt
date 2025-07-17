@@ -1,14 +1,19 @@
 Persona=Persona
 Face your inner desires and strengthen the Persona that has awakened within you.=Affronta i tuoi desideri interiori e rafforza la Persona che si è risvegliata dentro di te.
 
+
 Pixie=Pixie
 Jack-o'-Lantern=Jack-O'-Lantern
 Mandrake=Mandragora
+Slime=Melma
 Bicorn=Bicorno
 Berith=Berith
 Succubus=Succube
 Incubus=Incubo
 Inugami=Inugami
+Ame-no-Uzume=Ame-No-Uzume
+Black Rider=Cavaliere Nero
+Red Rider=Cavaliere Rosso
 Sudama=Sudama
 Suzaku=Suzaku
 Makami=Makami
@@ -16,7 +21,7 @@ High Pixie=Pixie Superiore
 Koppa Tengu=Koppa Tengu
 Onmoraki=Onmoraki
 Ippon-Datara=Ippon-Datara
-
+Black Ooze=Melma Nera
 
 Trait Up=Tratto
 Overclock=Overclock
@@ -84,4 +89,25 @@ Fire dmg to all foes (62.1% of Atk), increase Ann's Atk by 20% (2 turns).\nWhen 
 Trifire=Trifiamma
 Fire dmg to 1 foe (88.0% Atk), 75% chance to inflict Burn.\nWhen Ann has La Vie en Rose and foe's HP is below 50%, deal bonus dmg (30% of skill dmg).=<size\=20.9>DAN da fuoco a 1 nemico (88,0% di ATT), 75% di probabilità di infliggere bruciatura. Quando Ann è nello stato di La Vie en Rose e gli HP del nemico sono inferiori al 50%, ottiene un bonus DAN (30% di DAN da Abilità).</size>
 Falling Sun=Sole Calante
+
+TERPSICHORE
+
+Frost Lily=Giglio Gelido
+Ice dmg to all foes (71.4% of Atk), 24.0% chance to inflict Freeze.=DAN da ghiaccio a tutti i nemici (71,4% ATT), 24,0% di probabilità di infliggere il congelamento.
+Winter Storm=Tempesta Invernale
+Ice dmg to 1 foe (131.4% of Atk), gain 4 Ice Crystal.=DAN da ghiaccio a 1 nemico (131,4% ATT), ottiene 4 Cristalli di Ghiaccio.
+Durandal of Ice=Durandal di Ghiaccio
+Ice dmg to 1 foe (147.3% of Atk). When Kotone has Parhelion or 10+ Ice Crystal, increase dmg based on foe's missing HP (max 24.0%).\nIncrease Blade Dancer dmg based on foe's missing HP.=DAN da ghiaccio a 1 nemico (147,3% ATT). Se Kotone ha Parhelion o 10+ Cristalli di Ghiaccio, aumenta i DAN in base agli HP mancanti del nemico fino a un massimo di 24,0%.\nAumenta i DAN di Lama Danzante in base agli HP mancanti del nemico.
+
+
+THALIA
+
+Healing Grace=Grazia Curativa
+Bless dmg to 1 foe (46.6% of max HP).\nGrant 1 Blessing to party. Gain 1 Diagnosis.=DAN sacri a 1 nemico (46,6% HP Max). Fornisce 1 Benedizione al gruppo. Ottiene 1 Diagnosi.
+Compassionate Cure=Cura Compassionevole
+Restore HP (14.3% of Minami's max HP + 654) and cure 2 debuffs on target and ally with lowest HP.\nGrant 1 Blessing to targets, and restore HP (11.4% of Minami's max HP + 523) at start of next 2 turns. Gain 1 Diagnosis.=Ripristina gli HP (14,3% HP Max + 654) e cura 2 malus al bersaglio e all'alleato con gli HP più bassi. Fornisce 1 Benedizione agli alleati e ripristina gli HP (11,4% HP Max + 523) all'inizio dei successivi 2 turni. Ottiene 1 Diagnosi.
+Nurse's Light=Luce dell'Infermiera
+Spend all Diagnosis, and restore HP (12.9% of Minami's max HP + 592) of target and ally with lowest HP (2 times).\nFor each Diagnosis, activate this effect 1 more time.\nFor each Diagnosis spent, increase the max HP of allies (other than Minami) by 7.5% of Minami's max HP (max 562, 2 turns).=Spende tutte le Diagnosi e ripristina gli HP (12,9% HP Max + 592) del bersaglio e dell'alleato con gli HP più bassi per 2 volte. Per ogni diagnosi, attiva questo effetto 1 più tempo.\nPer ogni Diagnosi spesa, aumenta gli HP massimi degli alleati (diversi da Minami) del 7,5% dei HP massimi di Minami (max 562, 2 turni).
+
+
 

@@ -1,23 +1,48 @@
 ﻿COMMON
 Single-Target=Bersaglio singolo
 Multi-Target=Bersaglio multiplo
-Single-Heal=Cura singola
-Multi-Heal=Cura multipla
+Healing=Guarigione
+Single-heal=Guarigione singola
+Multi-Heal=Guarigione multipla
 Highlight=Assolo
 1 MORE=ANCORA 1
 End Game=End Game
 Full Recovery=Pieno recupero
 
-1 Turns=1 turno
-2 Turns=2 turni
-3 Turns=3 turni
-4 Turns=4 turni
-5 Turns=5 turni
-6 Turns=6 turni
-7 Turns=7 turni
-8 Turns=8 turni
-9 Turns=9 turni
-10 Turns=10 turni
+1 Turns=1 Turno
+2 Turns=2 Turni
+3 Turns=3 Turni
+4 Turns=4 Turni
+5 Turns=5 Turni
+6 Turns=6 Turni
+7 Turns=7 Turni
+8 Turns=8 Turni
+9 Turns=9 Turni
+10 Turns=10 Turni
+
+1-Stack=1 Accumulo
+2-Stack=2 Accumuli
+3-Stack=3 Accumuli
+4-Stack=4 Accumuli
+5-Stack=5 Accumuli
+6-Stack=6 Accumuli
+7-Stack=7 Accumuli
+8-Stack=8 Accumuli
+9-Stack=9 Accumuli
+10-Stack=10 Accumuli
+11-Stack=11 Accumuli
+12-Stack=12 Accumuli
+13-Stack=13 Accumuli
+14-Stack=14 Accumuli
+15-Stack=15 Accumuli
+16-Stack=16 Accumuli
+17-Stack=17 Accumuli
+18-Stack=18 Accumuli
+19-Stack=19 Accumuli
+20-Stack=20 Accumuli
+
+
+Perm.=Permanente
 
 AILMENTS
 
@@ -46,7 +71,10 @@ Zionga=Zionga
 Ziodyne=Ziodyne
 Mazio=Mazio
 Mazionga=Mazionga
+Elec dmg to all foes (54.2% Atk). 30.1% chance to inflict Shock.=DAN elettrici a tutti i nemici (54,2% ATT). 30,1% di probabilità di infliggere Paralisi.
 Maziodyne=Maziodyne
+Electric Dance=Danza Elettrica
+Elec dmg to 1 foe (135.9% Atk). 95.0% chance to inflict Shock (2 turns).=DAN elettrici a 1 nemico (135,9% ATT). 95,0% di probabilità di infliggere Paralisi per 2 turni.
 
 Bufu=Bufu
 Bufula=Bufula
@@ -69,9 +97,14 @@ Mapsi=Mapsi
 Mapsio=Mapsio
 Mapsiodyne=Mapsiodyne
 
+Eiga=Eiga
+Megidolaon=Megidolaon
+Maeigaon=Maeigaon
+
 Dia=Dia
 Media=Media
 Diarama=Diarama
+Restore 1 ally's HP (33.8% Atk + 841).=Ripristina gli HP di 1 alleato (33,8% ATT + 841).
 Mediarama=Mediarama
 Diarahan=Diarahan
 Mediarahan=Mediarahan
@@ -126,18 +159,46 @@ Revolution=Rivoluzione
 
 Lunge=Affondo
 Memory Blow=Colpo di memoria
+Headbutt=Colpo di testa
+Rising Slash=Lama Ascendente
 
+Warded Shield=Scudo Infuso
+
+BATTLE INTEL
+Battle Intel=Info Battaglia
+Win within 80 actions.=Vinci entro 80 azioni.
+Statue Effect=Effetto Statua
+Statue Effect Active=Effetto Statua Attivo
+
+RETREAT
+
+Wonder's <color\=#EF0000>Persona</color> are not strong enough.=Le <color\=#EF0000>Personae</color> di Wonder non sono abbastanza forti.
+Wonder's {0} are not strong enough.=Le {0} di Wonder non sono abbastanza forti.
+Rec. Attributes: =Elem. consigliati: 
+Rec. Level: =Livello consigliato: 
 
 BATTLE STATUS
+
+Down=Giù
+D<color\=#000000>o</color>wn=G<color\=#000000>i</color>ù
+Knocked down!=Atterrato!
+
 Fire damage greatly increased!=Danni da fuoco aumentati di molto!
 Highl<color\=#000000>i</color>ght F<color\=#000000>i</color>re Damage Up=Danni da F<color\=#000000>u</color>oco Ass<color\=#000000>o</color>lo Su
 
-E<color\=#000000>l</color>ec Damage Taken Up=Danni E<color\=#000000>l</color>ettrici Subiti Su
+Elec Damage up=Danni Elettrici Su
 E<color\=#000000>l</color>ec Damage Up=Danni E<color\=#000000>l</color>ettrici Su
+
+Elec Damage Taken Up=Danni Elettrici Subiti Su
+E<color\=#000000>l</color>ec Damage Taken Up=Danni E<color\=#000000>l</color>ettrici Subiti Su
+Increase critical taken rate by 10%.=Aumenta la probabilità di subire colpi critici del 10%.
+
+Ice Crystal=Cristallo di Ghiaccio
+I<color\=#000000>c</color>e Crystal=C<color\=#000000>r</color>istallo di Ghiaccio
 
 Shock=Paralisi
 S<color\=#000000>h</color>ock=P<color\=#000000>a</color>ralisi
-Increase critical taken rate by 10%.=Aumenta la probabilità di subire colpi critici del 10%.
+Increase rate of taking critical hits by 10%.=Aumenta la probabilità di subire colpi critici del 10%.
 
 Mark=Vulnerabile
 M<color\=#000000>a</color>rk=V<color\=#000000>u</color>lnerabile
@@ -147,12 +208,66 @@ Windswept=Sferzato
 W<color\=#000000>i</color>ndswept=S<color\=#000000>f</color>erzato
 Decrease Def by 12%.=Diminuisce la DIF del 12%.
 
+Diagnosis=Diagnosi
+D<color\=#000000>i</color>agnosis=D<color\=#000000>i</color>agnosi
+Gained Diagnosis!=Diagnosi ottenuta!
 
+Forget=Amnesia
+F<color\=#000000>o</color>rget=A<color\=#000000>m</color>nesia
+Inflicted with forgetfulness...=Afflitto da Amnesia...
+Cannot use skills.=Non può usare le abilità.
 
+Shield=Scudo
+S<color\=#000000>h</color>ield=S<color\=#000000>c</color>udo
+Shielded!=Protetto!
+Negate fixed amount of dmg.=Annulla una quantità fissa di DAN.
 
+Blessing=Benedizione
+B<color\=#000000>l</color>essing=B<color\=#000000>e</color>nedizione
+Continuously restore HP.=Ripristina continuamente gli HP.
 
+Peace of Mind=Pace Interiore
+P<color\=#000000>e</color>ace of Mind=P<color\=#000000>a</color>ce Interiore
+Increase max HP by 797.=Aumenta gli HP massimi di 797.
+Increase max HP by 876.=Aumenta gli HP massimi di 876.
 
+Glacial Gift=Dono Glaciale
+G<color\=#000000>l</color>acial Gift=D<color\=#000000>o</color>no Glaciale
+Increase Ice dmg by 2.4%.=Aumenta i DAN da ghiaccio del 2,4%.
 
+HP Recovery=Recupero HP
+H<color\=#000000>P</color> Recovery=R<color\=#000000>e</color>cupero HP
+
+Health Comes First=Prima la Salute
+H<color\=#000000>e</color>alth Comes First=P<color\=#000000>r</color>ima la Salute
+Increase dmg by 18%.=Aumenta i DAN del 18%.
+Increase dmg by 21%.=Aumenta i DAN del 21%.
+
+Max HP Up=HP Massimi Su
+M<color\=#000000>a</color>x HP Up=H<color\=#000000>P</color> Massimi Su
+Increase max HP by 1237.=Aumenta gli HP massimi di 1237.
+
+Corroding Lava=Lava Corrotta
+C<color\=#000000>o</color>rroding Lava=L<color\=#000000>a</color>va Corrotta
+Decrease Def by 15%.=Diminuisce la DIF del 15%.
+
+Critical Rate Up=Tasso di Critico Su
+C<color\=#000000>r</color>itical Rate Up=T<color\=#000000>a</color>sso di Critico Su
+Increase critical rate by 10%.=Aumenta il tasso di critico del 10%.
+
+Highlight=Assolo
+H<color\=#000000>i</color>ghlight=A<color\=#000000>s</color>ssolo
+On action, restore 1272 HP.=Quando eseguito, ripristina 1272 HP.
+
+Freeze=Congelamento
+F<color\=#000000>r</color>eeze=C<color\=#000000>o</color>ngelamento
+
+Blade Dancer=Lama Danzante
+B<color\=#000000>l</color>ade Dancer=L<color\=#000000>a</color>ma Danzante
+
+Parhelion=Parhelion
+P<color\=#000000>a</color>rhelion=P<color\=#000000>a</color>rhelion
+Increase dmg of Durandal of Ice.=Aumenta il DAN di Durandal di Ghiaccio.
 
 JOKER
 
@@ -187,6 +302,7 @@ Fire dmg to all foes (128.0% of Atk).\nIncrease Fire dmg by 51.2% (1 turn).=DAN 
 
 MONT
 Deal Ice dmg to 1 foe (192.0% of Atk). Increase dmg based on foe's missing HP. When foe's HP is below 20%, increase by up to 30%.=Infligge DAN da ghiaccio a 1 nemico (192,0% ATT). Aumenta i DAN in base agli HP mancanti del nemico. Quando gli HP del nemico sono inferiori al 20%, i DAN aumentano fino al 30%.
+Restore party's HP (14.4% of Minami's max HP + 659), and cure 1 debuff.\nIncrease party's max HP by 16.5% of Minami's max HP (max 1237, 2 turns).\nAt the end of action, restore HP (5.3% of Minami's max HP + 244) for 1 turn.=Ripristina gli HP del gruppo (14,4% HP Max + 659) e cura 1 malus.\nAumenta gli HP massimi del gruppo del 16,5% degli HP massimi di Minami per un massimo di 1237, per 2 turni.\nAlla fine dell'azione, ripristina gli HP (5,3% HP Max + 244) per 1 turno.
 
 ???
 Deal Gun damage to random foes. Fire 3 shots at once, and can fire until out of ammo.=Infligge danni da proiettile a dei nemici casuali. Spara 3 colpi contemporaneamente (puoi sparare fin quando non finisci le munizioni).
@@ -197,10 +313,12 @@ Deal Physical damage to 1 foe.=Infligge danni fisici a un nemico.
 SETS
 No active set effects.=Nessun effetto set attivo.
 
-MINIBOSSES
-	KIUCHI'S PALACE
-	Security Chief=Capo della sicurezza
-	Security Guard=Guardia di sicurezza
-	<color\=#FF423F>Security Chief</color> called for backup...=<color\=#FF423F>Capo della sicurezza</color> ha chiamato dei rinforzi...
+
+-MINIBOSSES-
+
+KIUCHI'S PALACE
+Security Chief=Capo della sicurezza
+Security Guard=Guardia di sicurezza
+<color\=#FF423F>Security Chief</color> called for backup...=<color\=#FF423F>Capo della sicurezza</color> ha chiamato dei rinforzi...
 
 

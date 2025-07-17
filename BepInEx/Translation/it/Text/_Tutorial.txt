@@ -96,6 +96,9 @@ Wonder can equip multiple different Personas.\nChoose them carefully according t
 Wheel Menu=Ruota circolare
 You can easily play using various input methods.\nIn RPG mode, you can use a gamepad or a keyboard and mouse. =È possibile giocare utilizzando vari metodi di input.\nIn modalità RPG, è possibile utilizzare un gamepad o una tastiera e un mouse. 
 
+CONTENT
+Content=Contenuto
+In the <color\=#FF423F>Realm of Repression</color>, you can earn Personas and materials necessary for training.=Nel <color\=#FF423F>Regno della Repressione</color>, puoi ottenere Personae e materiali per il potenziamento.
 
 CITY LIFE
 Synergy=Sinergia

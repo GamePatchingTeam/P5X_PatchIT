@@ -7,7 +7,7 @@ Maximum level reached.=Livello massimo raggiunto.
 Stats=Statistiche
 Status=Stato
 Attack=Attacco
-Atk Boost=Boost Att
+Atk Boost=Boost ATT
 HP=HP
 HP Boost=Boost HP
 HP Recovery=Recupero HP
@@ -18,7 +18,7 @@ SP Recovery Taken=Recupero SP ricevuto
 Shield=Scudo
 Shield Received=Scudo ricevuto
 Defense=Difesa
-Def Boost=Boost Dif
+Def Boost=Boost DIF
 Speed=Velocità
 Crit Mult.=Molt. di crit
 Crit Rate=Tasso di crit
@@ -75,6 +75,10 @@ Basic Abilities=Abilità di base
 LEVELING
 <color\=#FF423F>Excess experience from leveling up will be converted into level up materials.</color>\nDo you want to proceed?=<color\=#FF423F>L'esperienza in eccesso sarà convertita in materiali di potenziamento.</color>\nVuoi procedere?
 
+Next Talent: Wonder Lv. 10=Prossimo Talento: Wonder Lv. 10
+Next Talent: Wonder Lv. 20=Prossimo Talento: Wonder Lv. 20
+Next Talent: Wonder Lv. 30=Prossimo Talento: Wonder Lv. 30
+
 Role=Ruolo
 Sweeper=Assaltatore
 Deals with groups of foes through multi-target attacks.=Efficace contro gruppi di nemici tramite attacchi a bersaglio multiplo.
@@ -85,18 +89,31 @@ Wonder=Wonder
 Jánošík=Jánošík
 CV.Koki Uchiyama=VA. Koki Uchiyama
 
+Lufel=Lufel
+Lufel has joined the Phantom Thieves=Lufel si è unito ai ladri fantasma
+Robroy=Robroy
+Nocturnal=Notturno
+When healing allies with skills, grant Starfire, increasing Atk.=Quando guarisce gli alleati con un'abilità, fornisce Stella di Fuoco, aumentando l'ATT.
+When healing an ally who has <link\="s|115"><u>Starfire II</u></link>, increase healing effect by 10%.=Quando guarisce un alleato che ha <link\="s|115"><u>Stella di Fuoco II</u></link>, aumenta l'effetto di guarigione del 10%.
+Soaring Bird of Prey=Impennata del Rapace
+Increase the skill levels of Owl Fire and Owl Green by 2.=Aumenta di 2 i livelli delle abilità Gufo di Fuoco e Gufo Verde.
+Highlight Enhanced: Increase party's Fire damage by 32% for 1 turn.=Migliora Assolo: Aumenta i danni da fuoco del gruppo del 32% per 1 turno.
+
 Motoha=Motoha
 Motoha Arai=Motoha Arai
+Motoha Arai has joined the Phantom Thieves=Motoha Arai si è unita ai Ladri Fantasma
 Closer=Closer
 Awilda=Awilda
 
 Ren=Ren
 Ren Amamiya=Ren Amamiya
+Ren Amamiya has joined the Phantom Thieves=Ren Amamiya si è unito ai Ladri Fantasma
 Joker=Joker
 Arsène=Arsène
 
 Ryuji=Ryuji
 Ryuji Sakamoto=Ryuji Sakamoto
+Ryuji Sakamoto has joined the Phantom Thieves=Ryuji Sakamoto si è unito ai Ladri Fantasma
 Skull=Skull
 Captain Kidd=Captain Kidd
 CV. Mamoru Miyano=VA. Mamoru Miyano
@@ -105,23 +122,27 @@ Do you want to trade to receive the 5★ Phantom Thief Morgana?=Vuoi ricevere il
 
 Morgana=Morgana
 Mona=Mona
+Morgana has joined the Phantom Thieves=Morgana si è unito ai Ladri Fantasma
 Zorro=Zorro
 CV. Ikue Otani=VA. Ikue Otani
 A mysterious catlike creature.\nHe can communicate with humans and claims to be able to transform into various objects, yet many things about him remain shrouded in mystery.\nAlthough he can be aggressive at times, he's also incredibly selfless and supports his teammates.\nHe often exclaims, "I'm not a cat!"\nHis codename is Mona.\nHis initial Persona is Zorro.=Una misteriosa creatura simile a un gatto.\nPuò comunicare con gli esseri umani e afferma di saper trasformarsi in vari oggetti, ma molte cose su di lui restano avvolte nel mistero.\nSebbene a volte possa essere aggressivo, è anche incredibilmente altruista e sostiene sempre i suoi compagni.\nEsclama spesso: "Non sono un gatto!"\nIl suo nome in codice è Mona.\nLa sua Persona iniziale è Zorro.
 
 Ann=Ann
 Ann Takamaki=Ann Takamaki
+Ann Takamaki has joined the Phantom Thieves=Ann Takamaki si è unita ai Ladri Fantasma
 Panther=Panther
 Carmen=Carmen
 A second-year high school student.\nShe's an attractive girl who is one quarter American and models on the side.\nShe's free-spirited and has an honest personality, but due to her striking appearance, she's isolated from everyone around her.\nAfter meeting Joker, an incident acts as a catalyst to awaken her abilities as a Persona-user.\nHer codename is Panther.\nHer initial Persona is Carmen.=Una studentessa del secondo anno di liceo.\nÈ una ragazza affascinante, per un quarto americana, e lavora come modella nel tempo libero.\nHa uno spirito libero e una personalità sincera, ma il suo aspetto vistoso la porta a essere isolata dagli altri.\nDopo l’incontro con Joker, un incidente diventa il catalizzatore che risveglia in lei il potere di evocare una Persona.\nIl suo nome in codice è Panther.\nLa sua Persona iniziale è Carmen.
 CV. Nana Mizuki=VA. Nana Mizuki
 
-Yaoling Li=Yaooling li
+Yaoling Li=Yaoling Li
+Yaoling Li has joined the Phantom Thieves=Yaoling Li si è unita ai Ladri Fantasma
 Haruna Nishimori=Haruna Nishimori
-Motoha Arai=Motoha Arai
+
 
 Leo=Leo
 Leo Kamiyama=Leo Kamiyama
+Leo Kamiyama has joined the Phantom Thieves=Leo Kamiyama si è unito ai Ladri Fantasma
 Leon=Leon
 Erytheia=Erytheia
 CV. Mariya Ise=VA. Mariya Ise
@@ -129,6 +150,7 @@ CV. Mariya Ise=VA. Mariya Ise
 
 Tomoko=Tomoko
 Tomoko Noge=Tomoko Noge
+Tomoko Noge has joined the Phantom Thieves=Tomoko Noge si è unita ai Ladri Fantasma
 Prosymna=Prosymna
 CV. Satomi Akesaka=VA. Satomi Akesaka
 Esprit de Corps=Esprit de Corps
@@ -138,5 +160,21 @@ The effect of Self-Renewal now grants 1 <link\="s|131"><u>Greenleaf</u></link> s
 Shift Change=Cambio di cambiamento
 Increase the skill levels of Psyche Melody and Cheering You On by 2.=Aumenta i livelli di abilità della melodia psiche e ti incoraggiano per 2.
 
+Kotone=Kotone
+Kotone Montagne=Kotone Montagne
+Kotone Montagne has joined the Phantom Thieves=Kotone Montagne si è unita ai Ladri Fantasma
+Terpsichore=Terpsichore
+CV. Shino Shimoji=Cv. Shino Shimoji
+State of Selflessness=Stato di altruismo
+Frozen in Time=Congelato nel tempo
+
+
 Kiyoshi Kurotani=Kiyoshi Kurotani
+Kiyoshi Kurotani has joined the Phantom Thieves=Kiyoshi Kurotani si è unito ai Ladri Fantasma
+
 Toshiya Sumi=Toshiya Sumi
+Toshiya Sumi has joined the Phantom Thieves=Toshiya Sumi si è unito ai Ladri Fantasma
+
+Marian=Marian
+Marian has joined the Phantom Thieves=Marian si è unita ai Ladri Fantasma
+Thalia=Thalia

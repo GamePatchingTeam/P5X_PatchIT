@@ -69,7 +69,8 @@ Stamina\nEnergy needed to explore the Metaverse. Restores over time at a set spe
 
 MATERIALI POTENZIAMENTO
 Konpaku Gem=Gemma Konpaku
-Used to train Phantom Thieves and Personas.=Servono per allenare Ladri Fantasma e Personae.
+Used to train Phantom Thieves and Personas.=Serve per allenare Ladri Fantasma e Personae.
+Konpaku Gem\nUsed to train Phantom Thieves and Personas.=Gemma Konpaku\nServe per allenare Ladri Fantasma e Personae.
 
 
 
@@ -454,5 +455,10 @@ Usage Effect: Displays destroyable objects in the area used on the map.=Effetto 
 
 
 PERSONAS SEALS
+
+Jánošík's Seal=Sigillo di Jánošík
+
 Pixie's Seal=Sigillo di Pixie
+Mandrake's Seal=Sigillo di Mandragora
+Bicorn's Seal=Sigillo di Bicorno
 

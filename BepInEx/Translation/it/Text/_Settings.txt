@@ -189,7 +189,7 @@ Displays subtitles when playing story animations.=Visualizza i sottotitoli duran
 Pause Story in Background=Storia in pausa se in secondo piano
 Automatically pauses the story when the game is in the background.=Mette automaticamente in pausa la storia quando il gioco è in background.
 
-Battle Settings=Impostazioni di battaglia
+Battle Settings=<size\=19>  Impostazioni Battaglia</size>
 
 
 Change Personas in Auto-Battle=Cambia Personae in battaglia automatica

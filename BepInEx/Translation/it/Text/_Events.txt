@@ -1,1 +1,8 @@
-﻿
+﻿CHARACTERS TRIAL
+
+MINAMI MIYASHITA
+Minami Miyashita's Skills=Abilità di Minami Miyashita
+1. This Thief specializes in <color\=#FF423F>healing</color> allies.\nBy gaining <color\=#FF423F>Diagnosis</color>, Marian can further increase her healing abilities to save her teammates from danger.\n2. She can <color\=#FF423F>increase max HP</color> and <color\=#FF423F>remove debuffs</color>, allowing her to boost her allies' survivability. Some skills can also provide continuous healing to allies over time.\n3. She can grant <color\=#FF423F>increased damage</color> to Phantom Thieves healed.=Questo Ladro è specializzato nella <color\=#FF423F>guarigione</color> degli alleati.\n1. Ottenendo <color\=#FF423F>Diagnosi</color>, Marian può potenziare ulteriormente le sue capacità curative per salvare i compagni dal pericolo.\n2. Può <color\=#FF423F>aumentare gli HP massimi</color> e <color\=#FF423F>rimuovere i malus</color>, migliorando la sopravvivenza della squadra. Alcune abilità forniscono anche cure continue nel tempo.\n3. Fornisce un <color\=#FF423F>aumento del danno</color> ai Ladri Fantasma che cura.
+
+	
+	

@@ -121,6 +121,10 @@ Accept the consequence\nof your resistance!=Accetta le conseguenze\ndella tua re
 Knocked down!?\nHow dare you?=È a terra?!\nCome osi?
 Observe.=Ammira.
 You're back...\nLet's ready our counterattack.=Sei di nuovo in piedi!\nPrepariamoci a contrattaccare.
+Retreat is also\na valid strategy...=Anche la ritirata\nè una strategia valida...
+Someone has a status ailment!\nHelp them, quickly!=Qualcuno ha un malus!\nAiutali, svelto!
+This is a real predicament...=Siamo davvero nei guai...
+Now, while they're down!=Approfittiamone mentre sono a terra!
 
 LEON
 Heroes assemble! Let's move out!=Eroi uniti! In marcia!
