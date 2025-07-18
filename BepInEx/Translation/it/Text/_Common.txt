@@ -213,6 +213,7 @@ Exchange=Scambio
 Craft=Crea
 Overclock=Migliora
 Go=Vai
+Send=Invia
 In Progress=In corso
 Continue=Continua
 Level Up=Potenzia

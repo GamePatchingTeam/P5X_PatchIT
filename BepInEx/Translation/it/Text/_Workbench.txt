@@ -1,0 +1,6 @@
+Synergy Ability=Abilità Sinergia
+All=Tutto
+Infiltration tool=Strumenti d'infiltrazione
+Battle Item=Oggetto Battaglia
+Gift=Regalo
+Material=Materiale

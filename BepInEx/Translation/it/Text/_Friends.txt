@@ -1,0 +1,14 @@
+Friends=Amici
+Make friends, experience city life together, and explore the Metaverse.=Fai amicizia, sperimenta in compagnia la vita in città ed esplora il Metaverso.
+
+Friends: =Amici: 
+Online=Online
+Offline=Offline
+No profile message added.=Nessuna biografia.
+Find Friends with Player ID=<size\=25>Trova amici con l'ID Giocatore</size>
+Search=<size\=25>Ricerca</size>
+Enter Player ID=Inserire l'ID Giocatore
+Does not exist.=Non esiste.
+Blocked: =Bloccati: 
+No blocked players.=Nessun giocatore bloccato.
+Add Friend=Aggiungi amico

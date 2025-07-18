@@ -177,6 +177,10 @@ G<color\=#ff0000ff>a</color>rdening=G<color\=#ff0000ff>i</color>ardino
 If I had seeds, I could plant\nthings in the garden...=Se avessi dei semi, potrei\npiantare qualcosa in giardino...
 Z<color\=#ff0000ff>o</color>shigaya=Z<color\=#ff0000ff>o</color>shigaya
 G<color\=#ff0000ff>o</color> to your bedroom=V<color\=#ff0000ff>a</color>i in camera tua
+W<color\=#ff0000ff>o</color>rkbench=T<color\=#ff0000ff>a</color>volo da lavoro
+C<color\=#ff0000ff>l</color>oset=G<color\=#ff0000ff>u</color>ardaroba
+S<color\=#ff0000ff>l</color>eep=D<color\=#ff0000ff>o</color>rmi
+G<color\=#ff0000ff>o</color> to the living room=V<color\=#ff0000ff>a</color>i in soggiorno
 
 THIEVES DEN
 J<color\=#ff0000ff>o</color>ker=J<color\=#ff0000ff>o</color>ker

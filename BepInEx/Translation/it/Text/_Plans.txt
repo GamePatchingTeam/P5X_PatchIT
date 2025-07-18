@@ -37,3 +37,21 @@ Raise 3 Phantom Thieves to Lv. 20=Porta 3 Ladri Fantasma al Liv. 20
 Reach 10% progress for the first Palace=Raggiungi i progressi del 10% nel primo palazzo
 Use 3 Action Points=Usa 3 Punti Azione
 Clear Realm of Realm of Repression: Pursuit of Honor I or higher=Completa Regno della Repressione: Ricerca dell'Onore I o superiore
+
+STEP 3
+
+Clear 12 Step 3 missions=Completa 12 missioni dello Step 3
+Fuse a Persona 2 times=Fonti una Persona 2 volte
+Raise Wonder to Lv. 24=Porta Wonder al Liv. 24
+Raise 2 skills for 1 Phantom Thief to Lv. 3=Porta 2 abilità di 1 Ladro Fantasma\nal Liv. 3
+Enhance 3 weapons to Lv. 30=Migliora 3 armi al Liv. 30
+Raise 2 Personas of Rank 2 or higher to Lv. 30=Porta 2 Personae di Grado 2 o superiore al Liv. 30
+Raise Jánošík to Rank II=Porta Jánošík al Grado II
+Clear any challenge in Realm of Repression: Persona=Completa qualsiasi sfida in Regno della Repressione: Ricerca della Persona
+Clear the mission Break Open the Unknown=Completa la missione Svelare l'Ignoto
+Clear the mission Love and Muscles=Completa la missione Amore e Muscoli
+Reach ticket level 3 in Path of Qimranut=Raggiungi il livello del biglietto 3 nel percorso di Qimranut
+Join or create a Companio=Crea o unisciti a una Companio
+Raise any social stat to level 2=Porta qualsiasi statistica sociale\nal livello 2
+Clear Realm of Repression Alluring Aroma II or higher=Completa Regno della Repressione: Fragranza Ammaliante II o superiore
+Raise 3 Phantom Thieves to Lv. 30=Porta 3 Ladri Fantasma al Liv. 30
