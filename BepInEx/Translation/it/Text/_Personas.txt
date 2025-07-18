@@ -12,19 +12,57 @@ Succubus=Succube
 Incubus=Incubo
 Inugami=Inugami
 Ame-no-Uzume=Ame-No-Uzume
+Obariyon=Obariyon
 Black Rider=Cavaliere Nero
 Red Rider=Cavaliere Rosso
 Sudama=Sudama
+Ara Mitama=Ara Mitama
+Saki Mitama=Saki Mitama
+Nigi Mitama=Nigi Mitama
+Power=Forza
+Archangel=Arcangelo
+Jack Frost=Jack Frost
+King Frost=Re Frost
 Suzaku=Suzaku
 Makami=Makami
 High Pixie=Pixie Superiore
+Hua Po=Hua Po
 Koppa Tengu=Koppa Tengu
 Onmoraki=Onmoraki
 Ippon-Datara=Ippon-Datara
 Black Ooze=Melma Nera
+Fuu-Ki=Fuu-ki
+Clotho=Clotho
+Phoenix=Fenice
+Anzu=Anzu
+Kin-Ki=Kin-Ki
+Mithras=Mitra
+Thoth=Thoth
+Kaiwan=Kaiwan
+Mothman=Mothman
+Jatayu=Jatayu
+Zouchouten=Zouchouten
+Girimehkala=Girimehkala
+Hecatoncheires=Hecatoncheires
+Kushinada=Kushinada
+Kumbhanda=Kumbhanda
+Pazuzu=Pazuzu
+Bugs=Bugs
+Dakini=Dakini
+Barong=Barong
+Raja Naga=Raja Naga
+Surt=Surtur
+Cerberus=Cerbero
+Quetzalcoatl=Quetzalcoatl
+Dionysus=Dioniso
+Oberon=Oberon
+Nebiros=Nebiro
+Oni=Oni
+Yaksini=Yaksini
+
 
 Trait Up=Tratto
-Overclock=Overclock
+Overclock=Migliora
 Enhancement complete.=Miglioramento completato.
 
 No Skills Equipped=<size\=22>Nessuna abilità equipaggiata</size>
@@ -75,28 +113,32 @@ Electroshark=Elettrosqualo
 ZORRO
 
 Missile Whirlwind=Turbine di Missili
-Wind dmg to 1 foe (96.0% Atk). Inflict Windswept (2 turns). Chance to gain 1 Chivalry. (Chance is equal to critical rate.)=DAN da vento a 1 nemico (96,0% ATT). Infligge Sferzato per 2 turni. Possibilità di guadagnare 1 di Onore. (La possibilità è uguale al Tasso di CRIT.)
+Wind dmg to 1 foe (96.0% Atk). Inflict Windswept (2 turns). Chance to gain 1 Chivalry. (Chance is equal to critical rate.)=DAN da vento a 1 nemico (96,0% ATT). Infligge Sferzato per 2 turni. Possibilità di guadagnare 1 accumulo di Galanteria. (La possibilità è uguale al Tasso di CRIT.)
 Healing Breeze=Brezza Curativa
-Restore party's HP by 26.2% of Morgana's Atk + 164, and remove 1 elemental ailment.\nWhen removing elemental ailment, gain 1 Chivalry.=Ripristina gli HP del gruppo del 26,2% dell'ATK di Morgana + 164 e rimuovere 1 malus elementale. Quando rimosso il malus, ottiene 1 di Onore.
+Restore party's HP by 26.2% of Morgana's Atk + 164, and remove 1 elemental ailment.\nWhen removing elemental ailment, gain 1 Chivalry.=Ripristina gli HP del gruppo del 26,2% dell'ATK di Morgana + 164 e rimuovere 1 malus elementale. Quando rimosso il malus, ottiene 1 accumulo di Galanteria.
 Gentle Fist=Pugno Delicato
-Decrease this skill's accuracy by 20%, increase crit rate by 30%, and deal Phys dmg to 1 foe equal to 84.5% of Atk. On a critical hit, gain 1 Chivalry stack.=Riduce l'accuratezza di questa abilità del 20%, aumenta il Tasso di CRIT del 30% e infligge DAN fisici a 1 nemico pari all'84,5% di ATT. In un colpo critico, guadagna 1 accumulo di Onore.
+Decrease this skill's accuracy by 20%, increase crit rate by 30%, and deal Phys dmg to 1 foe equal to 84.5% of Atk. On a critical hit, gain 1 Chivalry stack.=Riduce l'accuratezza di questa abilità del 20%, aumenta il Tasso di CRIT del 30% e infligge DAN fisici a 1 nemico pari all'84,5% di ATT. Dopo un colpo critico, guadagna 1 accumulo di Galanteria.
 
 
 CARMEN
 
 Crimson Rose=Rosa Cremisi
-Fire dmg to all foes (62.1% of Atk), increase Ann's Atk by 20% (2 turns).\nWhen Ann has La Vie en Rose, decrease foes' Atk by 8% of Ann's Atk and increase Ann's Atk by same amount (2 turns).=<size\=19>DAN da fuoco a tutti i nemici (62,1% di ATT), aumenta l'ATT di Ann del 20% per 2 turni. Quando Ann è nello stato di La Vie en Rose, diminuisce l'ATT dei nemici dell'8% dell'ATT di Ann e aumenta l'ATT di Ann della stessa quantità per 2 turni.</size>
+Fire dmg to all foes (62.1% of Atk), increase Ann's Atk by 20% (2 turns).\nWhen Ann has La Vie en Rose, decrease foes' Atk by 8% of Ann's Atk and increase Ann's Atk by same amount (2 turns).=<size\=19>DAN da fuoco a tutti i nemici (62,1% di ATT), aumenta l'ATT di Ann del 20% per 2 turni. Quando Ann si trova nello stato di La Vie en Rose, diminuisce l'ATT dei nemici dell'8% dell'ATT di Ann e aumenta l'ATT di Ann della stessa quantità per 2 turni.</size>
 Trifire=Trifiamma
-Fire dmg to 1 foe (88.0% Atk), 75% chance to inflict Burn.\nWhen Ann has La Vie en Rose and foe's HP is below 50%, deal bonus dmg (30% of skill dmg).=<size\=20.9>DAN da fuoco a 1 nemico (88,0% di ATT), 75% di probabilità di infliggere bruciatura. Quando Ann è nello stato di La Vie en Rose e gli HP del nemico sono inferiori al 50%, ottiene un bonus DAN (30% di DAN da Abilità).</size>
+Fire dmg to 1 foe (88.0% Atk), 75% chance to inflict Burn.\nWhen Ann has La Vie en Rose and foe's HP is below 50%, deal bonus dmg (30% of skill dmg).=<size\=20.9>DAN da fuoco a 1 nemico (88,0% di ATT), 75% di probabilità di infliggere Ustione. Quando Ann è nello stato di La Vie en Rose e gli HP del nemico sono inferiori al 50%, ottiene un bonus DAN (30% di DAN da Abilità).</size>
 Falling Sun=Sole Calante
+Fire dmg to all foes (63.2% of Atk), 30% chance to inflict Burn.\nWhen Ann has La Vie en Rose, increase skill dmg by 30%.=DAN da fuoco a tutti i nemici (63,2% ATT), ha il 30% di probabilità di infliggere Ustione. Quando Ann si trova nello stato di La Vie en Rose, aumenta i DAN da abilità del 30%.
 
 TERPSICHORE
 
 Frost Lily=Giglio Gelido
-Ice dmg to all foes (71.4% of Atk), 24.0% chance to inflict Freeze.=DAN da ghiaccio a tutti i nemici (71,4% ATT), 24,0% di probabilità di infliggere il congelamento.
+Ice dmg to all foes (57.1% of Atk), 19.2% chance to inflict Freeze.=DAN da ghiaccio a tutti i nemici (57,1% ATT), ha il 19,2% di probabilità di infliggere il congelamento.
+Ice dmg to all foes (71.4% of Atk), 24.0% chance to inflict Freeze.=DAN da ghiaccio a tutti i nemici (71,4% ATT), ha il 24,0% di probabilità di infliggere il congelamento.
 Winter Storm=Tempesta Invernale
+Ice dmg to 1 foe (105.2% of Atk), gain 4 Ice Crystal.=DAN da ghiaccio a 1 nemico (105,2% ATT), ottiene 4 Cristalli di Ghiaccio.
 Ice dmg to 1 foe (131.4% of Atk), gain 4 Ice Crystal.=DAN da ghiaccio a 1 nemico (131,4% ATT), ottiene 4 Cristalli di Ghiaccio.
 Durandal of Ice=Durandal di Ghiaccio
+Ice dmg to 1 foe (117.8% of Atk). When Kotone has Parhelion or 10+ Ice Crystal, increase dmg based on foe's missing HP (max 19.2%).\nIncrease Blade Dancer dmg based on foe's missing HP.=DAN da ghiaccio a 1 nemico (117,8% ATT). Se Kotone ha Parhelion o 10+ Cristalli di Ghiaccio, aumenta i DAN in base agli HP mancanti del nemico fino a un massimo di 19,2%.\nAumenta i DAN di Lama Danzante in base agli HP mancanti del nemico.
 Ice dmg to 1 foe (147.3% of Atk). When Kotone has Parhelion or 10+ Ice Crystal, increase dmg based on foe's missing HP (max 24.0%).\nIncrease Blade Dancer dmg based on foe's missing HP.=DAN da ghiaccio a 1 nemico (147,3% ATT). Se Kotone ha Parhelion o 10+ Cristalli di Ghiaccio, aumenta i DAN in base agli HP mancanti del nemico fino a un massimo di 24,0%.\nAumenta i DAN di Lama Danzante in base agli HP mancanti del nemico.
 
 

@@ -201,4 +201,4 @@ A baseball glove...=Un guantone da\nbaseball...
 Wait, we should search the area for clues.=Aspetta, dovremmo cercare qualche indizio\nqui intorno.
 We were very nearly spotted just now!=Per un soffio non ci hanno scoperti!
 This route is thick with Shadows.\nLet's find another way.=Questo posto pullula di Ombre.\nTroviamo un'altra strada.
-Advance even further=Avanza ulteriormente
+We need a <color\=#FF423F>lockpick</color> to open this.=Ci serve un <color\=#FF423F>Grimaldello</color> per aprirlo.

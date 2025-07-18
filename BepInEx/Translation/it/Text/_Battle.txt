@@ -4,6 +4,7 @@ Multi-Target=Bersaglio multiplo
 Healing=Guarigione
 Single-heal=Guarigione singola
 Multi-Heal=Guarigione multipla
+Buff=Buff
 Highlight=Assolo
 1 MORE=ANCORA 1
 End Game=End Game
@@ -20,33 +21,36 @@ Full Recovery=Pieno recupero
 9 Turns=9 Turni
 10 Turns=10 Turni
 
-1-Stack=1 Accumulo
-2-Stack=2 Accumuli
-3-Stack=3 Accumuli
-4-Stack=4 Accumuli
-5-Stack=5 Accumuli
-6-Stack=6 Accumuli
-7-Stack=7 Accumuli
-8-Stack=8 Accumuli
-9-Stack=9 Accumuli
-10-Stack=10 Accumuli
-11-Stack=11 Accumuli
-12-Stack=12 Accumuli
-13-Stack=13 Accumuli
-14-Stack=14 Accumuli
-15-Stack=15 Accumuli
-16-Stack=16 Accumuli
-17-Stack=17 Accumuli
-18-Stack=18 Accumuli
-19-Stack=19 Accumuli
-20-Stack=20 Accumuli
+1-Stack=<size\=24>1 Accumulo</size>
+2-Stack=<size\=24>2 Accumuli</size>
+3-Stack=<size\=24>3 Accumuli</size>
+4-Stack=<size\=24>4 Accumuli</size>
+5-Stack=<size\=24>5 Accumuli</size>
+6-Stack=<size\=24>6 Accumuli</size>
+7-Stack=<size\=24>7 Accumuli</size>
+8-Stack=<size\=24>8 Accumuli</size>
+9-Stack=<size\=24>9 Accumuli</size>
+10-Stack=<size\=24>10 Accumuli</size>
+11-Stack=<size\=24>11 Accumuli</size>
+12-Stack=<size\=24>12 Accumuli</size>
+13-Stack=<size\=24>13 Accumuli</size>
+14-Stack=<size\=24>14 Accumuli</size>
+15-Stack=<size\=24>15 Accumuli</size>
+16-Stack=<size\=24>16 Accumuli</size>
+17-Stack=<size\=24>17 Accumuli</size>
+18-Stack=<size\=24>18 Accumuli</size>
+19-Stack=<size\=24>19 Accumuli</size>
+20-Stack=<size\=24>20 Accumuli</size>
 
 
-Perm.=Permanente
+Perm.=<size\=24>Permanente</size>
 
 AILMENTS
 
+Burn=Ustione
 B<color\=#000000>u</color>rn=U<color\=#000000>s</color>tione
+Lose HP after acting.=Perde HP dopo ogni azione.
+
 S<color\=#000000>h</color>ock=E<color\=#000000>l</color>ettrificato
 S<color\=#000000>h</color>ock=A<color\=#000000>b</color>battimento
 
@@ -97,9 +101,13 @@ Mapsi=Mapsi
 Mapsio=Mapsio
 Mapsiodyne=Mapsiodyne
 
+Kouha=Kouha
+Makouga=Makouga
+
 Eiga=Eiga
-Megidolaon=Megidolaon
+Maeiga=Maeiga
 Maeigaon=Maeigaon
+Megidolaon=Megidolaon
 
 Dia=Dia
 Media=Media
@@ -157,10 +165,12 @@ Makarakarn=Makarakarn
 Rebellion=Ribellione
 Revolution=Rivoluzione
 
+Lucky Punch=Colpo Fortunato
 Lunge=Affondo
 Memory Blow=Colpo di memoria
 Headbutt=Colpo di testa
 Rising Slash=Lama Ascendente
+Vicious Strike=Colpo Feroce
 
 Warded Shield=Scudo Infuso
 
@@ -182,6 +192,10 @@ BATTLE STATUS
 Down=Giù
 D<color\=#000000>o</color>wn=G<color\=#000000>i</color>ù
 Knocked down!=Atterrato!
+
+All-Out Attack Damage Taken Up=Danni da Assalto Subiti Su
+A<color\=#000000>l</color>l-Out Attack Damage Taken Up=D<color\=#000000>a</color>nni da Assalto Subiti Su
+Increase All-Out Atk dmg taken by 100%.=Aumenta il danno subito dagli Assalti del 100%.
 
 Fire damage greatly increased!=Danni da fuoco aumentati di molto!
 Highl<color\=#000000>i</color>ght F<color\=#000000>i</color>re Damage Up=Danni da F<color\=#000000>u</color>oco Ass<color\=#000000>o</color>lo Su
@@ -261,13 +275,95 @@ On action, restore 1272 HP.=Quando eseguito, ripristina 1272 HP.
 
 Freeze=Congelamento
 F<color\=#000000>r</color>eeze=C<color\=#000000>o</color>ngelamento
+Decrease Atk by 12%.=Diminuisce l'ATT del 12%.
 
 Blade Dancer=Lama Danzante
 B<color\=#000000>l</color>ade Dancer=L<color\=#000000>a</color>ma Danzante
 
 Parhelion=Parhelion
 P<color\=#000000>a</color>rhelion=P<color\=#000000>a</color>rhelion
-Increase dmg of Durandal of Ice.=Aumenta il DAN di Durandal di Ghiaccio.
+Increase dmg of Durandal of Ice.=Aumenta i DAN di Durandal di Ghiaccio.
+
+Camel Spin=Spirale Elegante 
+
+C<color\=#000000>a</color>mel Spin=S<color\=#000000>p</color>irale Elegante
+Shield: 80=Scudo: 80
+
+Power II=Forza II
+P<color\=#000000>o</color>wer II=F<color\=#000000>o</color>rza II
+Greatly increase dmg after recovering HP or gaining shield.=Aumenta notevolmente i DAN dopo aver recuperato HP o aver ottenuto uno scudo.
+
+Power III=Forza III
+P<color\=#000000>o</color>wer III=F<color\=#000000>o</color>rza III
+When attacked, greatly increase foes' dmg. Stackable.=Se attaccato, aumenta notevolmente i DAN dei nemici. Cumulabile.
+
+Finish with a Smile=Finisci con un Sorriso
+F<color\=#000000>i</color>nish with a Smile=F<color\=#000000>i</color>nisci con un Sorriso
+Increase ailment accuracy by 35%.=Aumenta la precisione dei malus del 35%.
+
+Shield/HP Recovery Up=Recupero Scudo/HP Su
+S<color\=#000000>h</color>ield/HP Recovery Up=R<color\=#000000>e</color>cupero Scudo/HP Su
+Increase shield and healing effects received by 20%.=Aumenta gli effetti di scudo e guarigione ricevuti del 20%.
+
+Damage Up=Danni Su
+D<color\=#000000>a</color>mage Up=D<color\=#000000>a</color>nni Su
+Increase dmg by 5% for every stack. Stacks up to 10 times.=Aumenta i DAN del 5% per ogni accumulo. Fino a 10 accumuli.
+
+Chivalry=Galanteria
+C<color\=#000000>h</color>ivalry=G<color\=#000000>a</color>lanteria
+When an ally with low HP acts, automatically heal them.=Quando un alleato con HP bassi agisce, viene guarito automaticamente.
+
+Morgana's Favor=<size\=24>Favore di Morgana</size>
+Last skill used: <color\=#FF423F>Missile Whirlwind</color>=Ultima abilità usata: <color\=#FF423F>Turbine di Missili</color>
+Last skill used: <color\=#FF423F>Gentle Fist</color>=Ultima abilità usata: <color\=#FF423F>Pugno Delicato</color>
+Last skill used: <color\=#FF423F>Healing Breeze</color>=Ultima abilità usata: <color\=#FF423F>Brezza Curativa</color>
+
+Crimson Rosa=Rosa Cremisi
+C<color\=#000000>r</color>imson Rose=R<color\=#000000>o</color>sa Cremisi
+Increase Atk by 20%.=Aumenta l'ATT del 20%.
+
+La Vie en Rose=La Vie en Rose
+L<color\=#000000>a</color> Vie en Rose=L<color\=#000000>a</color> Vie en Rose
+Activated La Vie en Rose!=La Vie en Rose attivato!
+Increase stats and enhance skills.=Aumenta le statistiche e migliora le abilità.
+
+Passion=Passione
+P<color\=#000000>a</color>ssion=P<color\=#000000>a</color>ssione
+Passion: 0=Passione: 0
+Passion: 1=Passione: 1
+Passion: 2=Passione: 2
+Passion: 3=Passione: 3
+Passion: 4=Passione: 4
+Passion: 5=Passione: 5
+Passion: 6=Passione: 6
+Passion: 7=Passione: 7
+Passion: 8=Passione: 8
+Passion: 9=Passione: 9
+Passion: 10=Passione: 10
+
+Pulsating Rhythm=Ritmo Pulsante
+P<color\=#000000>u</color>lsating Rhythm=R<color\=#000000>i</color>tmo Pulsante
+R<color\=#000000>e</color>tro Dance Number=N<color\=#000000>u</color>mero di Danza Retrò
+C<color\=#000000>l</color>ub Okyann=C<color\=#000000>l</color>ub Okyann
+Party's damage increased!\nBonus damage to foes with elemental ailments!=Il danno del gruppo è aumentato!\nDanno bonus ai nemici con malus elementali!
+Increase Atk, Def, and ailment accuracy.=Aumenta ATT, DIF e precisione dei malus.
+Increase dmg by 10.5%. Increase effect by 1.5 times on foes with elemental ailment.=Aumenta i DAN del 10,5%. Aumenta l'effetto di 1,5 volte sui nemici con malus elementari.
+Party's stats increased!=Le statistiche del gruppo sono aumentate!
+
+Defense decreased by <color\=#72C5FF>Hunting</color>!=La difesa è diminuita da <color\=#72C5FF>Cacciatore</color>!
+
+SUPPORT PHANTOM THIEVES
+
+TOMIYAMA
+Club Okyann=Club Okyann
+Increase party's Atk by 12% of Tomiyama's Atk (max 2250) and ailment accuracy by 28.0% (1 turn).\nGain 1 Beat.=Aumenta l'ATT del gruppo del 12% dell'ATT di Tomiyama fino a un massimo di 2250, e l'accuratezza dei malus del 28,0% per 1 turno.\nOttieni 1 Battito.
+Retro Dance Number=Numero di Danza Retrò
+Restore party's SP by 16.\nGain 3 Beat.=Ripristina gli SP del gruppo di 16.\nOttieni 3 Battiti.
+Intermission=Intermezzo
+Increase party's dmg by 7.2% + 1% for every 225 of Tomiyama's Atk (max 1350, 3 turns).\nIncrease dmg to foes with elemental ailments by 1.5 times.\nGain 2 Beat.=Aumenta i DAN del gruppo del 7,2% + 1% per ogni 225 dell'ATT di Tomiyama fino a un massimo di 1350 per 3 turni.\nAumenta i DAN ai nemici con malus elementali di 1,5 volte.\nOttieni 2 Battiti.
+
+
+PHANTOM THIEVES
 
 JOKER
 

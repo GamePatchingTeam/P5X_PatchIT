@@ -125,6 +125,9 @@ Retreat is also\na valid strategy...=Anche la ritirata\nè una strategia valida.
 Someone has a status ailment!\nHelp them, quickly!=Qualcuno ha un malus!\nAiutali, svelto!
 This is a real predicament...=Siamo davvero nei guai...
 Now, while they're down!=Approfittiamone mentre sono a terra!
+Don't miss your chance\nfor a Highlight!=Non perdere l'occasione\ndi eseguire un bell'Assolo!
+A brilliant attack...!\nImpressive.=Un attacco spettacolare...! Sono colpito.
+Someone's down...\nOur strength is flagging.=Qualcuno è a terra...\nStiamo perdendo forza.
 
 LEON
 Heroes assemble! Let's move out!=Eroi uniti! In marcia!
@@ -190,3 +193,20 @@ This is a nice spot for a safe room!=È proprio un bel posto per riposarci!
 *giggle* What's inside?=*risatina* Cosa c'è dentro?
 Hey, let's take a break here.=Ehi, riposiamoci un po' qui.
 *giggle* I'm itching for action. Let's do this!=*risatina* Non vedo l'ora di mettermi in azione. Andiamo!
+
+CLEODORA
+Totally lame...\nLet's finish up quick, okay?=Uno schifo totale...\nChiudiamola in fretta, ok?
+Time for a Highlight!\nLet's get pumped!=È l'ora di un Assolo!\nDiamoci dentro!
+Way to go, Wonder!\nI'm pumped up!=Grande, Wonder!\nSono carichissima!
+Perfect dodge! De-nied!=Schivata perfetta! Ri-fiu-ta-to!
+And that's a wrap!\nThat was off the hook, guys!=Sfilata chiusa!\nSiete stati fantastici, ragazzi!
+What's wrong? Getting sleepy?=Cosa c'è che non va? Sei assonnato?
+Enemy down!\nLet's see that again!=Nemico a terra!\nFallo ancora!
+Showtime!=Si va in scena!
+Ready to roll!=Pronti a partire!
+It's super effective!=È superefficace!
+Nighty night!=Notte notte!
+Nice one, guys! Mad props.=Niente male, ragazzi! Outfit da applausi!
+Highlight, ready to go!=Assolo, pronti a partire!
+Hey, wanna see a trick?=Ehi, vuoi vedere un trucco?
+Hella fresh! Let's go, go, go!=Stilosissimo! Forza, forza, forza!

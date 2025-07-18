@@ -12,3 +12,6 @@ Unlocks at Palace Progress XXX=Sblocca al progresso del palazzo XXX
 Unlock Items=Sblocca articoli
 
 Wandering Shadow=Ombra errante
+
+Third Eye can be used in 2 seconds.=Puoi usare di nuovo il Terzo Occhio fra 2 secondi.
+Third Eye can be used in 1 seconds.=Puoi usare di nuovo il Terzo Occhio fra 1 secondo.

@@ -139,14 +139,12 @@ Yaoling Li=Yaoling Li
 Yaoling Li has joined the Phantom Thieves=Yaoling Li si è unita ai Ladri Fantasma
 Haruna Nishimori=Haruna Nishimori
 
-
 Leo=Leo
 Leo Kamiyama=Leo Kamiyama
 Leo Kamiyama has joined the Phantom Thieves=Leo Kamiyama si è unito ai Ladri Fantasma
 Leon=Leon
 Erytheia=Erytheia
 CV. Mariya Ise=VA. Mariya Ise
-
 
 Tomoko=Tomoko
 Tomoko Noge=Tomoko Noge
@@ -168,7 +166,6 @@ CV. Shino Shimoji=Cv. Shino Shimoji
 State of Selflessness=Stato di altruismo
 Frozen in Time=Congelato nel tempo
 
-
 Kiyoshi Kurotani=Kiyoshi Kurotani
 Kiyoshi Kurotani has joined the Phantom Thieves=Kiyoshi Kurotani si è unito ai Ladri Fantasma
 
@@ -178,3 +175,7 @@ Toshiya Sumi has joined the Phantom Thieves=Toshiya Sumi si è unito ai Ladri Fa
 Marian=Marian
 Marian has joined the Phantom Thieves=Marian si è unita ai Ladri Fantasma
 Thalia=Thalia
+
+Cleodora=Cleodora
+CV. Atsuko Tanaka=Cv. Atsuko Tanaka
+Kayo Tomiyama=Kayo Tomiyama

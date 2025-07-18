@@ -203,6 +203,8 @@ Saved.=Salvato.
 Copied=Copiato
 <link\="htp|https:\/\/beian.miit.gov.cn/"><u>Beijing ICP No. 2021015964-3A</u></link>=<link\="htp|https:\/\/beian.miit.gov.cn/"><u>Beijing ICP n. 2021015964-3a</u></link>
 
+You cooperated with <color\=#FFC000>Nagisa Kamisiro</color>. Send a friend request?=<size\=20>Hai collaborato con <color\=#FFC000>Nagisa Kamishiro</color>. Inviare una richiesta d'amicizia?</size>
+Message sent. Please wait for a reply.=Messaggio inviato. Attendi una risposta.
 
 Bonus!=Bonus!
 Currency=Valuta
@@ -212,6 +214,10 @@ Craft=Crea
 Overclock=Migliora
 Go=Vai
 In Progress=In corso
+Continue=Continua
+Level Up=Potenzia
+EXP+=EXP+
+N/A=N/A
 
 Explorer=Esploratore
 Revelations=Rivelazioni
@@ -227,7 +233,6 @@ Main Story=Storia principale
 Side Story=Storia secondaria
 You haven't unlocked this episode yet.=Non hai ancora sbloccato questo episodio.
 Coming Soon=Prossimamente
-Level up to unlock Revelations.=Sali di livello per sbloccare le rivelazioni.
 Sightseer=Turista
 
 

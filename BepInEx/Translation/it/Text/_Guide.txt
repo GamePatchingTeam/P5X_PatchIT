@@ -60,9 +60,11 @@ BATTLE
 This skill is unlocked at level 2.=Questa abilità si sblocca al livello 2.
 This skill is unlocked at level 4.=Questa abilità si sblocca al livello 4.
 You cannot deploy Support Phantom Thieves.=Non è possibile evocare i Ladri Fantasma di Supporto.
+You cannot use your Support Phantom Thief right now.=Non puoi usare il tuo ladro fantasma di supporto in questo momento.
 You cannot use skills while affected by Forget.=Non puoi usare le abilità mentre sei afflitto da Amnesia.
 This Phantom Thief cannot use Highlight at this time.=Questo Ladro Fantasma non può usare l'Assolo in questo momento.
 You cannot use skills while affected by a spiritual ailment.=Non puoi usare le abilità mentre sei afflitto da un malus spirituale.
+Call for <color\=#FF423F>Support</color>.=Richiedi <color\=#FF423F>Supporto</color>.
 
 All <color\=#FF423F>attacks</color> have a damage attribute.=Tutti gli <color\=#FF423F>attacchi</color> hanno un attributo di danno.
 When you see <color\=#FF423F>WEAK</color>, you can hit the enemy's weakness.=Quando vedi <color\=#FF423F>DEBOLE</color>, puoi colpire la debolezza del nemico.

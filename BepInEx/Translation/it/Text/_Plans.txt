@@ -1,0 +1,39 @@
+COMMON
+Claimed=<size\=20>Reclamato</size>
+
+Collect all rewards to unlock Plan III=Raccogli tutti i premi per sbloccare il Piano III
+
+a novice 5★ Thief of your choice!=un Ladro principiante 5★ a tua scelta!
+Clear Plan <sprite\=0 tint\=1> to obtain=Completa il Piano <sprite\=0 tint\=1> per ottenere
+Clear Step <size\=10></size><size\=42>1</size><size\=10></size> to obtain=Completa lo Step <size\=10></size><size\=42>1</size><size\=10></size> per ottenere
+Clear Step <size\=10></size><size\=42>{0}</size><size\=10></size> to obtain=Completa lo Step <size\=10></size><size\=42>{0}</size><size\=10></size> per ottenere
+Clear Step <size\=10></size><size\=42>2</size><size\=10></size> to obtain=Completa lo Step <size\=10></size><size\=42>2</size><size\=10></size> per ottenere
+
+STEP 1
+Clear 7 Step 1 missions=Completa 7 missioni dello Step 1
+Raise Wonder to Lv. 12=Porta Wonder al Liv. 12
+Witness a Phantom Thief's awakening=Assisti al risveglio di un Ladro Fantasma
+Clear Awakening of Desire in the main story=Completa Risveglio del Desiderio nella storia principale
+Raise 2 Phantom Thieves to Lv. 10=Porta 2 Ladri Fantasma al Liv. 10
+Draw 10 contracts=Firma 10 contratti
+Raise 3 Phantom Thieves to Talent Lv. 1=Porta il talento di 3 Ladri Fantasma al Liv. 1
+Raise a Phantom Thief to Lv. 20=Porta un Ladro Fantasma al Liv. 20
+Raise a Persona to Lv. 20=Porta una Persona al Liv. 20
+Clear the Realm of Repression 1 time=Completa il Regno della Repressione 1 volta
+
+
+STEP 2
+Clear 11 Step 2 missions=Completa 11 missioni dello Step 2
+Clear Realm of Repression: Gear Forging I at any difficulty=Completa Regno della Repressione: Forgiatura Ingranaggi I a qualunque difficoltà
+Enhance 3 weapons to Lv. 20=Migliora 3 armi al Liv. 20
+Raise 2 skills for 1 Phantom Thief to Lv. 2=Porta 2 abilità di 1 Ladro Fantasma al Liv. 2
+Send a friend request=Invia una richiesta di amicizia
+Change your avatar=Cambia il tuo avatar
+Raise Wonder to Lv. 20=Porta Wonder al Liv. 20
+Clear the Realm of Repression 2 times=Completa il Regno della Repressione 2 volte
+Unlock Synergy with Yaoling Li=Sblocca la Sinergia con Yaoling Li
+Clear Technician stage 1 in the Velvet Trials=Completa la Fase 1 del Tecnico nelle Prove di Velluto
+Raise 3 Phantom Thieves to Lv. 20=Porta 3 Ladri Fantasma al Liv. 20
+Reach 10% progress for the first Palace=Raggiungi i progressi del 10% nel primo palazzo
+Use 3 Action Points=Usa 3 Punti Azione
+Clear Realm of Realm of Repression: Pursuit of Honor I or higher=Completa Regno della Repressione: Ricerca dell'Onore I o superiore
