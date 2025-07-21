@@ -122,12 +122,19 @@ Knocked down!?\nHow dare you?=È a terra?!\nCome osi?
 Observe.=Ammira.
 You're back...\nLet's ready our counterattack.=Sei di nuovo in piedi!\nPrepariamoci a contrattaccare.
 Retreat is also\na valid strategy...=Anche la ritirata\nè una strategia valida...
-Someone has a status ailment!\nHelp them, quickly!=Qualcuno ha un malus!\nAiutali, svelto!
+Someone has a status ailment!\nHelp them, quickly!=Qualcuno ha un malus!\nAiutalo, svelto!
 This is a real predicament...=Siamo davvero nei guai...
 Now, while they're down!=Approfittiamone mentre sono a terra!
 Don't miss your chance\nfor a Highlight!=Non perdere l'occasione\ndi eseguire un bell'Assolo!
 A brilliant attack...!\nImpressive.=Un attacco spettacolare...! Sono colpito.
 Someone's down...\nOur strength is flagging.=Qualcuno è a terra...\nStiamo perdendo forza.
+Come on. And stay sharp!=Forza! E sii cauto!
+An ally is down,\nwe need assistance!=Un alleato è a terra,\nabbiamo bisogno di assistenza!
+Your skill is commendable!=La tua abilità è lodevole!
+
+CLOSER
+Okay, so we go straight for a while this way...\nthen turn left... it should be around there? Follow me!=Ok, allora... si va dritto per un po'... poi si gira a sinistra... che sia lì intorno? Seguimi!
+We're here!=Quaggiù!
 
 LEON
 Heroes assemble! Let's move out!=Eroi uniti! In marcia!
@@ -210,3 +217,5 @@ Nice one, guys! Mad props.=Niente male, ragazzi! Outfit da applausi!
 Highlight, ready to go!=Assolo, pronti a partire!
 Hey, wanna see a trick?=Ehi, vuoi vedere un trucco?
 Hella fresh! Let's go, go, go!=Stilosissimo! Forza, forza, forza!
+You missed? Say what?=L'hai mancato? Che cosa?
+Yikes! They got us!=Iiiih! Ci hanno colpiti!

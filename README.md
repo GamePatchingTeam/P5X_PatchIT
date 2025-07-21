@@ -1,9 +1,9 @@
 # P5X Patch IT - Traduzione Italiana by GamePatchingItaly 2025
 Traduzione Italiana del gioco **Persona 5: Phantom X**.
 
-**Ultima modifica:** 18/07/2025
+**Ultima modifica:** 21/07/2025
 
-**Build:** 18/07/2025-Build2
+**Build:** 21/07/2025-Build1
 
 **Versione BepInEx:** 5.4.22
 

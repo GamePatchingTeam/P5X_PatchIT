@@ -1,0 +1,16 @@
+COMMON
+The preset wasn't changed. It was switched to loungewear.=Il preset non è stato cambiato. Era passato a Loungewear.
+
+CATEGORIES
+School Outfit=Outfit Scolastico
+Athleisure Outfit=Outfit Atletico
+School Uniform=Uniforme Scolastica
+Blue Town Outfit=Outfit Blu da Città
+Gloves=Guanti
+Bags=Borse
+Shoes=Scarpe
+Bottoms=Pantaloni
+Tops=Magliette
+Sets=Set
+Protagonist=Protagonista
+Unknown Weapon=Arma Sconosciuta

@@ -20,6 +20,13 @@ Press the <color\=#FF423F>left</color> <size\=56>ብ</size> to show the cursor.=
 Open the <color\=#FF423F>Metaverse Navigator</color>.=Apri il <color\=#FF423F>Navigatore del Metaverso</color>.
 Explore <color\=#FF423F>Mementos</color>.=Esplora i <color\=#FF423F>Memento</color>.
 Press <color\=#FF423F>Go</color>.=Premi <color\=#FF423F>Vai</color>.
+Press the mission to show your <color\=#FF423F>current objective on the map</color>.=Clicca la missione per vedere il tuo <color\=#FF423F>obiettivo attuale sulla mappa</color>.
+Open the <color\=#FF423F>phone menu</color>.=Apri il <color\=#FF423F>menu del telefono</color>.
+Select <color\=#FF423F>Thieves</color>.=Seleziona <color\=#FF423F>Ladri</color>.
+Select <color\=#FF423F>Weapon</color>.=Seleziona <color\=#FF423F>Arma</color>.
+Select a <color\=#FF423F>weapon</color> with a high rarity.=Seleziona un'<color\=#FF423F>arma</color> di alta rarità.
+Select <color\=#FF423F>Change</color>.\n<color\=#FF423F>Swapped weapons keep the previous weapon's level</color>.=Seleziona <color\=#FF423F>Cambia</color>.\n<color\=#FF423F>Le armi scambiate mantengono il livello dell'arma precedente</color>.
+You can obtain weapons from <color\=#FF423F>Arms Deals</color>.=Puoi ottenere armi dagli <color\=#FF423F>Affari d'Armi</color>.
 
 SHIBUYA
 
@@ -30,8 +37,8 @@ GACHA MACHINE
 
 Tap the capsule machine to obtain a capsule.=Tocca il distributore per ottenere una capsula.
 Select the <color\=#FF423F>capsule machine</color>.=Seleziona il <color\=#FF423F>distributore</color>.
-<color\=#FF423F>Turn the knob</color>.=<color\=#FF423F>Gira la manopola</color>.
 Draw 1=<size\=30>1 Tentativo</size>
+<color\=#FF423F>Turn the knob</color>.=<color\=#FF423F>Gira la manopola</color>.
 Draw 5=<size\=30>5 Tentativi</size>
 Tap screen to open.=Tocca per aprire.
 Slide to rotate.=Scorri per ruotare.

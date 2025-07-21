@@ -85,7 +85,7 @@ Gold Parts=Parti d'Oro
 Skill Incense S=Incenso Abilità S
 Legend Cube=Cubo Leggenda
 Purple Crystal=Cristallo Viola
-Can overclock a level 30 - 50 weapon.=Può migliorare un'arma di livello\n30 - 50.
+Can overclock a level 30 - 50 weapon.=Può overcloccare un'arma di livello\n30 - 50.
 Craft at the Workbench=Crea sul Tavolo da lavoro
 Gear Forging Challenge=Sfida Forgiatura Ingranaggi
 
@@ -427,6 +427,10 @@ Emerald Charmer=Incantatrice Smeraldo
 Sunstaff=Bastone Solare
 Chirpy Pickaxe=Piccone Cinguettante
 Masquerade Ribbon=Nastro da Mascherata
+
+Midnight Sun=Sole di Mezzanotte
+[Upward Shift]=[Shift verso l'alto]
+Increase Attack by <color\=#2899FF>12.0%</color>. Increase Attack by <color\=#2899FF>6.4%</color> more and double this effect after changing Personas for 1 turn.=Aumentare l'attacco di <color\=#2899FF>12.0%</color>. Aumentare l'attacco di <color\=#2899FF>6.4%</color> Più e raddoppia questo effetto dopo aver cambiato persona per 1 turno.
 
 
 GIFT SETS

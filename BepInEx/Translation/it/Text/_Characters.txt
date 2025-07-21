@@ -102,5 +102,10 @@ Head Coach=Capo allenatore
 Shadow=Ombra
 Takeyuki Kiuchi?=Takeyuki Kiuchi?
 Shadow Kiuchi=Ombra di Kiuchi
+
+Surly Manager=Manager scontroso
+
+
+
 Mr. Nagara=Prof. Nagara
 Ms. Taniyama=Prof.ssa Taniyama

@@ -1,0 +1,4 @@
+Forge Details=Dettagli Arma
+Armory=Arsenale
+Change=Cambia
+Swapped weapons keep the previous weapon's level.=Le armi scambiate mantengono il livello dell'arma precedente.

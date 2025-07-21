@@ -100,6 +100,9 @@ CONTENT
 Content=Contenuto
 In the <color\=#FF423F>Realm of Repression</color>, you can earn Personas and materials necessary for training.=Nel <color\=#FF423F>Regno della Repressione</color>, puoi ottenere Personae e materiali per il potenziamento.
 
+Arms Deals=Affari d'Armi
+<color\=#FF423F>Arms Deals</color> can be made with Platinum Milicoins.\nFor more details, check the <color\=#FF423F>Info</color> for each Arms Deal.=<color\=#FF423F>Affari d'Armi</color> può essere realizzato con miicoli di platino. Per maggiori dettagli, controlla il file <color\=#FF423F>Informazioni</color> Per ogni affare di armi.
+
 CITY LIFE
 Synergy=Sinergia
 When you form a bond with someone whose desires resonate with your own, the resulting connection is known as <color\=#FF423F>Synergy</color>.\nComplete certain missions with your accomplices to deepen your Synergy bonds with them.=Quando crei un legame con qualcuno i cui desideri risuonano con i tuoi, la connessione risultante è nota come <color\=#FF423F>Sinergia</color>. Completa alcune missioni con i tuoi confidenti per rafforzare i tuoi legami sinergici con loro.

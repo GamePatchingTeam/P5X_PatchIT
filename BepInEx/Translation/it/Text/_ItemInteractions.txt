@@ -26,7 +26,7 @@ G<color\=#ff0000ff>o</color> to 3F=V<color\=#ff0000ff>a</color>i al P3
 FLOOR 1
 
 C<color\=#ff0000ff>h</color>ange your shoes=C<color\=#ff0000ff>a</color>mbiati le scarpe
-G<color\=#ff0000ff>o</color> to the practice building=2V<color\=#ff0000ff>a</color>i all'edificio delle attività
+G<color\=#ff0000ff>o</color> to the practice building=V<color\=#ff0000ff>a</color>i all'edificio delle attività
 G<color\=#ff0000ff>o</color> to the classroom building=V<color\=#ff0000ff>a</color>i all'edificio scolastico
 L<color\=#ff0000ff>e</color>ave the school=E<color\=#ff0000ff>s</color>ci da scuola
 S<color\=#ff0000ff>c</color>hool Store=N<color\=#ff0000ff>e</color>gozio scolastico
@@ -152,6 +152,9 @@ D<color\=#ff0000ff>i</color>scount Store=D<color\=#ff0000ff>i</color>scount
 B<color\=#ff0000ff>u</color>rger Shop=B<color\=#ff0000ff>u</color>rger Shop
 G<color\=#ff0000ff>y</color>m=P<color\=#ff0000ff>a</color>lestra
 I can hear someone\npassionately shouting,\n"Listen to your muscles!"=Riesco a sentire qualcuno\nche grida appassionatamente:\n"Ascolta i tuoi muscoli!"
+
+M<color\=#ff0000ff>o</color>toha Arai=M<color\=#ff0000ff>o</color>toha Arai
+A<color\=#ff0000ff>i</color>rsoft Shop=N<color\=#ff0000ff>e</color>gozio softair
 
 ZOSHIGAYA
 

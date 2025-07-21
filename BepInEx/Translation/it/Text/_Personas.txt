@@ -59,10 +59,13 @@ Oberon=Oberon
 Nebiros=Nebiro
 Oni=Oni
 Yaksini=Yaksini
+Matador=Matador
+Yurlungur=Yurlungur
+Titania=Titania
 
 
 Trait Up=Tratto
-Overclock=Migliora
+Overclock=Overclock
 Enhancement complete.=Miglioramento completato.
 
 No Skills Equipped=<size\=22>Nessuna abilità equipaggiata</size>
@@ -99,14 +102,6 @@ Restore 2.5% of max HP and SP after winning a battle.=Ripristina il 2,5% degli H
 
 
 AWILDA
-Wrathful Thunder=Tuono Furioso
-Elec dmg to random foes (50.3% of Atk, 4 hits).\nFrom second attack, prioritize targeting different foes and decrease dmg by 10% for repeated hits on same foe.\nInflict Shock on main target.=Infligge DAN elettrico a nemici casuali (50,3% ATT, 4 colpi). Dal secondo colpo in poi, dà priorità a bersagli diversi e riduce il danno del 10% se colpisce lo stesso nemico più volte. Infligge Paralisi al bersaglio principale.
-
-Blitz Mine=Mina Blitz
-Elec dmg to 1 foe (103.0% of Atk). Increase party's Elec dmg by 7.7% (2 turns).=Infligge DAN elettrico a 1 nemico (103,0% ATT). Aumenta il danno elettrico inflitto dal gruppo del 7,7% per 2 turni.
-
-Elec dmg to all foes (52.0% of Atk).\nIf foe is Shocked, activate Technical and deal bonus Elec dmg (28.0% of Atk).=Infligge DAN elettrico a tutti i nemici (52,0% ATT). Se il nemico è sotto effetto di Paralisi, attiva il Danno Tecnico e infligge un danno bonus elettrico (28,0% ATT).
-Electroshark=Elettrosqualo
 
 
 
@@ -151,5 +146,29 @@ Restore HP (14.3% of Minami's max HP + 654) and cure 2 debuffs on target and all
 Nurse's Light=Luce dell'Infermiera
 Spend all Diagnosis, and restore HP (12.9% of Minami's max HP + 592) of target and ally with lowest HP (2 times).\nFor each Diagnosis, activate this effect 1 more time.\nFor each Diagnosis spent, increase the max HP of allies (other than Minami) by 7.5% of Minami's max HP (max 562, 2 turns).=Spende tutte le Diagnosi e ripristina gli HP (12,9% HP Max + 592) del bersaglio e dell'alleato con gli HP più bassi per 2 volte. Per ogni diagnosi, attiva questo effetto 1 più tempo.\nPer ogni Diagnosi spesa, aumenta gli HP massimi degli alleati (diversi da Minami) del 7,5% dei HP massimi di Minami (max 562, 2 turni).
 
+MANDRINO
 
+Icicle Hatchet=Hatchet Icicle
+Deal Ice damage to 1 foe equal to 52.4% of Shun's max HP. 70% chance to inflict Freeze.=Infligge danni da ghiaccio a 1 nemico pari al 52,4% degli HP massimi di Shun. Ha il 70% di probabilità di infliggere Congelamento.
+Smash Hit=Colpo Esplosivo
+Phys dmg to 1 foe equal to 53.6% of Shun's max HP and decrease Def (2 turns).\nWith Desperado, decrease Def 28.2%.=Infligge DAN fisici a 1 nemico pari al 53,6% degli HP massimi di Shun e diminuisce la DIF per 2 turni.\nCon Desperado, diminuisce la DIF di 28,2%.
+Icy Defense=Difesa Ghiacciata
+Increase party's max HP by 15% of Shun's max HP (up to 12000) and restore party's HP by 15.5% of Shun's max HP. Greatly increase Shun's chance of being targeted by attacks for 2 turns.=Aumenta il gli HP massimi del gruppo del 15% degli HP massimi di Shun fino a 12000, e ripristina gli HP del gruppo del 15,5% degli HP massimi di Shun. Aumenta notevolmente per 2 turni la possibilità di Shun di essere preso di mira dagli attacchi.
+
+APSEUDES
+Electric Bomb=Bomba Elettrica
+Elec dmg to 1 foe (174.8% of Atk). If foe is not Shocked, 64.4% chance to inflict Shock (2 turns).\nIf foe is Shocked, increase dmg by 30%.=Infligge DAN elettrici a 1 nemico (174,8% ATT). Se il nemico non è scioccato, il 64,4% di probabilità di infliggere shock (2 turni). Se il nemico è scioccato, aumentare il DMG del 30%.
+Meta Dynamite=Meta Dinamite
+Elec dmg to all foes (56.2% of Atk). Increase dmg to main target by 25%.=Infligge DAN elettrici a tutti i nemici (56,2% ATT). Aumenta DAN al bersaglio principale del 25%.
+Sparky Surprise=Sparky Surprise
+Grant Player 2 to 1 ally and increase Yui's Atk by 36.8% (2 turns).\nWhen an ally with Player 2 deals dmg to a foe with a skill, perform a follow-up attack, dealing Elec dmg (125.3% of Atk) up to 2 times (2 turns).\nIncrease chance to activate Jolly Cooperation by 10% (2 turns).=
+Fornisce Player 2 a 1 alleato e aumenta l'ATT di Yui del 36,8% per 2 turni.\nQuando un alleato con il giocatore 2 tratta DMG a un nemico con un'abilità, eseguire un attacco di follow-up, trattando DAN elettrici (125,3% ATT) fino a 2 volte per 2 turni. Aumenta la possibilità di attivare la cooperazione allegra del 10% per 2 turni.
+
+Player 2=Giocatore 2
+P<color\=#000000>l</color>ayer 2=G<color\=#000000>i</color>ocatore 2
+Sparky Surprise=Scossa a Sorpresa
+S<color\=#000000>p</color>arky Surprise=S<color\=#000000>c</color>ossa a Sorpresa
+When ally with Player 2 deals dmg with skill, Yui performs follow-up attack.=Quando Ally con il giocatore 2 tratta DMG con abilità, Yui esegue un attacco di follow-up.
+Player 2=Giocatore 2
+Number of Shocked foes.=Numero di nemici paralizzati.
 

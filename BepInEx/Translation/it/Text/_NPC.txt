@@ -22,6 +22,9 @@ Long-<color\=#ff0000ff>H</color>aired Female Student=Stude<color\=#ff0000ff>n</c
 G<color\=#ff0000ff>i</color>rl Named Tanemura=R<color\=#ff0000ff>a</color>gazza di nome Tanemura
 
 E<color\=#ff0000ff>c</color>static Girl=R<color\=#ff0000ff>a</color>gazza entusiasta
+I'm worried about Riko-senpai... What if she\nwas attacked on the subway and injured?=Sono preoccupata per Riko...\nE se fosse stata attaccata in metropolitana?
+Don't worry, Riko-senpai could incinerate\nthat Subway Slammer with her majestic aura!=Non preoccuparti, Riko potrebbe incenerire quel\nFlagello della Metro con la sua aura maestosa!
+
 J<color\=#ff0000ff>e</color>alous Girl=R<color\=#ff0000ff>a</color>gazza gelosa
 I saw Tanemura-senpai in the cafeteria\nduring lunch today! She was looking cool as always!=Oggi ho visto Tanemura-senpai in mensa\ndurante la pausa pranzo!\nEra fighissima come sempre!
 Wow, lucky! I wish I'd gone with you!=Wow che fortuna! Vorrei essere andata con te!
@@ -76,7 +79,14 @@ It's always college this, career that...\nWhatever. I'm not interested in any of
 Yeah, me neither.=Sì, anche a me.
 Huh, well then, wanna just go hang out in Shibuya?=Ah ottimo, allora ti va di farci\nun giro a Shibuya?
 
+If I ever find that Slammer, I'll punch his\nlights out! What kind of creep targets girls\nlike that!?=Se trovo quel Flagello, gli do un pugno così\nforte che se lo ricorderà a vita! Che razza di\nmalato prende di mira delle ragazze indifese?!
+Yeah, what a scumbag. I'll cheer you on!=Sì, che feccia. Faccio il tifo per te!
+Wait... You wouldn't help me fight him?=Aspetta... non mi aiuteresti a combatterlo?
+I'd... call the police for you...?=Ehm... chiamerei la polizia per te...?
+
 D<color\=#ff0000ff>e</color>pressed Boy=R<color\=#ff0000ff>a</color>gazzo depresso
+I wonder how Tomoko's recuperating...\nWe should go visit her!=Mi chiedo come stia Tomoko...\nDovremmo andare a trovarla!
+Some guys she's never met showing up at her\nbedside? That'd probably terrify her, man.=Alcuni ragazzi che non ha mai visto che si\npresentano al suo capezzale? Probabilmente morirebbe dalla paura amico.
 L<color\=#ff0000ff>i</color>stless Boy=R<color\=#ff0000ff>a</color>gazzo apatico
 I'm not up for doing club stuff today...=Non mi va di partecipare alle\nattività del club oggi...
 Yeah, me neither. Maybe I'll skip.=A chi lo dici... credo che le salterò.
@@ -131,10 +141,20 @@ L<color\=#ff0000ff>a</color>nguid Doctor=D<color\=#ff0000ff>o</color>ttoressa sv
 We don't take patients without reason. Please\ncome back only if you're feeling unwell.=Non accettiamo pazienti senza motivo.\nPer favore, torna solo quando ti\nsentirai davvero male.
 
 W<color\=#ff0000ff>h</color>ispering Students=S<color\=#ff0000ff>t</color>udenti che sussurrano
+I wonder how Tomoko is doing...\nI hope she's feeling better.=Mi chiedo come stia Tomoko...\nSpero si senta meglio.
+Huh, hang on a sec... Are you into her?=Eh, aspetta un secondo...\nNon avrai mica una cotta per lei!
+Don't make it weird! After what happened to\nher, any normal person would be curious.=Non capire male! Dopo quello che le è successo, chiunque sarebbe in pensiero.
+
 L<color\=#ff0000ff>o</color>udly Arguing Student=S<color\=#ff0000ff>t</color>udente alterato
 C<color\=#ff0000ff>a</color>utious Student=S<color\=#ff0000ff>t</color>udente prudente
-It's so annoying when the train's late...\nHaving to get the late train slip and\neverything is such a hassle.=È così fastidioso quando il treno ritarda...\ndover chiedere il certificato di ritardo\ne tutto il resto è una vera seccatura.”.
-Yeah, I don't wanna deal with any of that.\nThat's why I leave the house early.=Sì, non voglio averne assolutamente a che fare.\nEcco perché esco di casa presto.
+It's so annoying when the train's late...\nHaving to get the late train slip and\neverything is such a hassle.=È così fastidioso quando il treno ritarda...\ndover chiedere il certificato di ritardo\ne tutto il resto è una vera seccatura.
+Yeah, I don't wanna deal with any of that.\nThat's why I leave the house early.=Sì, non voglio averci assolutamente a che fare.\nEcco perché esco sempre di casa presto.
+Seriously? Wow, how do you even do that?\nI'm always sleeping in right 'til the last\nsecond.=Sul serio? Wow, come fai?\nIo mi riduco sempre all'ultimo minuto.
+
+
+
+
+
 
 S<color\=#ff0000ff>l</color>ightly Tired Student=S<color\=#ff0000ff>t</color>udente molto stanco
 I stayed up way too late last night. I can barely keep my eyes open...=Sono stata sveglia fino a tardi la scorsa notte. Riesco a malapena a tenere gli occhi aperti...
@@ -232,6 +252,12 @@ Better try another game then, I guess.=Meglio provare un altro gioco allora.
 M<color\=#ff0000ff>e</color>rope=M<color\=#ff0000ff>e</color>rope
 Good day.=Buona giornata.
 
+M<color\=#ff0000ff>o</color>toha Arai=M<color\=#ff0000ff>o</color>toha Arai
+This is the place. Let's head in.=Questo è il posto. Forza entriamo.
+
+M<color\=#ff0000ff>u</color>nehisa Iwai=M<color\=#ff0000ff>u</color>nehisa Iwai
+Oh, it's you... What'll it be today?=Oh, sei tu... Che ti serve?
+Let's see...=Vediamo...
 
 ZOSHIGAYA
 

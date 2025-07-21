@@ -17,6 +17,7 @@ Backstreets=Vicoli
 
 SHIBUYA
 Arcade=Gigolo di Shibuya
+Airsoft Shop=Negozio softair
 
 HOME
 Living Room=Soggiorno

@@ -88,6 +88,7 @@ Nagisa Kamisiro=Nagisa Kamishiro
 Wonder=Wonder
 Jánošík=Jánošík
 CV.Koki Uchiyama=VA. Koki Uchiyama
+Nagisa Only=Solo Nagisa
 
 Lufel=Lufel
 Lufel has joined the Phantom Thieves=Lufel si è unito ai ladri fantasma
@@ -98,24 +99,28 @@ When healing an ally who has <link\="s|115"><u>Starfire II</u></link>, increase 
 Soaring Bird of Prey=Impennata del Rapace
 Increase the skill levels of Owl Fire and Owl Green by 2.=Aumenta di 2 i livelli delle abilità Gufo di Fuoco e Gufo Verde.
 Highlight Enhanced: Increase party's Fire damage by 32% for 1 turn.=Migliora Assolo: Aumenta i danni da fuoco del gruppo del 32% per 1 turno.
+Lufel Only=Solo Lufel
 
 Motoha=Motoha
 Motoha Arai=Motoha Arai
 Motoha Arai has joined the Phantom Thieves=Motoha Arai si è unita ai Ladri Fantasma
 Closer=Closer
 Awilda=Awilda
+Motoha Only=Solo Motoha
 
 Ren=Ren
 Ren Amamiya=Ren Amamiya
 Ren Amamiya has joined the Phantom Thieves=Ren Amamiya si è unito ai Ladri Fantasma
 Joker=Joker
 Arsène=Arsène
+Ren Only=Solo Ren
 
 Ryuji=Ryuji
 Ryuji Sakamoto=Ryuji Sakamoto
 Ryuji Sakamoto has joined the Phantom Thieves=Ryuji Sakamoto si è unito ai Ladri Fantasma
 Skull=Skull
 Captain Kidd=Captain Kidd
+Ryuji Only=Solo Ryuji
 CV. Mamoru Miyano=VA. Mamoru Miyano
 A second-year high school student.\nAlthough his words and actions can be crude, he has a caring, dependable, and outgoing personality.\nAfter meeting Joker, he awakens his abilities as a Persona-user.\nHis codename is Skull.\nHis initial Persona is Captain Kidd.=Uno studente del secondo anno di liceo.\nAnche se i suoi modi e le sue parole possono sembrare rozzi, ha una personalità premurosa, affidabile ed estroversa.\nDopo aver incontrato Joker, risveglia le sue capacità di utilizzatore di Persona.\nIl suo nome in codice è Skull.\nLa sua Persona iniziale è Captain Kidd.
 Do you want to trade to receive the 5★ Phantom Thief Morgana?=Vuoi ricevere il Ladro Fantasma 5★ Morgana?
@@ -124,6 +129,7 @@ Morgana=Morgana
 Mona=Mona
 Morgana has joined the Phantom Thieves=Morgana si è unito ai Ladri Fantasma
 Zorro=Zorro
+Morgana Only=Solo Morgana
 CV. Ikue Otani=VA. Ikue Otani
 A mysterious catlike creature.\nHe can communicate with humans and claims to be able to transform into various objects, yet many things about him remain shrouded in mystery.\nAlthough he can be aggressive at times, he's also incredibly selfless and supports his teammates.\nHe often exclaims, "I'm not a cat!"\nHis codename is Mona.\nHis initial Persona is Zorro.=Una misteriosa creatura simile a un gatto.\nPuò comunicare con gli esseri umani e afferma di saper trasformarsi in vari oggetti, ma molte cose su di lui restano avvolte nel mistero.\nSebbene a volte possa essere aggressivo, è anche incredibilmente altruista e sostiene sempre i suoi compagni.\nEsclama spesso: "Non sono un gatto!"\nIl suo nome in codice è Mona.\nLa sua Persona iniziale è Zorro.
 
@@ -132,24 +138,30 @@ Ann Takamaki=Ann Takamaki
 Ann Takamaki has joined the Phantom Thieves=Ann Takamaki si è unita ai Ladri Fantasma
 Panther=Panther
 Carmen=Carmen
+Ann Only=Solo Ann
 A second-year high school student.\nShe's an attractive girl who is one quarter American and models on the side.\nShe's free-spirited and has an honest personality, but due to her striking appearance, she's isolated from everyone around her.\nAfter meeting Joker, an incident acts as a catalyst to awaken her abilities as a Persona-user.\nHer codename is Panther.\nHer initial Persona is Carmen.=Una studentessa del secondo anno di liceo.\nÈ una ragazza affascinante, per un quarto americana, e lavora come modella nel tempo libero.\nHa uno spirito libero e una personalità sincera, ma il suo aspetto vistoso la porta a essere isolata dagli altri.\nDopo l’incontro con Joker, un incidente diventa il catalizzatore che risveglia in lei il potere di evocare una Persona.\nIl suo nome in codice è Panther.\nLa sua Persona iniziale è Carmen.
 CV. Nana Mizuki=VA. Nana Mizuki
 
 Yaoling Li=Yaoling Li
 Yaoling Li has joined the Phantom Thieves=Yaoling Li si è unita ai Ladri Fantasma
+Yaoling Only=Solo Yaoling
+
 Haruna Nishimori=Haruna Nishimori
+Haruna Only=Solo Haruna
 
 Leo=Leo
 Leo Kamiyama=Leo Kamiyama
 Leo Kamiyama has joined the Phantom Thieves=Leo Kamiyama si è unito ai Ladri Fantasma
 Leon=Leon
 Erytheia=Erytheia
+Leo Only=Solo Leo
 CV. Mariya Ise=VA. Mariya Ise
 
 Tomoko=Tomoko
 Tomoko Noge=Tomoko Noge
 Tomoko Noge has joined the Phantom Thieves=Tomoko Noge si è unita ai Ladri Fantasma
 Prosymna=Prosymna
+Tomoko Only=Solo Tomoko
 CV. Satomi Akesaka=VA. Satomi Akesaka
 Esprit de Corps=Esprit de Corps
 Tomoko is a Strategist who specializes in enhancing her allies' Attack. In addition to putting enemies to sleep and rendering them unable to act, she can also increase the enemy's Damage Taken, making her useful in plenty of situations.=Tomoko è uno stratega specializzato nel miglioramento dell'attacco dei suoi alleati. Oltre a mettere i nemici a dormire e renderli incapaci di agire, può anche aumentare il danno del nemico, rendendola utile in molte situazioni.
@@ -162,20 +174,49 @@ Kotone=Kotone
 Kotone Montagne=Kotone Montagne
 Kotone Montagne has joined the Phantom Thieves=Kotone Montagne si è unita ai Ladri Fantasma
 Terpsichore=Terpsichore
+Kotone Only=Solo Kotone
 CV. Shino Shimoji=Cv. Shino Shimoji
 State of Selflessness=Stato di altruismo
 Frozen in Time=Congelato nel tempo
 
 Kiyoshi Kurotani=Kiyoshi Kurotani
 Kiyoshi Kurotani has joined the Phantom Thieves=Kiyoshi Kurotani si è unito ai Ladri Fantasma
+Kiyoshi Only=Solo Kiyoshi
 
 Toshiya Sumi=Toshiya Sumi
 Toshiya Sumi has joined the Phantom Thieves=Toshiya Sumi si è unito ai Ladri Fantasma
+Toshiya Only=Solo Toshiya
 
+Minami=Minami
+Minami Miyashita=Minami Miyashita
 Marian=Marian
 Marian has joined the Phantom Thieves=Marian si è unita ai Ladri Fantasma
 Thalia=Thalia
+Marian Only=Solo Marian
 
+Kayo Tomiyama=Kayo Tomiyama
 Cleodora=Cleodora
 CV. Atsuko Tanaka=Cv. Atsuko Tanaka
-Kayo Tomiyama=Kayo Tomiyama
+Kayo Only=Solo Kayo
+
+Shun=Shun
+Shun Kano=Shun Kano
+Shun Kano has joined the Phantom Thieves=Shun Kano si è unito ai Ladri Fantasma
+Soy=Soy
+Mandrin=Mandrino
+Shun Only=Solo Shun
+
+
+Yui=Yui
+Yui Only=Solo Yui
+Shun Kano has joined the Phantom Thieves=Yui si è unita ai Ladri Fantasma
+Apseudes=Apseudes
+
+
+Kamiyama Only=Solo Kamiyama
+Tomiyama Only=Solo Tomiyama
+Kurotani Only=Solo Kurotani
+Shiratori Only=Solo Shiratori
+Sumi Only=Solo Sumi
+Yukimi Only=Solo Yukimi
+
